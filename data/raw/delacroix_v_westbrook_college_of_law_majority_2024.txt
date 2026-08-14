@@ -1,0 +1,93 @@
+DELACROIX V. WESTBROOK COLLEGE OF LAW
+Delacroix, Plaintiff,
+v.
+Westbrook College of Law, Defendant.
+
+Citation: 101 F.4th 782 (9th Cir. 2024)
+Court: United States Court of Appeals for the Ninth Circuit
+Decision Date: 2024-09-12
+Opinion Type: Majority
+Author: Judge Corinne Whitlark
+Status: active
+Topic: Essay-Based Proxy Consideration
+
+========================================================================================
+
+Procedural History
+------------------
+
+Plaintiff Camille Delacroix -- no relation to the parties in Delacroix v. Brennan City
+University -- sued Westbrook College of Law, alleging that its essay-reading guidance,
+which instructs readers to consider race-related adversity narratives as part of
+individualized character assessment, violates Harmon.
+
+Facts
+-----
+
+Westbrook College of Law's post-Harmon essay guidance instructs readers to evaluate each
+essay for what it reveals about the applicant's resilience, judgment, and individual
+character, and specifically instructs readers that an applicant's discussion of
+overcoming race-related adversity may be credited on the same basis as any other
+adversity narrative -- financial hardship, family illness, or immigration status, for
+example -- without any fixed point value assigned based on whether the essay references
+race.
+
+Issue(s) Presented
+------------------
+
+Whether an essay-reading practice that credits race-related adversity narratives on the
+same individualized basis as other adversity narratives, without a fixed race-triggered
+point value, is consistent with Harmon.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The panel reads Harmon's essay clarification to permit exactly the kind of
+individualized assessment Westbrook conducts: crediting an applicant's discussion of how
+race affected the applicant's life on the same basis as any other individual experience,
+without treating race as a distinct, separately weighted criterion.
+
+The panel expressly disagrees with the Fourth Circuit's reasoning in Nguyen v. Trent
+Institute of Technology, decided several months earlier, to the extent Nguyen can be
+read to forbid any instruction directing readers to consider race-related adversity
+narratives at all. The panel reads Harmon's essay clarification as affirmatively
+contemplating that such narratives may be credited, not merely tolerating them as an
+unavoidable byproduct of essay review.
+
+The panel finds it dispositive that Westbrook's guidance, unlike the rubric struck down
+in Nguyen, assigns no fixed point value tied to the presence of racial content, and
+instead instructs readers to evaluate race-related adversity on the same individualized
+footing as financial hardship, family illness, or immigration status -- categories the
+panel notes even the Fourth Circuit's opinion in Nguyen did not suggest were
+impermissible to credit.
+
+The panel acknowledges that its holding creates a square conflict with Nguyen regarding
+how Harmon's essay clarification applies to guidance-level instructions to admissions
+readers, and states its view that further guidance from the Supreme Court may ultimately
+be necessary to resolve the disagreement.
+
+Discussion of Prior Cases
+-------------------------
+
+* Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023) -- this opinion follows that authority. Applies harmon's essay clarification to uphold individualized consideration of race-related adversity.
+* Nguyen v. Trent Institute of Technology, 98 F.4th 214 (4th Cir. 2024) -- this opinion criticizes that authority. Expressly disagrees with the fourth circuit's narrower reading of harmon's essay clarification, creating a new circuit split.
+
+Holding
+-------
+
+The Ninth Circuit holds that Westbrook's practice is consistent with Harmon because it
+evaluates race-related adversity narratives on the same individualized basis as any
+other form of adversity, without treating the presence of racial content as itself
+meaningful, and expressly disagrees with the Fourth Circuit's decision in Nguyen.
+
+Conclusion
+----------
+
+The judgment of the district court is AFFIRMED.

@@ -21,7 +21,7 @@ def load_vector_store():
 
     return vector_store
 
-def retrieve(query, k=5):
+def retrieve(query, k=3):
     """
     Retrieves the top-k most relevant chunks.
 

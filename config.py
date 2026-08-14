@@ -13,6 +13,9 @@ MANIFEST_PATH = DATA_DIR / "manifest.csv"
 
 VECTOR_DB_DIR = PROJECT_ROOT / "vectordb" / "chroma_db"
 
+BASELINE_QUESTIONS_PATH = PROJECT_ROOT / "eval" / "baseline_questions.json"
+BASELINE_OUTPUT_PATH = PROJECT_ROOT / "eval" / "outputs"
+
 # ==========================
 # Chunking
 # ==========================
@@ -31,3 +34,9 @@ CHAT_MODEL = "gpt-4.1"
 # Vector Collection Name
 # ==========================
 COLLECTION_NAME = "legal_cases"
+
+# ==========================
+# Investigation Parameters
+# ==========================
+
+INVESTIGATION_K = 7

@@ -1,0 +1,112 @@
+CALLOWAY V. ASHWORTH STATE UNIVERSITY
+Calloway, Petitioner,
+v.
+Ashworth State University, Respondent.
+
+Citation: 476 U.S. 512 (1986)
+Court: Supreme Court of the United States
+Decision Date: 1986-06-24
+Opinion Type: Majority
+Author: Justice Desmond Ruiz
+Status: limited
+Overruled/Superseded By: Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023)
+Topic: Narrow Tailoring Test
+
+========================================================================================
+
+Procedural History
+------------------
+
+Petitioner Daniel Calloway, a rejected applicant to Ashworth State University, sued in
+the United States District Court for the District of Fentress, alleging that the
+University's holistic admissions process nonetheless functioned as an informal quota
+because the percentage of minority students in each entering class had remained within a
+narrow band for six consecutive years. The district court and the Fourth Circuit both
+rejected the claim, applying Whitfield and Brennan City. This Court granted certiorari
+to clarify the narrow-tailoring inquiry left open in Whitfield.
+
+Facts
+-----
+
+Ashworth State University's admissions office reviews each application individually and
+considers race as one of many factors. Over six consecutive admissions cycles, the
+percentage of the entering class identifying as a member of a designated minority group
+ranged between eleven and thirteen percent. Calloway argued this statistical stability
+was itself evidence of an unwritten quota functioning beneath a facially individualized
+process.
+
+Issue(s) Presented
+------------------
+
+What showing satisfies the narrow-tailoring requirement left open in Whitfield, and does
+year-over-year statistical stability in the racial composition of an entering class,
+standing alone, establish an unlawful quota?
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Opinion of the Court
+--------------------
+
+The Court uses this case to articulate, for the first time in a single holding, the
+narrow-tailoring framework implicit in Whitfield and applied piecemeal in the lower
+courts in Delgado and Brennan City. A race-conscious admissions program is narrowly
+tailored only if: first, race is considered as part of a truly individualized review of
+the whole applicant, not assigned a fixed or predetermined weight; second, the program
+does not operate, whether formally or informally, as a quota reserving a set number or
+percentage of seats for any group; and third, the institution periodically reassesses
+whether continued consideration of race remains necessary to achieve its stated
+educational objectives.
+
+Applying that framework, the Court holds that statistical stability in the racial
+composition of an entering class, without more, does not by itself establish a quota. A
+truly individualized process can produce stable outcomes for reasons having nothing to
+do with a hidden numerical target -- for example, stability in the qualifications and
+interests of the broader applicant pool from year to year. The Court declines to adopt a
+rule under which any statistical consistency automatically converts an otherwise
+individualized process into an unlawful quota, reasoning that such a rule would
+perversely penalize institutions for admissions outcomes they do not directly control.
+
+The Court reaffirms Whitfield's diversity rationale over the narrower remedial rationale
+urged in Justice Okafor's Whitfield concurrence, explaining that a university's interest
+in the educational benefits of diversity does not depend on proof of the institution's
+own specific history of discrimination, and that requiring such proof in every case
+would leave many institutions unable to pursue diversity even where the educational
+benefits are genuine and substantiated.
+
+The Court emphasizes the third prong of its test -- periodic reassessment -- as a
+meaningful, ongoing constraint, not a formality. Institutions relying on a diversity
+rationale must be able to show that they have considered, and continue to consider,
+whether race-neutral means could achieve the same educational objectives, and must be
+prepared to discontinue race-conscious measures once they are no longer necessary.
+
+On the record before it, the Court finds Ashworth State's annual internal audit process
+-- which examines whether admissions outcomes reflect individualized review rather than
+an emergent quota -- sufficient evidence of ongoing reassessment to satisfy the third
+prong.
+
+Discussion of Prior Cases
+-------------------------
+
+* Whitfield v. Board of Regents of Milford University, 417 U.S. 226 (1974) -- this opinion affirms that authority. Reaffirms whitfield's diversity rationale as the operative compelling interest.
+* Whitfield v. Board of Regents of Milford University, 417 U.S. 226 (1974) -- this opinion declines to adopt the approach of that authority. Declines to require a remedial showing of institution-specific discrimination as urged in justice okafor's concurrence.
+* Delgado v. Trent Institute of Technology, 538 F.2d 902 (3d Cir. 1976) -- this opinion affirms that authority. Affirms delgado's prohibition on fixed set-asides as consistent with the second prong of the narrow-tailoring test.
+* In re Admissions Policy of Brennan City University, 312 F. Supp. 774 (E.D. Fentress 1978) -- this opinion affirms that authority. Affirms brennan city's approval of unified, individualized review.
+
+Holding
+-------
+
+The Court adopts a three-part narrow-tailoring test -- individualized consideration of
+every applicant, an absence of any fixed numerical target, and periodic reassessment of
+the program's continued necessity -- and holds that statistical stability alone, without
+more, does not establish an unlawful quota.
+
+Conclusion
+----------
+
+Because Ashworth State University's admissions program satisfies all three prongs of the
+narrow-tailoring test articulated today, the judgment of the Fourth Circuit is AFFIRMED.

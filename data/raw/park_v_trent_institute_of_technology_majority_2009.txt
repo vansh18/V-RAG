@@ -1,0 +1,87 @@
+PARK V. TRENT INSTITUTE OF TECHNOLOGY
+Park, Plaintiff,
+v.
+Trent Institute of Technology, Defendant.
+
+Citation: 662 F. Supp. 2d 488 (D. Fentress 2009)
+Court: United States District Court for the District of Fentress
+Decision Date: 2009-01-27
+Opinion Type: Majority
+Author: Judge Owen Pryce
+Status: superseded
+Overruled/Superseded By: Ferreira v. Ashworth University, 779 F.3d 240 (2d Cir. 2015)
+Topic: Critical Mass Standard
+
+========================================================================================
+
+Procedural History
+------------------
+
+Plaintiff Grace Park sued Trent Institute of Technology, challenging its post-Reyes
+admissions process. The district court considered the challenge in light of Delacroix,
+Whitcombe, and the Office for Civil Rights' 2008 guidance.
+
+Facts
+-----
+
+Following the Office for Civil Rights' 2008 guidance, Trent Institute of Technology
+adopted file-specific narrative documentation for applicants whose files included
+consideration of race, alongside a biennial institutional review assessing whether the
+qualitative critical-mass objective described in Reyes continued to require race-
+conscious review.
+
+Issue(s) Presented
+------------------
+
+Whether Trent Institute's combination of file-specific documentation and periodic
+institutional review satisfies Reyes and Voss as clarified by Delacroix and Whitcombe.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The court finds Trent Institute's practice closely tracks the documentation approach
+credited in Delacroix v. Brennan City University and recommended in the Office for Civil
+Rights' 2008 guidance, and expressly distinguishes the generalized, non-file-specific
+record found insufficient in Whitcombe v. Harwick College.
+
+The court credits Trent Institute's biennial institutional review, which examines
+whether continued consideration of race remains necessary to achieve the University's
+critical-mass objective, as satisfying Calloway's periodic-reassessment prong as
+elaborated in Reyes.
+
+The court also notes the historical continuity of this institution's admissions
+litigation, observing that Trent Institute's current file-specific, narrative-based
+process stands in marked contrast to the fixed set-aside struck down at this same
+institution more than three decades earlier in Delgado v. Trent Institute of Technology.
+
+The court finds no evidence in the record suggesting Trent Institute's process functions
+as an informal quota, and finds the critical-mass objective described by admissions
+officials consistent with the qualitative, non-numerical formulation approved in Reyes.
+
+Discussion of Prior Cases
+-------------------------
+
+* Delacroix v. Brennan City University, 398 F.3d 611 (6th Cir. 2005) -- this opinion follows that authority. Follows delacroix's approach to file-specific documentation.
+* Whitcombe v. Harwick College, 481 F.3d 950 (8th Cir. 2007) -- this opinion distinguishes that authority. Distinguishes the deficient generalized record found insufficient in whitcombe.
+* Office for Civil Rights Guidance on the Critical Mass Standard, OCR Memo 08-11 -- this opinion follows that authority. Follows the documentation practices recommended in the office for civil rights' 2008 guidance.
+* Delgado v. Trent Institute of Technology, 538 F.2d 902 (3d Cir. 1976) -- this opinion distinguishes that authority. Contrasts the university's current process with the fixed set-aside struck down in 1976.
+* Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003) -- this opinion follows that authority. Applies reyes's qualitative critical-mass framework.
+
+Holding
+-------
+
+The district court holds that Trent Institute's process satisfies Reyes and Voss,
+finding the combination of file-specific documentation and periodic review sufficient
+under Delacroix and distinguishable from the deficient record in Whitcombe.
+
+Conclusion
+----------
+
+The court enters judgment for Trent Institute of Technology.

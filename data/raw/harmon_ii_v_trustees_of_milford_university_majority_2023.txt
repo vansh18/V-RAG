@@ -1,0 +1,95 @@
+HARMON V. BOARD OF TRUSTEES OF MILFORD UNIVERSITY
+Harmon, Petitioner,
+v.
+Board of Trustees of Milford University, Respondent.
+
+Citation: 601 U.S. 155 (2023)
+Court: Supreme Court of the United States
+Decision Date: 2023-06-29
+Opinion Type: Majority
+Author: Chief Justice Rosalind Delacombe
+Status: active
+Topic: Overruling of Diversity Rationale
+
+========================================================================================
+
+Procedural History
+------------------
+
+This companion case was brought against Milford University, a private institution
+receiving federal funds and therefore subject to Title VI of the Civil Rights Act of
+1964, which this Court has long construed to impose obligations coextensive with the
+Equal Protection Clause. The lower courts upheld Milford's revised admissions process,
+and this Court granted certiorari together with Harmon v. Board of Trustees of Ashworth
+University.
+
+Facts
+-----
+
+Milford University, following the district court's injunction in Odom v. Milford
+University, revised its essay-reading practice to integrate race-related content into
+individualized file review rather than applying a uniform favorable adjustment. The
+parties do not dispute that this revised process, if Reyes and Voss remain good law,
+would satisfy narrow tailoring.
+
+Issue(s) Presented
+------------------
+
+Whether Title VI of the Civil Rights Act of 1964, which applies to private universities
+receiving federal funds, imposes the same prohibition on race-conscious admissions the
+Court announces today under the Equal Protection Clause in Harmon v. Board of Trustees
+of Ashworth University.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Opinion of the Court
+--------------------
+
+The Court reiterates its longstanding construction of Title VI as prohibiting the same
+conduct the Equal Protection Clause prohibits when engaged in by a state actor, a
+construction reaching back to this Court's earliest cases applying Title VI to private
+universities receiving federal funds, including federal financial aid received by their
+students.
+
+Applying the reasoning set out at length in Harmon v. Board of Trustees of Ashworth
+University, decided today, the Court holds that Milford University's revised admissions
+process -- however genuinely integrated into individualized file review, and however
+distinguishable from the uniform essay adjustment enjoined in Odom v. Milford University
+-- still considers an individual applicant's race, and therefore cannot survive the rule
+announced in Harmon.
+
+The Court declines Milford's invitation to treat private universities differently from
+public universities under Title VI, reasoning that Title VI's text and this Court's
+consistent prior construction of it leave no room for a private-university exception to
+the rule announced today.
+
+The Court notes that its holding resolves the underlying question left open by the
+district court's injunction in Odom: an essay-reading practice, even one genuinely
+integrated into individualized review rather than applied as a uniform adjustment,
+remains unlawful to the extent it considers an applicant's race as such, though,
+consistent with Harmon, institutions may still consider an applicant's discussion of how
+race has affected the applicant's own life.
+
+Discussion of Prior Cases
+-------------------------
+
+* Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023) -- this opinion follows that authority. Extends the reasoning and holding of the companion harmon decision to private universities under title vi.
+* Odom v. Milford University, 404 F. Supp. 3d 812 (D. Fentress 2019) -- this opinion overrules that authority. Resolves and supersedes the narrower question left open by the injunction in odom.
+* Voss v. Milford University, 539 U.S. 344 (2003) -- this opinion overrules that authority. Overrules voss as to this same institution.
+
+Holding
+-------
+
+The Court holds that Title VI imposes obligations coextensive with the Equal Protection
+Clause and that the holding of Harmon v. Board of Trustees of Ashworth University
+therefore applies with equal force to private universities receiving federal funds.
+
+Conclusion
+----------
+
+The judgment of the lower court is REVERSED.

@@ -1,0 +1,95 @@
+NGUYEN V. TRENT INSTITUTE OF TECHNOLOGY
+Nguyen, Plaintiff,
+v.
+Trent Institute of Technology, Defendant.
+
+Citation: 98 F.4th 214 (4th Cir. 2024)
+Court: United States Court of Appeals for the Fourth Circuit
+Decision Date: 2024-05-06
+Opinion Type: Majority
+Author: Judge Foster Langtry Jr.
+Status: active
+Topic: Essay-Based Proxy Consideration
+
+========================================================================================
+
+Procedural History
+------------------
+
+Plaintiff Michael Nguyen sued Trent Institute of Technology -- the same institution
+whose earlier admissions programs were addressed in Delgado, Prentiss, and Park --
+alleging that the University's post-Harmon essay-scoring rubric violated Harmon by
+awarding additional points for essays that referenced the applicant's racial identity.
+
+Facts
+-----
+
+After Harmon, Trent Institute of Technology adopted an essay-scoring rubric that awarded
+up to five additional points, out of a fifty-point essay scale, to essays that
+'meaningfully engage with the applicant's racial or ethnic identity.' The rubric applied
+the bonus based on whether the essay referenced race at all, without regard to whether
+the essay's substantive content otherwise reflected individual character, perspective,
+or achievement.
+
+Issue(s) Presented
+------------------
+
+Whether an essay-scoring rubric that awards points based on whether an essay references
+race, rather than based on the substance of what the essay reveals about the applicant,
+is consistent with Harmon's distinction between considering how race affected an
+applicant's life and considering race itself.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The panel reads Harmon's essay clarification narrowly: an institution may credit an
+essay for what it reveals about the applicant's individual experience, character, or
+perspective, even where that experience relates to race, but may not award credit simply
+because an essay references race, since doing so treats race itself, rather than the
+individualized content of the essay, as the operative criterion.
+
+The panel finds Trent Institute's rubric falls on the impermissible side of that line
+because it awards a fixed point bonus keyed explicitly to whether the essay 'engages
+with racial or ethnic identity,' without any accompanying instruction to evaluate the
+substantive individual content of the essay. In the panel's view, this is functionally
+similar to the essay-reading practice enjoined in Odom v. Milford University, applying a
+uniform adjustment based on the presence of race-related content rather than on
+individualized substance.
+
+The panel rejects the University's argument that its rubric merely operationalizes the
+flexibility Harmon itself preserved, reasoning that Harmon's clarification was limited
+to allowing consideration of how race affected an applicant's life as part of an
+individualized assessment of the whole essay, not to permitting a separate, race-
+triggered point bonus layered on top of that assessment.
+
+The panel enjoins the rubric and instructs Trent Institute that essay evaluation must
+focus on the individualized substance of each essay without regard to whether it
+references race.
+
+Discussion of Prior Cases
+-------------------------
+
+* Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023) -- this opinion follows that authority. Applies harmon's narrow essay clarification.
+* Odom v. Milford University, 404 F. Supp. 3d 812 (D. Fentress 2019) -- this opinion follows that authority. Finds the rubric analogous to the uniform adjustment enjoined in odom.
+* Office for Civil Rights Frequently Asked Questions on Admissions Practices After Harmon, OCR FAQ 2024-01 -- this opinion follows that authority. Follows the office for civil rights' recommendation to focus on substance rather than the presence of race-related content.
+
+Holding
+-------
+
+The Fourth Circuit holds that Trent Institute's rubric impermissibly considers race
+itself, because it awards points based on the mere presence of racial-identity content
+rather than on the substance of what any essay -- race-referencing or not -- reveals
+about the applicant.
+
+Conclusion
+----------
+
+The judgment of the district court is REVERSED, and the essay-scoring rubric is
+ENJOINED.

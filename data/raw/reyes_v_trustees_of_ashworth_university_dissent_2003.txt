@@ -1,0 +1,93 @@
+REYES V. TRUSTEES OF ASHWORTH UNIVERSITY
+Reyes, Petitioner,
+v.
+Trustees of Ashworth University, Respondent.
+
+Citation: 539 U.S. 306 (2003)
+Court: Supreme Court of the United States
+Decision Date: 2003-06-23
+Opinion Type: Dissent
+Author: Justice Grant Halvorsen
+Status: active
+Topic: Strict Scrutiny - Colorblind Constitution
+
+========================================================================================
+
+Procedural History
+------------------
+
+Petitioner Marisol Reyes, denied admission to Ashworth University, sued in federal
+district court, which upheld the University's admissions program under Calloway v.
+Ashworth State University, 476 U.S. 512 (1986) (fictional). The Fourth Circuit affirmed.
+This Court granted certiorari to resolve the disagreement among the courts of appeals
+reflected in Ibarra v. Westbrook College of Law, 891 F.2d 233 (9th Cir. 1989)
+(fictional), on one hand, and Prentiss v. Trent Institute of Technology, 29 F.3d 771
+(5th Cir. 1994) (fictional), and Nakamura v. Westbrook College of Law, 121 F.3d 355 (6th
+Cir. 1997) (fictional), on the other.
+
+Facts
+-----
+
+Ashworth University's admissions office reviews each application individually,
+considering race as one factor among many with the stated goal of enrolling a 'critical
+mass' of students from underrepresented groups. University officials testified that
+critical mass is assessed qualitatively, by reference to whether students from
+underrepresented groups report feeling able to participate in campus discourse without
+serving as a token representative of their group, rather than by reference to any fixed
+percentage or number.
+
+Issue(s) Presented
+------------------
+
+Whether the 'critical mass' concept is meaningfully different from a quota, and whether
+it can be administered by courts in a principled way.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Dissenting Opinion
+------------------
+
+Justice Halvorsen argues that the majority's 'critical mass' concept cannot be
+meaningfully distinguished from the fixed set-asides this Court struck down in Delgado.
+Although Ashworth University disclaims any fixed numerical target, Justice Halvorsen
+notes that admissions officials must, as a practical matter, form some working sense of
+what number or percentage of underrepresented students would constitute critical mass,
+whether or not that number is ever written down.
+
+He criticizes the majority's qualitative framing -- avoiding 'tokenism,' enabling
+students to participate 'without serving as a token representative' -- as inherently
+resistant to judicial review, because no reviewing court can meaningfully test whether a
+university's undisclosed, internal sense of adequate representation has, in fact,
+crossed into an unlawful quota.
+
+Justice Halvorsen would require any institution invoking the diversity rationale to
+disclose, and to defend with data, the actual target it is pursuing, reasoning that
+transparency is the only way strict scrutiny's narrow-tailoring requirement can be
+meaningfully enforced rather than merely recited.
+
+He also joins the reasoning of Justice Vance's earlier dissents in Whitfield and
+Calloway insofar as they express skepticism that any judicially administrable line
+exists between the individualized review the majority approves and the quotas this Court
+has repeatedly condemned.
+
+Discussion of Prior Cases
+-------------------------
+
+* Delgado v. Trent Institute of Technology, 538 F.2d 902 (3d Cir. 1976) -- this opinion distinguishes that authority. Argues critical mass cannot be meaningfully distinguished from the set-aside struck down in delgado.
+* Calloway v. Ashworth State University, 476 U.S. 512 (1986) -- this opinion affirms that authority. Joins the skepticism expressed in justice vance's calloway dissent.
+
+Holding
+-------
+
+Justice Halvorsen dissents, arguing that 'critical mass' is an unworkable and
+unreviewable quota by another name.
+
+Conclusion
+----------
+
+Justice Halvorsen respectfully dissents.

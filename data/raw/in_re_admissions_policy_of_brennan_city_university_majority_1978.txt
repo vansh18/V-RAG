@@ -1,0 +1,97 @@
+IN RE ADMISSIONS POLICY OF BRENNAN CITY UNIVERSITY
+In re, Plaintiff,
+v.
+Admissions Policy of Brennan City University, Defendant.
+
+Citation: 312 F. Supp. 774 (E.D. Fentress 1978)
+Court: United States District Court for the Eastern District of Fentress
+Decision Date: 1978-09-19
+Opinion Type: Majority
+Author: Judge Ruth Ancelet
+Status: superseded
+Overruled/Superseded By: Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003)
+Topic: Narrow Tailoring - Plus-Factor Systems
+
+========================================================================================
+
+Procedural History
+------------------
+
+This declaratory judgment action was brought by Brennan City University itself, seeking
+a determination that its admissions policy complies with the Equal Protection Clause as
+construed in Whitfield v. Board of Regents of Milford University, 417 U.S. 226 (1974)
+(fictional), and distinguished in Delgado v. Trent Institute of Technology, 538 F.2d 902
+(3d Cir. 1976) (fictional), after a local advocacy organization threatened suit. The
+University sought guidance in light of uncertainty following Delgado about which forms
+of race-conscious admissions remain lawful.
+
+Facts
+-----
+
+Brennan City University's admissions office reviews every application through a single
+process. Reviewers record race as one of approximately forty data points considered for
+each applicant, alongside academic record, work experience, geographic origin,
+socioeconomic background, and extracurricular achievement. No seats are reserved for any
+group, no separate review track exists, and the University's admissions manual expressly
+instructs reviewers not to assign race a fixed numerical weight.
+
+Issue(s) Presented
+------------------
+
+Whether an admissions policy that considers race within a single, unified,
+individualized review process -- without any separate track or fixed numerical target --
+satisfies the narrow-tailoring requirement left open by Whitfield and applied in
+Delgado.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The court reads Delgado not as a broad prohibition on race-conscious admissions but as a
+narrower holding limited to fixed, separately administered set-asides. Because Brennan
+City University's policy has none of the features the Delgado panel found objectionable
+-- no separate track, no reserved seats, no fixed numerical target -- the court
+concludes the policy falls on the permissible side of the line Whitfield and Delgado
+together describe.
+
+The court places particular weight on the University's admissions manual, which
+instructs reviewers to consider race as one component of a holistic assessment and
+expressly forbids assigning race a predetermined numerical value. The court finds this
+documentary evidence of process meaningfully distinguishes Brennan City's program from
+the Institute's program in Delgado, where the separate track and fixed seat count made
+the set-aside's mechanical operation apparent from the record itself.
+
+The court also credits testimony from the University's admissions director describing
+how a representative file is evaluated, and finds the described process genuinely
+individualized: reviewers read each application as a whole rather than sorting
+applicants into predetermined racial categories before assessing other qualifications.
+
+The court cautions that its holding rests on the specific features of Brennan City's
+policy as documented in this record, and that a policy which drifts toward the fixed,
+mechanical features condemned in Delgado -- whether through informal practice or a
+change in the admissions manual -- would raise a different question.
+
+Discussion of Prior Cases
+-------------------------
+
+* Delgado v. Trent Institute of Technology, 538 F.2d 902 (3d Cir. 1976) -- this opinion distinguishes that authority. Distinguishes the institute's fixed set-aside from brennan city's unified, individualized review process.
+* Whitfield v. Board of Regents of Milford University, 417 U.S. 226 (1974) -- this opinion follows that authority. Follows whitfield's approval of race as one factor among many within an individualized process.
+
+Holding
+-------
+
+The district court holds that Brennan City University's policy, because it treats race
+as genuinely one factor among many within a single unified process, is distinguishable
+from the fixed set-aside struck down in Delgado and satisfies narrow tailoring.
+
+Conclusion
+----------
+
+The court declares that Brennan City University's admissions policy, as documented in
+this record, satisfies the narrow-tailoring requirement of Whitfield and Delgado.

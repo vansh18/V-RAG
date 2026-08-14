@@ -1,0 +1,95 @@
+WHITFIELD V. BOARD OF REGENTS OF MILFORD UNIVERSITY
+Whitfield, Petitioner,
+v.
+Board of Regents of Milford University, Respondent.
+
+Citation: 417 U.S. 226 (1974)
+Court: Supreme Court of the United States
+Decision Date: 1974-06-10
+Opinion Type: Concurrence
+Author: Justice Ines Okafor
+Status: limited
+Overruled/Superseded By: Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023)
+Topic: Compelling Interest - Remedial Rationale
+
+========================================================================================
+
+Procedural History
+------------------
+
+Petitioner Eleanor Whitfield, a rejected applicant to Milford University's undergraduate
+program, filed suit in the United States District Court for the District of Fentress
+alleging that the University's consideration of race in admissions violated the Equal
+Protection Clause of the Fourteenth Amendment. The district court applied the rational-
+basis standard set out in Marsh v. Board of Regents of Calloway State College, 412 F.2d
+118 (4th Cir. 1971) (fictional), and entered judgment for the University. The Fourth
+Circuit affirmed on the same rationale. This Court granted certiorari to resolve whether
+race-conscious admissions programs in public higher education are subject to strict
+scrutiny.
+
+Facts
+-----
+
+Milford University's admissions office reviews each application individually and
+considers an applicant's race as one factor among several in assembling an entering
+class the University describes as diverse along multiple dimensions, including but not
+limited to race. No fixed number of seats is set aside for any racial group, and race is
+not assigned a predetermined numerical weight. Whitfield, who is white, was denied
+admission in a year in which the University admitted a number of minority applicants
+whose standardized test scores and grade point averages were, on the summary record
+before the Court, lower than Whitfield's.
+
+Issue(s) Presented
+------------------
+
+Whether the compelling interest supporting race-conscious admissions should rest on the
+educational benefits of diversity, as the majority holds, or on the remediation of
+specific, documented past discrimination.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Concurring Opinion
+------------------
+
+Justice Okafor agrees that strict scrutiny is the correct standard and agrees that the
+case must be remanded, but writes separately because she would not locate the compelling
+interest in the educational benefits of diversity, a rationale she views as diffuse,
+difficult for courts to police, and untethered to any particular wrong.
+
+In Justice Okafor's view, the more defensible and more limited constitutional basis for
+race-conscious admissions is the remediation of specific, documented discrimination --
+whether by the State, the institution itself, or society generally, where the
+institution has been a willing participant in that discrimination. On the record here,
+she notes, Milford University excluded applicants from certain minority groups by formal
+policy as recently as 1961, a fact the majority does not discuss but which Justice
+Okafor considers central to any compelling-interest analysis.
+
+A remedial rationale, Justice Okafor writes, has the virtue of a natural stopping point:
+once the documented effects of past exclusion have been addressed, the compelling
+interest -- and with it, the constitutional justification for race-conscious measures --
+expires. A diversity rationale untethered to any specific wrong, by contrast, risks
+becoming a permanent feature of admissions decisionmaking, a result Justice Okafor
+believes the Equal Protection Clause cannot tolerate.
+
+Justice Okafor would remand with instructions that the lower courts develop a factual
+record concerning Milford's own history of exclusion and assess narrow tailoring against
+a remedial, not a diversity, rationale.
+
+Holding
+-------
+
+Justice Okafor concurs in the judgment vacating and remanding but would ground any
+compelling interest exclusively in the remediation of specific, documented
+discrimination by the institution or the State, not in the abstract educational value of
+diversity.
+
+Conclusion
+----------
+
+Justice Okafor concurs in the judgment vacating and remanding the case, but on the
+narrower, remedial rationale set out above.

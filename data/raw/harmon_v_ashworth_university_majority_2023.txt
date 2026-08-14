@@ -1,0 +1,131 @@
+HARMON V. BOARD OF TRUSTEES OF ASHWORTH UNIVERSITY
+Harmon, Petitioner,
+v.
+Board of Trustees of Ashworth University, Respondent.
+
+Citation: 601 U.S. 118 (2023)
+Court: Supreme Court of the United States
+Decision Date: 2023-06-29
+Opinion Type: Majority
+Author: Chief Justice Rosalind Delacombe
+Status: active
+Topic: Overruling of Diversity Rationale
+
+========================================================================================
+
+Procedural History
+------------------
+
+Petitioner Diane Harmon, denied admission to Ashworth University, sued in federal
+district court, urging the court to disregard Reyes and Calloway as wrongly decided. The
+district court, bound by this Court's precedent, upheld Ashworth's admissions process,
+and the Tenth Circuit affirmed on the strength of its own prior decision in Castellano
+v. Ashworth University. This Court granted certiorari, together with Harmon v. Board of
+Trustees of Milford University, to reconsider Whitfield, Calloway, Reyes, and Voss.
+
+Facts
+-----
+
+Ashworth University's admissions process in 2023 is substantially the same qualitative,
+individualized process this Court approved in Reyes in 2003 and the Tenth Circuit
+approved, on a developed evidentiary record concerning race-neutral alternatives, in
+Castellano in 2017. The parties do not dispute that Ashworth's process, if Reyes remains
+good law, satisfies the narrow-tailoring framework Reyes, Ferreira, and Castellano
+together describe. Harmon instead argues that Reyes and the diversity rationale on which
+it rests should be overruled.
+
+Issue(s) Presented
+------------------
+
+Whether Whitfield, Calloway, Reyes, and Voss should be overruled, and whether the Equal
+Protection Clause permits any consideration of an individual applicant's race in
+university admissions.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Opinion of the Court
+--------------------
+
+The Court begins by revisiting the stare decisis analysis that has preserved Whitfield's
+diversity rationale for nearly fifty years. The Court concludes that special
+justification exists to overrule that line of cases: the diversity rationale, as this
+Court's own decisions in Ferreira and the lower courts' struggles in Whitcombe and Odom
+illustrate, has proven unworkable in practice, requiring an ever more elaborate
+apparatus of documentation requirements, workability showings, and file-by-file
+narrative review that lower courts have applied inconsistently for two decades.
+
+The Court further concludes that Whitfield and its progeny were, in the majority's view,
+wrongly decided at the outset. The Equal Protection Clause, the Court reasons, protects
+persons, not groups, and its guarantee is not satisfied by a process that considers an
+individual applicant's race for even benign or well-intentioned reasons. The Court finds
+persuasive the reasoning first offered in Justice Vance's dissents in Whitfield and
+Calloway: that no interest, however sincerely pursued, can justify sorting individual
+applicants by race, because doing so is itself the harm the Fourteenth Amendment was
+adopted to prevent.
+
+The Court rejects the argument, accepted in Reyes, that the educational benefits of
+diversity can qualify as a compelling interest. The Court reasons that such benefits,
+whatever their value, are not sufficiently measurable or coherent to permit the kind of
+searching, end-focused review strict scrutiny demands, and notes that the 'critical
+mass' concept approved in Reyes was, as Justice Halvorsen warned in dissent at the time,
+never capable of principled judicial administration.
+
+The Court also rejects Justice Okafor's alternative remedial rationale from her
+Whitfield concurrence, explaining that even a remedial interest, tailored to an
+institution's own documented history of discrimination, would require the same kind of
+racial classification of individual applicants that the majority holds the Equal
+Protection Clause forbids.
+
+The Court holds that institutions remain free to pursue student-body diversity through
+means that do not classify individual applicants by race -- including the socioeconomic-
+status-based and geographic alternatives piloted in Castellano, expanded outreach and
+recruitment, and the elimination of preferences, such as legacy admissions, that may
+correlate with race without directly classifying by it -- but may not consider an
+individual applicant's race itself, in any way, as a factor in the admissions decision.
+
+The Court clarifies that nothing in today's opinion prohibits universities from
+considering an applicant's discussion of how race has affected the applicant's own life,
+so long as that discussion is treated as any other aspect of the applicant's background
+or character would be, and not as a proxy for the applicant's race as such -- a
+distinction the Court acknowledges will require careful application in future cases,
+including the essay-based challenges considered by the lower courts in Whitcombe and
+Odom.
+
+The Court closes by acknowledging the substantial reliance institutions have placed on
+Whitfield, Calloway, Reyes, and Voss over nearly fifty years, but concludes, consistent
+with this Court's stare decisis doctrine, that reliance interests cannot preserve a rule
+of constitutional law the Court now believes to be incorrect.
+
+Discussion of Prior Cases
+-------------------------
+
+* Whitfield v. Board of Regents of Milford University, 417 U.S. 226 (1974) -- this opinion overrules that authority. Overrules whitfield's holding that the diversity rationale can qualify as a compelling interest.
+* Whitfield v. Board of Regents of Milford University, 417 U.S. 226 (1974) -- this opinion overrules that authority. Rejects the alternative remedial rationale of the whitfield concurrence.
+* Whitfield v. Board of Regents of Milford University, 417 U.S. 226 (1974) -- this opinion follows that authority. Adopts the colorblind-constitution reasoning first stated in the whitfield dissent.
+* Calloway v. Ashworth State University, 476 U.S. 512 (1986) -- this opinion overrules that authority. Overrules calloway's three-part narrow-tailoring test as resting on an impermissible premise.
+* Calloway v. Ashworth State University, 476 U.S. 512 (1986) -- this opinion follows that authority. Adopts the reasoning of justice vance's calloway dissent.
+* Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003) -- this opinion overrules that authority. Overrules reyes's approval of the qualitative critical-mass framework.
+* Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003) -- this opinion follows that authority. Credits justice halvorsen's warning that critical mass could not be principled administered.
+* Voss v. Milford University, 539 U.S. 344 (2003) -- this opinion overrules that authority. Overrules voss to the extent it left any race-conscious admissions practice intact.
+* Ferreira v. Ashworth University, 779 F.3d 240 (2d Cir. 2015) -- this opinion criticizes that authority. Cites the elaborate workability apparatus required by ferreira as evidence the diversity rationale proved unworkable.
+* Castellano v. Ashworth University, 872 F.3d 1188 (10th Cir. 2017) -- this opinion criticizes that authority. Notes that the diversity rationale approved in castellano required an increasingly elaborate evidentiary showing.
+* Whitcombe v. Harwick College, 481 F.3d 950 (8th Cir. 2007) -- this opinion criticizes that authority. Cites whitcombe's inconsistent lower-court application of the narrow-tailoring framework.
+* Odom v. Milford University, 404 F. Supp. 3d 812 (D. Fentress 2019) -- this opinion criticizes that authority. Cites odom as an example of the essay-based line-drawing difficulties the diversity rationale produced.
+
+Holding
+-------
+
+The Court overrules Whitfield, Calloway, Reyes, and Voss, and holds that university
+admissions programs may not consider an applicant's race, even as one factor among many
+within an individualized process, because doing so cannot be reconciled with the Equal
+Protection Clause's guarantee that no person be treated differently on account of race.
+
+Conclusion
+----------
+
+The judgment of the Tenth Circuit is REVERSED.

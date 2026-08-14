@@ -1,0 +1,64 @@
+OFFICE FOR CIVIL RIGHTS GUIDANCE ON THE CRITICAL MASS STANDARD
+
+Document No.: OCR Memo 08-11
+Issuing Agency: Office for Civil Rights (U.S. Department of Education)
+Date: 2008-09-15
+Document Type: Guidance
+Issued By: Assistant Secretary for Civil Rights
+Status: superseded
+Superseded By: Office for Civil Rights Guidance Reaffirming the Critical Mass Framework, OCR Memo 16-09
+Topic: Critical Mass Standard
+
+========================================================================================
+
+Background
+----------
+
+Following the Sixth Circuit's decision in Delacroix v. Brennan City University, 398 F.3d
+611 (6th Cir. 2005) (fictional), and the Eighth Circuit's decision in Whitcombe v.
+Harwick College, 481 F.3d 950 (8th Cir. 2007) (fictional), the Office for Civil Rights
+issued this guidance to clarify documentation practices institutions should adopt to
+demonstrate individualized review.
+
+Purpose of This Guidance
+------------------------
+
+What documentation practices help institutions demonstrate the individualized review
+required by Reyes and Voss, as clarified by Delacroix and Whitcombe?
+
+Guidance
+--------
+
+This guidance explains that Delacroix upheld an admissions process supported by file-
+specific narrative documentation, while Whitcombe found generalized, non-file-specific
+assertions insufficient. Together, the Office reads these decisions to establish that
+some verifiable, file-level record of individualized review is now expected in
+litigation over race-conscious admissions programs.
+
+The Office recommends that admissions offices maintain, for applicants whose files
+include consideration of race, brief contemporaneous notes explaining how race was
+weighed alongside other factors in the context of that applicant's full application.
+
+The Office cautions that such documentation should reflect genuine individualized
+assessment and should not be generated after the fact or used as a formality; reviewing
+courts, as Whitcombe illustrates, may distinguish between genuine contemporaneous
+documentation and post hoc reconstruction.
+
+The Office also recommends continued adherence to the periodic audit practices described
+in earlier guidance and credited in Calloway, Ibarra, and Delacroix, as a complementary
+means of demonstrating that no informal quota has emerged over time.
+
+Discussion of Prior Cases
+-------------------------
+
+* Delacroix v. Brennan City University, 398 F.3d 611 (6th Cir. 2005) -- this opinion interprets that authority. Explains the documentation practices credited in delacroix.
+* Whitcombe v. Harwick College, 481 F.3d 950 (8th Cir. 2007) -- this opinion interprets that authority. Explains why generalized assertions were found insufficient in whitcombe.
+
+Summary
+-------
+
+This guidance supplements, and does not supersede, the 2004 Joint Guidance of the
+Departments of Education and Justice.
+
+
+This document is a fictional synthetic artifact created for the V-RAG research corpus. It does not describe an actual agency action and has no legal effect.

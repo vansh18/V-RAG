@@ -5,7 +5,7 @@ logging.getLogger("pypdf").setLevel(logging.ERROR)
 import pandas as pd
 from config import MANIFEST_PATH
 from config import RAW_DATA_DIR
-from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import TextLoader
 
 def load_documents():
     print("Loading documents...")
@@ -21,21 +21,26 @@ def load_documents():
             print(f"Warning: {row['filename']} not found.")
             continue
 
-        loader = PyPDFLoader(str(pdf_path))
+        loader = TextLoader(str(pdf_path), encoding="utf-8")
         pages = loader.load()
 
         for page in pages:
 
             page.metadata = {
                 "source": pdf_path.name,
-                "page": page.metadata["page"],
-                "total_pages": page.metadata["total_pages"],
+                "filename": row["filename"],
                 "case_name": row["case_name"],
+                "citation": row["citation"],
                 "decision_date": row["decision_date"],
+                "year": row["year"],
+                "court": row["court"],
                 "court_level": row["court_level"],
-                "docket_number": row["docket_number"],
+                "opinion_type": row["opinion_type"],
+                "author": row["author"],
                 "status": row["status"],
-                "superseded_by": row["superseded_by"],
+                "overruled_by": row["overruled_by"],
+                "topic": row["topic"],
+                "notes": row["notes"],
             }
 
             documents.append(page)

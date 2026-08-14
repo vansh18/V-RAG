@@ -1,0 +1,90 @@
+ODOM V. HARWICK COLLEGE
+Odom, Plaintiff,
+v.
+Harwick College, Defendant.
+
+Citation: 745 F. Supp. 3d 233 (D. Fentress 2026)
+Court: United States District Court for the District of Fentress
+Decision Date: 2026-05-29
+Opinion Type: Majority
+Author: Judge Priyanka Deshmukh
+Status: active
+Topic: Race-Neutral Alternatives
+
+========================================================================================
+
+Procedural History
+------------------
+
+Plaintiff Marcus Odom -- no relation to the plaintiff in Odom v. Milford University --
+sued Harwick College, alleging that its post-Harmon admissions preference for applicants
+from underrepresented geographic regions and first-generation college students was, like
+the legacy preferences challenged in Ibarra, an unlawful proxy for race.
+
+Facts
+-----
+
+After Harmon, Harwick College -- the same institution whose insufficiently
+individualized process was remanded in Whitcombe v. Harwick College decades earlier --
+adopted a preference for applicants from designated underrepresented geographic regions
+within the state and for first-generation college students, criteria that do not
+reference race and are administered without regard to any applicant's race, though the
+record shows the designated regions have a somewhat higher proportion of minority
+residents than the state as a whole.
+
+Issue(s) Presented
+------------------
+
+Whether a race-neutral geographic and first-generation-status preference, with some
+correlation to regional demographics, violates the Equal Protection Clause after Harmon.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The court applies the framework set out in Park v. Calloway State College, finding that
+Harwick's preference, like the socioeconomic preference upheld there, does not reference
+race in its criteria and is not administered with regard to any applicant's race.
+
+The court finds the correlation between the designated regions and regional minority
+population somewhat higher than the correlation at issue in Park, but concludes that
+this difference in degree does not change the analysis, because the College's stated
+purpose -- expanding access for students from underserved regions and for first-
+generation college students -- is independently substantiated and does not depend on any
+racial classification.
+
+The court distinguishes this case from Ibarra v. Ashworth University's discussion of
+deliberate proxy use, finding no evidence in this record that Harwick selected the
+designated regions because of their racial composition rather than because of the
+independent, race-neutral factors -- rural isolation, limited local college-preparatory
+resources -- the College's admissions office documented in adopting the preference.
+
+The court notes, as Park did, that this holding would not necessarily extend to a case
+presenting clearer evidence that a facially neutral criterion was selected specifically
+because of, rather than merely correlated with, race.
+
+Discussion of Prior Cases
+-------------------------
+
+* Park v. Calloway State College, 712 F. Supp. 3d 90 (D. Fentress 2025) -- this opinion follows that authority. Applies park's framework for facially race-neutral preferences.
+* Ibarra v. Ashworth University, 730 F. Supp. 3d 501 (D. Fentress 2025) -- this opinion distinguishes that authority. Distinguishes the deliberate-proxy concern discussed in ibarra.
+* Whitcombe v. Harwick College, 481 F.3d 950 (8th Cir. 2007) -- this opinion distinguishes that authority. Notes the college's much earlier, unrelated admissions litigation.
+
+Holding
+-------
+
+The district court holds that Harwick's geographic and first-generation-status
+preference is lawful, following Park v. Calloway State College's reasoning that a
+facially race-neutral criterion does not become a racial classification merely because
+it has some statistical correlation with race.
+
+Conclusion
+----------
+
+The court enters judgment for Harwick College.

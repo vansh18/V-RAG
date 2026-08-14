@@ -1,0 +1,99 @@
+IBARRA V. ASHWORTH UNIVERSITY
+Ibarra, Plaintiff,
+v.
+Ashworth University, Defendant.
+
+Citation: 730 F. Supp. 3d 501 (D. Fentress 2025)
+Court: United States District Court for the District of Fentress
+Decision Date: 2025-07-08
+Opinion Type: Majority
+Author: Judge Owen Pryce
+Status: active
+Topic: Legacy Admissions as Race Proxy
+
+========================================================================================
+
+Procedural History
+------------------
+
+Plaintiff Consuela Ibarra -- no relation to the plaintiff in Ibarra v. Westbrook College
+of Law -- sued Ashworth University, alleging that its longstanding legacy and major-
+donor admissions preferences function as a proxy for race because, as a statistical
+matter, applicants who benefit from those preferences are disproportionately white, and
+that Harmon's elimination of affirmative race-conscious review makes the racially skewed
+effect of these facially race-neutral preferences newly untenable.
+
+Facts
+-----
+
+Ashworth University has maintained legacy and major-donor admissions preferences for
+decades. Statistical evidence in the record shows that applicants who benefit from these
+preferences are disproportionately white relative to the overall applicant pool. The
+preferences do not reference race in their criteria and are administered without regard
+to any applicant's race. This is the first case in the corpus to test whether such a
+facially race-neutral preference, with a documented disparate statistical effect, is
+unlawful after Harmon.
+
+Issue(s) Presented
+------------------
+
+Whether a facially race-neutral admissions preference with a documented disparate racial
+effect, but no explicit consideration of race in its criteria or administration,
+violates the Equal Protection Clause or Title VI after Harmon.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The court notes that Harmon addressed the direct consideration of an individual
+applicant's race and did not address facially race-neutral criteria with a disparate
+statistical effect, a distinct doctrinal question this Court's broader equal protection
+case law has traditionally analyzed under a discriminatory-intent framework rather than
+under strict scrutiny's compelling-interest framework.
+
+Applying that intent-focused framework, the court finds the record insufficient to show
+that Ashworth's legacy and donor preferences were adopted, or are currently
+administered, with the purpose of favoring applicants because of race, as distinct from
+the purpose -- which the record does support -- of favoring applicants with a prior
+institutional or financial connection to the University.
+
+The court expressly declines to hold that a disparate statistical effect alone, without
+evidence of discriminatory purpose, is sufficient to invalidate a facially race-neutral
+preference, but acknowledges that Park v. Calloway State College left open exactly this
+question -- whether a knowing and deliberate use of a facially neutral criterion as a
+proxy for race might be treated differently -- and finds this record does not present a
+clear example of such deliberate proxy use.
+
+The court acknowledges the significant public debate, reflected in the Department of
+Education's contemporaneous guidance process, over whether legacy and donor preferences
+should be reconsidered on policy grounds regardless of their constitutional status, but
+emphasizes that policy judgments of that kind are for the University and, where
+applicable, the political branches, not the courts, to make.
+
+Discussion of Prior Cases
+-------------------------
+
+* Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023) -- this opinion distinguishes that authority. Distinguishes harmon's direct-consideration holding from the disparate-effect theory advanced here.
+* Park v. Calloway State College, 712 F. Supp. 3d 90 (D. Fentress 2025) -- this opinion distinguishes that authority. Notes park's open question regarding deliberate proxy use, which this record does not present.
+* Ibarra v. Westbrook College of Law, 891 F.2d 233 (9th Cir. 1989) -- this opinion distinguishes that authority. No relation to the unconnected 1989 ibarra litigation.
+
+Holding
+-------
+
+The district court declines to extend Harmon to reach facially race-neutral preferences
+with a merely disparate statistical effect, absent evidence that the preference was
+adopted or is administered as a deliberate proxy for race, but acknowledges substantial
+uncertainty in how this question should be analyzed and does not purport to resolve it
+definitively.
+
+Conclusion
+----------
+
+The court enters judgment for Ashworth University, without prejudice to a future case
+presenting stronger evidence of deliberate proxy use.

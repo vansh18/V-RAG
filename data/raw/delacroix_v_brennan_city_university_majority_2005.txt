@@ -1,0 +1,83 @@
+DELACROIX V. BRENNAN CITY UNIVERSITY
+Delacroix, Plaintiff,
+v.
+Brennan City University, Defendant.
+
+Citation: 398 F.3d 611 (6th Cir. 2005)
+Court: United States Court of Appeals for the Sixth Circuit
+Decision Date: 2005-03-11
+Opinion Type: Majority
+Author: Judge Selena Marchetti
+Status: superseded
+Overruled/Superseded By: Ferreira v. Ashworth University, 779 F.3d 240 (2d Cir. 2015)
+Topic: Application of Reyes/Voss Standard
+
+========================================================================================
+
+Procedural History
+------------------
+
+Plaintiff Josephine Delacroix sued Brennan City University, challenging its post-Reyes
+admissions process. The district court upheld the process. The Sixth Circuit reviewed
+the appeal.
+
+Facts
+-----
+
+After Reyes and Voss, Brennan City University revised its admissions manual to eliminate
+any numerical scoring of race and to require admissions officers to document, for each
+applicant considered for admission on the basis in part of race, a brief narrative
+explaining how the applicant's background was assessed as part of a holistic review of
+the full file.
+
+Issue(s) Presented
+------------------
+
+Whether Brennan City University's documented, narrative-based holistic review satisfies
+Reyes and Voss.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The panel finds Brennan City's narrative-documentation requirement a particularly strong
+form of compliance with Reyes and Voss, because it creates a contemporaneous record --
+for each applicant, not merely in the aggregate -- demonstrating that race was
+considered as part of a genuinely individualized assessment rather than as an automatic,
+mechanical bonus.
+
+The panel distinguishes Voss on the ground that Brennan City assigns no fixed numerical
+value to race at all, unlike the twenty-point automatic bonus struck down there, and
+finds this case closer to the qualitative, individualized process approved in Reyes.
+
+The panel further credits Brennan City's continued practice, first credited in the 1978
+declaratory judgment action concerning this same University, of periodically auditing
+admissions outcomes to confirm that no informal quota has emerged.
+
+The panel holds that institutions seeking to comply with Reyes and Voss going forward
+would do well to adopt documentation practices similar to Brennan City's, which make
+individualized review verifiable rather than merely asserted.
+
+Discussion of Prior Cases
+-------------------------
+
+* Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003) -- this opinion follows that authority. Applies reyes's approval of qualitative, individualized review.
+* Voss v. Milford University, 539 U.S. 344 (2003) -- this opinion distinguishes that authority. Distinguishes voss's mechanical point bonus from brennan city's narrative-only process.
+* In re Admissions Policy of Brennan City University, 312 F. Supp. 774 (E.D. Fentress 1978) -- this opinion affirms that authority. Notes the university's longstanding practice of individualized review first credited in 1978.
+
+Holding
+-------
+
+The Sixth Circuit holds that Brennan City's process satisfies Reyes and Voss because it
+documents genuinely individualized review and assigns no fixed numerical value to race.
+
+Conclusion
+----------
+
+The judgment of the district court is AFFIRMED.

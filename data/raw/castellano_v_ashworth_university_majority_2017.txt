@@ -1,0 +1,93 @@
+CASTELLANO V. ASHWORTH UNIVERSITY
+Castellano, Plaintiff,
+v.
+Ashworth University, Defendant.
+
+Citation: 872 F.3d 1188 (10th Cir. 2017)
+Court: United States Court of Appeals for the Tenth Circuit
+Decision Date: 2017-06-02
+Opinion Type: Majority
+Author: Judge Marcus Castellane
+Status: overruled
+Overruled/Superseded By: Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023)
+Topic: Workability of Race-Neutral Alternatives
+
+========================================================================================
+
+Procedural History
+------------------
+
+This case arose in the Tenth Circuit, involving a different plaintiff's challenge to
+Ashworth University's admissions process following remand proceedings related to
+Ferreira v. Ashworth University, 779 F.3d 240 (2d Cir. 2015) (fictional), which prompted
+Ashworth to develop an evidentiary record on race-neutral alternatives that was
+introduced in this separate action.
+
+Facts
+-----
+
+Following Ferreira, Ashworth University piloted three race-neutral alternatives over
+four admissions cycles: a socioeconomic-status-based preference, a percentage plan for
+top-ranked students from partner high schools, and an expanded outreach and recruitment
+program. Ashworth's institutional research office documented that each alternative,
+tested individually and in combination, produced a less diverse entering class than the
+University's existing holistic process, without achieving comparable gains along other
+admissions priorities.
+
+Issue(s) Presented
+------------------
+
+Whether a multi-year, evidence-based record of piloted race-neutral alternatives
+satisfies the workability showing required by Ferreira.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The panel finds Ashworth's post-Ferreira record -- three alternatives, each piloted over
+multiple admissions cycles, with documented results -- to be precisely the kind of
+evidence-based showing Ferreira contemplated, in contrast to the untested, good-faith
+assertions found insufficient there.
+
+The panel credits the University's institutional research office's quantitative findings
+that each piloted alternative produced measurably less diverse outcomes without
+offsetting gains, and finds this evidence sufficient to establish that race-neutral
+alternatives, at least as piloted, cannot achieve Ashworth's diversity objectives.
+
+The panel expressly adopts Ferreira's workability framework as the correct elaboration
+of Reyes and Calloway, and declines the plaintiff's invitation to require Ashworth to
+continue piloting additional, hypothetical alternatives indefinitely, reasoning that
+Ferreira's requirement of a genuine, evidence-based showing does not require an
+institution to exhaust every conceivable alternative before it may exercise its
+judgment.
+
+The panel also finds Ashworth's continued file-specific documentation practices,
+consistent with those credited in Delacroix and Park, and its periodic institutional
+review, consistent with Calloway, sufficient to satisfy the remaining prongs of the
+narrow-tailoring test.
+
+Discussion of Prior Cases
+-------------------------
+
+* Ferreira v. Ashworth University, 779 F.3d 240 (2d Cir. 2015) -- this opinion follows that authority. Applies the workability requirement articulated in ferreira.
+* Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003) -- this opinion follows that authority. Applies reyes's underlying diversity rationale.
+* Delacroix v. Brennan City University, 398 F.3d 611 (6th Cir. 2005) -- this opinion follows that authority. Follows delacroix's documentation approach.
+* Park v. Trent Institute of Technology, 662 F. Supp. 2d 488 (D. Fentress 2009) -- this opinion follows that authority. Follows park's approach to periodic institutional review.
+
+Holding
+-------
+
+The Tenth Circuit holds that Ashworth's detailed, multi-year record of piloted
+alternatives satisfies Ferreira's workability requirement and upholds the University's
+continued use of race-conscious review.
+
+Conclusion
+----------
+
+The judgment of the district court is AFFIRMED.

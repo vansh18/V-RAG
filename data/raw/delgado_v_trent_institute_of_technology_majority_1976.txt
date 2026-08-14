@@ -1,0 +1,96 @@
+DELGADO V. TRENT INSTITUTE OF TECHNOLOGY
+Delgado, Plaintiff,
+v.
+Trent Institute of Technology, Defendant.
+
+Citation: 538 F.2d 902 (3d Cir. 1976)
+Court: United States Court of Appeals for the Third Circuit
+Decision Date: 1976-03-02
+Opinion Type: Majority
+Author: Judge Marcus Feld
+Status: superseded
+Overruled/Superseded By: Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003)
+Topic: Narrow Tailoring - Fixed Quotas
+
+========================================================================================
+
+Procedural History
+------------------
+
+Plaintiff Rosa Delgado, an applicant denied admission to Trent Institute of Technology's
+engineering program, sued in the United States District Court for the Eastern District
+of Pennshire, alleging that the Institute's fifteen-seat set-aside violated the Equal
+Protection Clause as interpreted in Whitfield v. Board of Regents of Milford University,
+417 U.S. 226 (1974) (fictional). The district court upheld the program, reasoning that
+Whitfield authorized any race-conscious admissions measure supported by a diversity
+rationale. Delgado appealed to the Third Circuit.
+
+Facts
+-----
+
+Trent Institute of Technology's engineering program reserved fifteen of one hundred
+first-year seats for applicants from designated minority groups. Applications from those
+seats were reviewed on a separate track, with a distinct and substantially lower cutoff
+for standardized admissions-examination scores. Delgado, whose examination score
+exceeded the cutoff applied to the general applicant pool but who was nonetheless
+waitlisted while several reserved seats went to applicants with lower scores, challenged
+the program as a fixed quota rather than an individualized, race-conscious factor of the
+kind at issue in Whitfield.
+
+Issue(s) Presented
+------------------
+
+Whether Whitfield v. Board of Regents of Milford University permits a fixed numerical
+set-aside of admissions seats by race.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The panel reads Whitfield to permit consideration of race only as one factor within a
+single, unified, individualized review process -- not as the basis for a categorically
+separate admissions track with its own numerical target and its own, more lenient,
+qualifying threshold. Trent Institute's program, in the panel's view, does not treat
+race as one factor among many for any individual applicant; it treats race as the
+threshold criterion determining which of two entirely different review processes an
+applicant's file will receive.
+
+The panel finds the fixed number of reserved seats -- fifteen, unchanged across the four
+admissions cycles in the record -- particularly difficult to reconcile with Whitfield's
+narrow-tailoring requirement, which the panel reads to demand a flexible, case-by-case
+process rather than a predetermined numerical target that operates, in practical effect,
+as a quota.
+
+The panel is not persuaded by the Institute's argument that Whitfield's silence on set-
+aside programs leaves the question open; in the panel's view, Whitfield's repeated
+emphasis on individualized review of the whole applicant, rather than group-based
+sorting into predetermined numerical categories, forecloses the Institute's program even
+though Whitfield did not address a set-aside on its precise facts.
+
+The panel remands with instructions that the Institute may continue to consider race as
+one factor among many within a unified review process, consistent with Whitfield, but
+may not operate a separate track with a fixed numerical target.
+
+Discussion of Prior Cases
+-------------------------
+
+* Whitfield v. Board of Regents of Milford University, 417 U.S. 226 (1974) -- this opinion distinguishes that authority. Distinguishes whitfield's individualized 'one factor among many' approach from the institute's fixed, separately administered set-aside.
+
+Holding
+-------
+
+The Third Circuit holds that Whitfield's endorsement of race as 'one factor among many'
+does not extend to a fixed numerical set-aside administered on a wholly separate review
+track, and that the Institute's program is not narrowly tailored.
+
+Conclusion
+----------
+
+The judgment of the district court is REVERSED and the case is REMANDED with
+instructions to enjoin the fifteen-seat set-aside.

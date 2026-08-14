@@ -1,0 +1,91 @@
+REYES V. TRUSTEES OF ASHWORTH UNIVERSITY
+Reyes, Petitioner,
+v.
+Trustees of Ashworth University, Respondent.
+
+Citation: 539 U.S. 306 (2003)
+Court: Supreme Court of the United States
+Decision Date: 2003-06-23
+Opinion Type: Concurrence
+Author: Justice Thaddeus Okonkwo-Lindqvist
+Status: overruled
+Overruled/Superseded By: Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023)
+Topic: Sunset Expectation for Race-Conscious Review
+
+========================================================================================
+
+Procedural History
+------------------
+
+Petitioner Marisol Reyes, denied admission to Ashworth University, sued in federal
+district court, which upheld the University's admissions program under Calloway v.
+Ashworth State University, 476 U.S. 512 (1986) (fictional). The Fourth Circuit affirmed.
+This Court granted certiorari to resolve the disagreement among the courts of appeals
+reflected in Ibarra v. Westbrook College of Law, 891 F.2d 233 (9th Cir. 1989)
+(fictional), on one hand, and Prentiss v. Trent Institute of Technology, 29 F.3d 771
+(5th Cir. 1994) (fictional), and Nakamura v. Westbrook College of Law, 121 F.3d 355 (6th
+Cir. 1997) (fictional), on the other.
+
+Facts
+-----
+
+Ashworth University's admissions office reviews each application individually,
+considering race as one factor among many with the stated goal of enrolling a 'critical
+mass' of students from underrepresented groups. University officials testified that
+critical mass is assessed qualitatively, by reference to whether students from
+underrepresented groups report feeling able to participate in campus discourse without
+serving as a token representative of their group, rather than by reference to any fixed
+percentage or number.
+
+Issue(s) Presented
+------------------
+
+Whether the majority should signal an expected endpoint for race-conscious admissions
+review.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Concurring Opinion
+------------------
+
+Justice Okonkwo-Lindqvist joins the Court's opinion in full but writes separately to
+underscore what he views as an important, if implicit, premise of the majority's
+holding: that race-conscious admissions review is a time-bound remedy for present
+conditions, not a permanent feature of American higher education.
+
+He observes that the educational and social conditions that justify considering race in
+admissions -- including continuing disparities in access to the kind of secondary
+education that prepares students for competitive university admission -- are, in his
+view, capable of meaningful improvement over time, and that institutions and courts
+alike should treat today's holding as provisional rather than permanent.
+
+Justice Okonkwo-Lindqvist expresses the expectation that, within approximately twenty-
+five years, the use of race in admissions will no longer be necessary to achieve the
+educational benefits of diversity, and he urges institutions to use the intervening
+period to develop and refine race-neutral alternatives capable of achieving the same
+objectives.
+
+He closes by noting that this expectation is not a holding and does not bind future
+courts, but reflects his considered judgment about the trajectory the Court's diversity
+rationale should follow.
+
+Discussion of Prior Cases
+-------------------------
+
+* Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003) -- this opinion affirms that authority. Joins the majority opinion in full.
+
+Holding
+-------
+
+Justice Okonkwo-Lindqvist concurs in full, writing separately to express his expectation
+that race-conscious admissions review will no longer be necessary within a generation.
+
+Conclusion
+----------
+
+Justice Okonkwo-Lindqvist concurs.

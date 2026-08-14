@@ -1,0 +1,95 @@
+PARK V. CALLOWAY STATE COLLEGE
+Park, Plaintiff,
+v.
+Calloway State College, Defendant.
+
+Citation: 712 F. Supp. 3d 90 (D. Fentress 2025)
+Court: United States District Court for the District of Fentress
+Decision Date: 2025-02-19
+Opinion Type: Majority
+Author: Judge Priyanka Deshmukh
+Status: active
+Topic: Race-Neutral Alternatives
+
+========================================================================================
+
+Procedural History
+------------------
+
+Plaintiff Simone Park -- no relation to the plaintiff in Park v. Trent Institute of
+Technology -- sued Calloway State College, alleging that its new socioeconomic-status-
+based preference was in substance a disguised racial classification because the
+College's internal planning documents referenced an expectation that the preference
+would help maintain racial diversity.
+
+Facts
+-----
+
+After Harmon, Calloway State College eliminated the point-bonus admissions index at
+issue decades earlier in Nakamura v. Calloway State College and replaced it with a
+preference based on applicants' socioeconomic status, measured by household income,
+parental educational attainment, and neighborhood-level economic indicators, without
+regard to race. Internal planning documents, produced in discovery, showed College
+officials had projected that the socioeconomic preference would likely have some
+positive effect on racial diversity, though the preference itself does not reference
+race in its criteria or operation.
+
+Issue(s) Presented
+------------------
+
+Whether a facially race-neutral, socioeconomic-status-based admissions preference
+becomes an unlawful racial classification under Harmon merely because the institution
+anticipated, and internally discussed, that the preference might have some incidental
+effect on racial diversity.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The court reasons that Harmon's holding is addressed to the consideration of an
+individual applicant's race, not to an institution's motive in adopting a facially race-
+neutral policy. Because the socioeconomic preference at issue here does not reference
+race in its criteria, is not administered with reference to any applicant's race, and
+applies uniformly regardless of race, the court finds no racial classification for
+strict scrutiny to address.
+
+The court distinguishes this case from the essay-scoring rubric struck down in Nguyen v.
+Trent Institute of Technology, where the challenged practice expressly triggered a
+benefit based on the presence of race-referencing content. Here, by contrast, no aspect
+of the socioeconomic preference's operation depends on any applicant's race.
+
+The court acknowledges College officials' internal discussion of the preference's likely
+effect on racial diversity but finds this evidence of institutional motive, standing
+alone, insufficient to convert a facially race-neutral policy into a racial
+classification, particularly where -- as here -- the policy also serves independent,
+race-neutral objectives related to socioeconomic access to higher education.
+
+The court notes that its holding leaves open the different question, not presented here,
+of whether a facially race-neutral criterion adopted as a knowing and deliberate proxy
+for race, with no independent justification, might be treated differently.
+
+Discussion of Prior Cases
+-------------------------
+
+* Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023) -- this opinion follows that authority. Applies harmon's prohibition to conduct that considers race itself, not facially race-neutral criteria.
+* Nguyen v. Trent Institute of Technology, 98 F.4th 214 (4th Cir. 2024) -- this opinion distinguishes that authority. Distinguishes the race-triggered essay bonus in nguyen from the facially race-neutral preference at issue here.
+* Nakamura v. Calloway State College, 779 F. Supp. 2d 1042 (D. Fentress 1991) -- this opinion distinguishes that authority. Notes the college's elimination of the point-bonus index at issue in the earlier nakamura litigation.
+
+Holding
+-------
+
+The district court holds that a facially race-neutral preference does not become an
+unlawful racial classification under Harmon merely because the institution anticipated
+or hoped for an incidental diversity effect, so long as race itself plays no role in the
+preference's criteria or administration.
+
+Conclusion
+----------
+
+The court enters judgment for Calloway State College.

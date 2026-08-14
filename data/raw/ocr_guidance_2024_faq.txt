@@ -1,0 +1,63 @@
+OFFICE FOR CIVIL RIGHTS FREQUENTLY ASKED QUESTIONS ON ADMISSIONS PRACTICES AFTER HARMON
+
+Document No.: OCR FAQ 2024-01
+Issuing Agency: Office for Civil Rights (U.S. Department of Education)
+Date: 2024-01-30
+Document Type: Guidance
+Issued By: Assistant Secretary for Civil Rights
+Status: active
+Topic: Implementation Guidance
+
+========================================================================================
+
+Background
+----------
+
+Following the 2023 Joint Guidance implementing Harmon, the Office for Civil Rights
+received numerous questions from institutions regarding financial aid, targeted
+recruitment, and essay-reading practices not squarely addressed by the Joint Guidance.
+
+Purpose of This Guidance
+------------------------
+
+How does Harmon's prohibition on race-conscious admissions apply to race-targeted
+financial aid, race-targeted recruitment, and essay-reading practices?
+
+Guidance
+--------
+
+This FAQ clarifies that Harmon's holding applies to admissions decisions, and that
+institutions should review race-targeted financial aid programs and race-targeted
+recruitment initiatives for consistency with the same underlying principle, even though
+Harmon itself addressed only the admissions decision directly.
+
+On essay-reading practices, the Office reiterates the 2023 Joint Guidance's explanation
+that institutions may consider an applicant's discussion of how race affected the
+applicant's life, but may not consider the applicant's race itself. The Office
+acknowledges that lower courts have not yet spoken uniformly on how this distinction
+applies in practice and states that it will monitor developing case law, including cases
+then pending in the Fourth and Ninth Circuits.
+
+The Office recommends that institutions train admissions readers to focus on the
+substance of what an applicant's essay reveals about the applicant's individual
+experiences, perspective, or character, rather than on whether the essay references the
+applicant's race, and to avoid instructions -- of the kind found unlawful in Odom --
+that assign a uniform adjustment based on whether an essay references race.
+
+The Office states that this FAQ will be updated as courts of appeals address the
+application of Harmon to essay-reading practices in greater detail.
+
+Discussion of Prior Cases
+-------------------------
+
+* Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023) -- this opinion interprets that authority. Applies harmon's clarification regarding race-related essay content.
+* Joint Guidance of the Departments of Justice and Education on Admissions After Harmon, DOJ-DOE Joint Guidance 2023-02 -- this opinion affirms that authority. Elaborates on the 2023 joint guidance.
+* Odom v. Milford University, 404 F. Supp. 3d 812 (D. Fentress 2019) -- this opinion interprets that authority. Cites odom's uniform-adjustment practice as an example to avoid.
+
+Summary
+-------
+
+This FAQ supplements, and does not supersede, the 2023 Joint Guidance.
+
+
+This document is a fictional synthetic artifact created for the V-RAG research corpus. It does not describe an actual agency action and has no legal effect.

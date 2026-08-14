@@ -1,0 +1,86 @@
+IBARRA V. WESTBROOK COLLEGE OF LAW
+Ibarra, Plaintiff,
+v.
+Westbrook College of Law, Defendant.
+
+Citation: 891 F.2d 233 (9th Cir. 1989)
+Court: United States Court of Appeals for the Ninth Circuit
+Decision Date: 1989-08-15
+Opinion Type: Majority
+Author: Judge Corinne Whitlark
+Status: superseded
+Overruled/Superseded By: Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003)
+Topic: Application of Narrow Tailoring Test
+
+========================================================================================
+
+Procedural History
+------------------
+
+Plaintiff Teodoro Ibarra, denied admission to Westbrook College of Law, sued in federal
+district court alleging Westbrook's holistic process failed the narrow-tailoring test
+articulated in Calloway v. Ashworth State University, 476 U.S. 512 (1986) (fictional).
+The district court granted summary judgment for Westbrook. Ibarra appealed to the Ninth
+Circuit.
+
+Facts
+-----
+
+Westbrook College of Law's admissions committee reviews each file individually,
+considering undergraduate record, admissions-examination score, personal statement, work
+experience, and race as one of numerous factors. The College's dean testified that the
+admissions committee conducts an annual review, modeled explicitly on the process
+described in Calloway, to confirm that race is not functioning as a de facto quota.
+
+Issue(s) Presented
+------------------
+
+Whether Westbrook's admissions process satisfies the three-part narrow-tailoring test
+articulated in Calloway.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The panel walks through each prong of the Calloway test in turn. On individualized
+review, the panel credits testimony and documentary evidence describing a file-by-file
+evaluation process in which no fixed weight is assigned to race, and in which committee
+members expressly discuss each applicant's full profile before reaching a decision.
+
+On the absence of a fixed numerical target, the panel finds no evidence that Westbrook
+reserves any set number of seats for any racial group, and rejects Ibarra's argument
+that a modest year-over-year increase in minority enrollment following the program's
+adoption is itself evidence of a quota, reasoning that Calloway specifically rejected
+statistical patterns as sufficient, standing alone, to establish an unlawful quota.
+
+On periodic reassessment, the panel finds Westbrook's annual review process -- modeled
+on the very audit Calloway credited -- sufficient to satisfy the third prong, and
+commends the College for building Calloway's requirement directly into its admissions
+governance structure.
+
+The panel closes by noting that Westbrook's practices offer other institutions a useful
+template for satisfying Calloway going forward, particularly the practice of documenting
+individualized review contemporaneously rather than reconstructing it after litigation
+is filed.
+
+Discussion of Prior Cases
+-------------------------
+
+* Calloway v. Ashworth State University, 476 U.S. 512 (1986) -- this opinion follows that authority. Applies the three-part narrow-tailoring test to uphold westbrook's program.
+
+Holding
+-------
+
+The Ninth Circuit holds that Westbrook's process satisfies all three prongs of the
+Calloway test and affirms summary judgment for the College.
+
+Conclusion
+----------
+
+The judgment of the district court is AFFIRMED.

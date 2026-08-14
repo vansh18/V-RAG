@@ -1,0 +1,93 @@
+VOSS V. MILFORD UNIVERSITY
+Voss, Petitioner,
+v.
+Milford University, Respondent.
+
+Citation: 539 U.S. 344 (2003)
+Court: Supreme Court of the United States
+Decision Date: 2003-06-23
+Opinion Type: Dissent
+Author: Justice Grant Halvorsen
+Status: active
+Topic: Mechanical Point Systems
+
+========================================================================================
+
+Procedural History
+------------------
+
+Petitioner Bridget Voss, denied undergraduate admission to Milford University -- the
+same institution whose graduate admissions practices were at issue three decades earlier
+in Whitfield v. Board of Regents of Milford University -- sued in federal district
+court, challenging Milford's point-based undergraduate admissions index as inconsistent
+with Calloway's narrow-tailoring test. The district court upheld the index, relying on
+Nakamura v. Calloway State College, 779 F. Supp. 2d 1042 (D. Fentress 1991) (fictional).
+The Fourth Circuit affirmed. This Court granted certiorari together with Reyes v.
+Trustees of Ashworth University to address point-based admissions systems directly.
+
+Facts
+-----
+
+Milford University's undergraduate admissions office uses a 100-point index. Every
+applicant from a designated minority group automatically receives twenty points toward
+the index, regardless of any other characteristic of the applicant's file. By
+comparison, a perfect score on the University's required personal essay -- assessed by a
+faculty reader -- yields at most twelve points, and a valedictorian class rank yields
+ten points. Because the University admits any applicant scoring above a numerical
+cutoff, the twenty-point bonus was, for many applicants from designated groups,
+sufficient by itself to cross the admission threshold regardless of other
+qualifications.
+
+Issue(s) Presented
+------------------
+
+Whether a transparent, fixed-value point system is more or less defensible than the
+opaque, qualitative critical-mass approach approved the same day in Reyes.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Dissenting Opinion
+------------------
+
+Justice Halvorsen, dissenting in Reyes on the ground that critical mass is an
+unreviewable quota, argues the Court's decision here compounds that error by striking
+down the one admissions method that makes the weight assigned to race fully transparent
+and subject to precise judicial review.
+
+He argues that Milford's index, whatever one thinks of the size of the twenty-point
+bonus, at least allows a reviewing court to see exactly how much weight race receives
+relative to every other factor -- a transparency the qualitative, holistic processes
+approved in Reyes and Calloway conspicuously lack.
+
+In Justice Halvorsen's view, the Court's decision today creates a perverse incentive:
+institutions seeking to use race in admissions will now have every reason to obscure the
+weight assigned to race within an opaque, difficult-to-review holistic process, rather
+than disclosing it in the transparent, numerically precise form Milford used.
+
+He would uphold Milford's index, reasoning that if any use of race in admissions is to
+be permitted at all -- a premise he does not accept, for the reasons given in his Reyes
+dissent -- a transparent point system is the more administrable and more honest of the
+two approaches before the Court today.
+
+Discussion of Prior Cases
+-------------------------
+
+* Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003) -- this opinion affirms that authority. Builds on the critique of opaque, unreviewable diversity rationales set out in the companion reyes dissent.
+* Nakamura v. Calloway State College, 779 F. Supp. 2d 1042 (D. Fentress 1991) -- this opinion affirms that authority. Would preserve nakamura's approval of transparent, fixed-value point systems.
+
+Holding
+-------
+
+Justice Halvorsen dissents, arguing that Milford's transparent point system is, if
+anything, more defensible than the opaque critical-mass approach the Court approves the
+same day in Reyes.
+
+Conclusion
+----------
+
+Justice Halvorsen respectfully dissents.

@@ -1,0 +1,71 @@
+OFFICE FOR CIVIL RIGHTS UPDATED FREQUENTLY ASKED QUESTIONS ON POST-HARMON ADMISSIONS PRACTICES
+
+Document No.: OCR FAQ 2026-02
+Issuing Agency: Office for Civil Rights (U.S. Department of Education)
+Date: 2026-07-21
+Document Type: Guidance
+Issued By: Assistant Secretary for Civil Rights
+Status: active
+Topic: Implementation Guidance
+
+========================================================================================
+
+Background
+----------
+
+By mid-2026, the Fourth and Fifth Circuits, in Nguyen v. Trent Institute of Technology
+and Castellano v. Trent Institute of Technology, and the Ninth Circuit, in Delacroix v.
+Westbrook College of Law, remain in unresolved disagreement over how Harmon's essay
+clarification applies to guidance instructing admissions readers to consider race-
+related adversity narratives. The Supreme Court has not granted certiorari in any of
+these cases as of the date of this guidance.
+
+Purpose of This Guidance
+------------------------
+
+Should the Office adopt a single nationwide position on the Fourth/Fifth Circuit versus
+Ninth Circuit disagreement over essay-reading guidance, pending Supreme Court
+resolution?
+
+Guidance
+--------
+
+This updated FAQ summarizes the current, unresolved state of the law: institutions
+within the Fourth and Fifth Circuits are bound by Nguyen and Castellano, which forbid
+guidance specifically instructing readers to credit race-related adversity narratives,
+while institutions within the Ninth Circuit are bound by Delacroix, which permits such
+guidance so long as no fixed point value is tied to the presence of racial content.
+
+The Office declines to adopt a single nationwide position pending further judicial
+clarification, and recommends that institutions consult counsel regarding the rule
+applicable in their circuit.
+
+The Office reiterates its 2024 recommendation that, regardless of which circuit's rule
+applies, essay-reading guidance should focus readers' attention on the substantive
+individual content of each essay, and cautions that guidance resembling the rubric
+struck down in Nguyen -- awarding credit based on the presence of racial content rather
+than substantive individualized assessment -- remains unlawful in every circuit that has
+addressed the question.
+
+The Office notes that the underlying disagreement now spans three circuits and involves
+substantial practical consequences for institutions operating campuses or admissions
+offices in more than one circuit, and states its expectation that Supreme Court review
+may ultimately be necessary, while emphasizing that it takes no position on how such
+review should be resolved.
+
+Discussion of Prior Cases
+-------------------------
+
+* Nguyen v. Trent Institute of Technology, 98 F.4th 214 (4th Cir. 2024) -- this opinion interprets that authority. Summarizes the fourth circuit's rule.
+* Delacroix v. Westbrook College of Law, 101 F.4th 782 (9th Cir. 2024) -- this opinion interprets that authority. Summarizes the ninth circuit's contrary rule.
+* Castellano v. Trent Institute of Technology, 110 F.4th 305 (5th Cir. 2026) -- this opinion interprets that authority. Summarizes the fifth circuit's alignment with the fourth circuit.
+* Office for Civil Rights Frequently Asked Questions on Admissions Practices After Harmon, OCR FAQ 2024-01 -- this opinion affirms that authority. Updates, without superseding, the office's 2024 faq.
+
+Summary
+-------
+
+This guidance reflects the current, unresolved state of the law as of the date of
+publication and will be updated upon further judicial or agency action.
+
+
+This document is a fictional synthetic artifact created for the V-RAG research corpus. It does not describe an actual agency action and has no legal effect.

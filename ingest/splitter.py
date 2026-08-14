@@ -1,4 +1,3 @@
-from collections import Counter
 from config import CHUNK_SIZE, CHUNK_OVERLAP
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
@@ -14,7 +13,6 @@ def split_documents(docs):
     Returns:
         list: A list of document chunks.
     """
-    print("Splitting documents...")
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=CHUNK_SIZE,
         chunk_overlap=CHUNK_OVERLAP,

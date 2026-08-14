@@ -1,0 +1,96 @@
+PRENTISS V. TRENT INSTITUTE OF TECHNOLOGY
+Prentiss, Plaintiff,
+v.
+Trent Institute of Technology, Defendant.
+
+Citation: 29 F.3d 771 (5th Cir. 1994)
+Court: United States Court of Appeals for the Fifth Circuit
+Decision Date: 1994-07-08
+Opinion Type: Majority
+Author: Judge Foster Langtry
+Status: overruled
+Overruled/Superseded By: Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003)
+Topic: Rejection of Diversity Rationale
+
+========================================================================================
+
+Procedural History
+------------------
+
+Plaintiff Gregory Prentiss sued Trent Institute of Technology in federal district court,
+challenging the Institute's revised, post-Delgado holistic admissions process as
+inconsistent with the Equal Protection Clause. The district court, applying Calloway v.
+Ashworth State University, upheld the process. Prentiss appealed to the Fifth Circuit.
+
+Facts
+-----
+
+Following Delgado, Trent Institute of Technology abandoned its fixed set-aside and
+adopted a holistic process similar to those upheld in Brennan City, Calloway, and
+Ibarra. Prentiss did not dispute that the process was individualized, unweighted by a
+fixed numerical target, and subject to periodic review; instead, he argued that
+Whitfield and Calloway were themselves wrongly decided and should not be followed.
+
+Issue(s) Presented
+------------------
+
+Whether Whitfield's diversity rationale and Calloway's narrow-tailoring test should
+continue to be followed, or whether the Equal Protection Clause forbids any
+consideration of race in admissions regardless of how individualized the process may be.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The panel acknowledges that Whitfield and Calloway remain controlling authority from the
+Supreme Court, but reasons that subsequent developments in this Court's equal protection
+jurisprudence in other contexts -- which the panel reads to require a genuinely
+compelling, non-diffuse interest before any racial classification will be sustained --
+have eroded Whitfield's foundation to the point that the panel is prepared to depart
+from it.
+
+The panel concludes that the educational benefits of diversity, however real, are not
+the kind of compelling interest capable of justifying a racial classification, because
+unlike remediation of specific identified discrimination, the diversity rationale has no
+logical stopping point and no objective means of measurement: no court or institution
+can say with precision how much diversity is enough, or when the compelling interest has
+been satisfied.
+
+The panel further reasons that even a genuinely individualized process, of the kind
+Trent Institute now uses, cannot be squared with the Equal Protection Clause's command
+that individuals be treated as individuals, because any consideration of race, however
+modest or however embedded within a larger holistic review, necessarily treats the
+applicant differently because of race.
+
+The panel expressly acknowledges that its holding conflicts with the Ninth Circuit's
+decision in Ibarra v. Westbrook College of Law and effectively narrows Calloway to its
+facts, and states that it believes the question warrants resolution by the Supreme
+Court.
+
+Discussion of Prior Cases
+-------------------------
+
+* Whitfield v. Board of Regents of Milford University, 417 U.S. 226 (1974) -- this opinion criticizes that authority. Declines to follow whitfield's diversity rationale.
+* Calloway v. Ashworth State University, 476 U.S. 512 (1986) -- this opinion criticizes that authority. Narrows calloway's narrow-tailoring test to its facts.
+* Ibarra v. Westbrook College of Law, 891 F.2d 233 (9th Cir. 1989) -- this opinion criticizes that authority. Expressly creates a circuit split with the ninth circuit's decision in ibarra.
+* Whitfield v. Board of Regents of Milford University, 417 U.S. 226 (1974) -- this opinion follows that authority. Adopts the colorblind-constitution reasoning of the whitfield dissent.
+
+Holding
+-------
+
+The Fifth Circuit holds that it will no longer follow Whitfield's diversity rationale,
+reasoning that educational diversity is not a compelling interest capable of justifying
+any consideration of race in admissions, and that race may never be a factor in
+admissions decisions by a public institution.
+
+Conclusion
+----------
+
+The judgment of the district court is REVERSED, and the case is REMANDED with
+instructions to enter judgment for Prentiss.

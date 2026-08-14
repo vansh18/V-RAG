@@ -1,0 +1,119 @@
+REYES V. TRUSTEES OF ASHWORTH UNIVERSITY
+Reyes, Petitioner,
+v.
+Trustees of Ashworth University, Respondent.
+
+Citation: 539 U.S. 306 (2003)
+Court: Supreme Court of the United States
+Decision Date: 2003-06-23
+Opinion Type: Majority
+Author: Chief Justice Priya Sundaram
+Status: overruled
+Overruled/Superseded By: Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023)
+Topic: Individualized Holistic Review Standard
+
+========================================================================================
+
+Procedural History
+------------------
+
+Petitioner Marisol Reyes, denied admission to Ashworth University, sued in federal
+district court, which upheld the University's admissions program under Calloway v.
+Ashworth State University, 476 U.S. 512 (1986) (fictional). The Fourth Circuit affirmed.
+This Court granted certiorari to resolve the disagreement among the courts of appeals
+reflected in Ibarra v. Westbrook College of Law, 891 F.2d 233 (9th Cir. 1989)
+(fictional), on one hand, and Prentiss v. Trent Institute of Technology, 29 F.3d 771
+(5th Cir. 1994) (fictional), and Nakamura v. Westbrook College of Law, 121 F.3d 355 (6th
+Cir. 1997) (fictional), on the other.
+
+Facts
+-----
+
+Ashworth University's admissions office reviews each application individually,
+considering race as one factor among many with the stated goal of enrolling a 'critical
+mass' of students from underrepresented groups. University officials testified that
+critical mass is assessed qualitatively, by reference to whether students from
+underrepresented groups report feeling able to participate in campus discourse without
+serving as a token representative of their group, rather than by reference to any fixed
+percentage or number.
+
+Issue(s) Presented
+------------------
+
+Whether Whitfield's diversity rationale remains valid, and whether a university's
+pursuit of a qualitatively defined 'critical mass' of underrepresented students
+satisfies narrow tailoring under Calloway.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Opinion of the Court
+--------------------
+
+The Court begins by resolving the disagreement among the circuits. It disapproves the
+Fifth and Sixth Circuits' conclusion in Prentiss and Nakamura v. Westbrook College of
+Law that the diversity rationale cannot qualify as a compelling interest. In the Court's
+view, the educational benefits that flow from a diverse student body -- including the
+promotion of cross-racial understanding, the breakdown of racial stereotypes, and the
+preparation of students for an increasingly diverse workforce and society -- are
+substantial and are not the sort of interest this Court's strict scrutiny doctrine
+requires courts to disregard merely because they resist precise numerical measurement.
+
+The Court reaffirms Calloway's three-part narrow-tailoring test and clarifies its
+application to the 'critical mass' concept at issue here. The Court holds that a
+university may pursue a critical mass of underrepresented students, understood
+qualitatively as the number sufficient to avoid tokenism and to realize the educational
+benefits diversity is meant to provide, without thereby operating a quota, so long as
+critical mass is assessed through ongoing, individualized review of the entire class
+rather than through a fixed numerical target for any single group.
+
+The Court is careful to distinguish this qualitative approach from the fixed set-aside
+condemned in Delgado and from any approach that would assign race a predetermined,
+mechanical weight without regard to the rest of an applicant's file -- a distinction
+developed further in the Court's companion decision today in Voss v. Milford University.
+
+The Court finds Ashworth University's practice of assessing critical mass through
+qualitative indicators -- rather than through any fixed percentage or count --
+consistent with individualized review, and credits testimony describing how admissions
+officers read each file as a whole, with race remaining one consideration among many
+including academic achievement, personal background, leadership, and geographic origin.
+
+The Court reiterates Whitfield's expectation that race-conscious admissions programs are
+a temporary, not a permanent, feature of higher education, and states its own
+expectation -- elaborated further in the concurrence -- that the use of race in
+admissions should become unnecessary as the educational and social conditions that
+justify it continue to improve.
+
+The Court also rejects Reyes's argument that any use of race, however individualized, is
+inherently a covert quota because it is aimed, in the aggregate, at increasing minority
+enrollment. The Court explains that an interest in the educational benefits of diversity
+necessarily contemplates enrolling a diverse class in fact, and that this aggregate goal
+does not convert an individualized process into a quota so long as no fixed number or
+percentage constrains any individual admissions decision.
+
+Discussion of Prior Cases
+-------------------------
+
+* Whitfield v. Board of Regents of Milford University, 417 U.S. 226 (1974) -- this opinion affirms that authority. Reaffirms whitfield's diversity rationale as a compelling interest.
+* Calloway v. Ashworth State University, 476 U.S. 512 (1986) -- this opinion affirms that authority. Reaffirms and elaborates calloway's three-part narrow-tailoring test.
+* Prentiss v. Trent Institute of Technology, 29 F.3d 771 (5th Cir. 1994) -- this opinion overrules that authority. Expressly disapproves the fifth circuit's rejection of the diversity rationale.
+* Nakamura v. Westbrook College of Law, 121 F.3d 355 (6th Cir. 1997) -- this opinion overrules that authority. Expressly disapproves the sixth circuit's rejection of the diversity rationale.
+* Ibarra v. Westbrook College of Law, 891 F.2d 233 (9th Cir. 1989) -- this opinion affirms that authority. Approves the ninth circuit's application of whitfield and calloway.
+* Delgado v. Trent Institute of Technology, 538 F.2d 902 (3d Cir. 1976) -- this opinion affirms that authority. Reaffirms delgado's prohibition on fixed set-asides.
+
+Holding
+-------
+
+The Court reaffirms Whitfield and Calloway, disapproves Prentiss and Nakamura v.
+Westbrook College of Law, and holds that the pursuit of a qualitatively defined critical
+mass, assessed through individualized review rather than fixed numerical targets,
+satisfies narrow tailoring.
+
+Conclusion
+----------
+
+The judgment of the Fourth Circuit is AFFIRMED.

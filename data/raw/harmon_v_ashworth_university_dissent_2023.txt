@@ -1,0 +1,96 @@
+HARMON V. BOARD OF TRUSTEES OF ASHWORTH UNIVERSITY
+Harmon, Petitioner,
+v.
+Board of Trustees of Ashworth University, Respondent.
+
+Citation: 601 U.S. 118 (2023)
+Court: Supreme Court of the United States
+Decision Date: 2023-06-29
+Opinion Type: Dissent
+Author: Justice Thaddeus Okonkwo-Lindqvist
+Status: active
+Topic: Overruling of Diversity Rationale
+
+========================================================================================
+
+Procedural History
+------------------
+
+Petitioner Diane Harmon, denied admission to Ashworth University, sued in federal
+district court, urging the court to disregard Reyes and Calloway as wrongly decided. The
+district court, bound by this Court's precedent, upheld Ashworth's admissions process,
+and the Tenth Circuit affirmed on the strength of its own prior decision in Castellano
+v. Ashworth University. This Court granted certiorari, together with Harmon v. Board of
+Trustees of Milford University, to reconsider Whitfield, Calloway, Reyes, and Voss.
+
+Facts
+-----
+
+Ashworth University's admissions process in 2023 is substantially the same qualitative,
+individualized process this Court approved in Reyes in 2003 and the Tenth Circuit
+approved, on a developed evidentiary record concerning race-neutral alternatives, in
+Castellano in 2017. The parties do not dispute that Ashworth's process, if Reyes remains
+good law, satisfies the narrow-tailoring framework Reyes, Ferreira, and Castellano
+together describe. Harmon instead argues that Reyes and the diversity rationale on which
+it rests should be overruled.
+
+Issue(s) Presented
+------------------
+
+Whether the majority's stare decisis analysis adequately justifies overruling fifty
+years of precedent reaffirmed as recently as 2017 in Castellano.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Dissenting Opinion
+------------------
+
+Justice Okonkwo-Lindqvist, who authored a concurrence in Reyes twenty years earlier
+expressing hope that race-conscious review would eventually become unnecessary, writes
+that the majority mistakes the ordinary process of doctrinal elaboration -- the kind of
+refinement reflected in Ferreira's workability requirement and Castellano's evidentiary
+framework -- for the kind of unworkability that justifies overruling precedent. In his
+view, every complex area of constitutional doctrine requires elaboration over time, and
+the existence of that elaboration does not show the underlying rule was mistaken.
+
+He argues that the reliance interests the majority acknowledges but discounts are
+substantial: institutions across the country built admissions systems, hired staff, and
+developed the very documentation and workability practices credited in Delacroix, Park,
+and Castellano in direct reliance on this Court's repeated reaffirmations of Whitfield's
+diversity rationale, most recently in Castellano just six years before today's decision.
+
+Justice Okonkwo-Lindqvist disputes the majority's characterization of Reyes's critical-
+mass concept as unadministrable, noting that lower courts including the Sixth, Eighth,
+and Tenth Circuits developed and applied increasingly precise standards -- file-specific
+documentation in Delacroix, evidentiary workability showings in Ferreira and Castellano
+-- that he views as evidence the doctrine was working, not failing.
+
+He closes by expressing concern that the majority's suggestion that institutions may
+consider how race has affected an applicant's life, while forbidding consideration of
+race itself, draws a distinction he believes lower courts, including in the very cases
+the majority cites, will find difficult to administer in practice.
+
+Discussion of Prior Cases
+-------------------------
+
+* Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003) -- this opinion affirms that authority. Builds on his own earlier concurrence in reyes.
+* Ferreira v. Ashworth University, 779 F.3d 240 (2d Cir. 2015) -- this opinion affirms that authority. Cites ferreira's workability requirement as evidence of successful doctrinal elaboration, not unworkability.
+* Castellano v. Ashworth University, 872 F.3d 1188 (10th Cir. 2017) -- this opinion affirms that authority. Notes this court's own reaffirmance of the diversity rationale as recently as castellano.
+* Delacroix v. Brennan City University, 398 F.3d 611 (6th Cir. 2005) -- this opinion affirms that authority. Cites delacroix's documentation framework as evidence the doctrine was administrable.
+
+Holding
+-------
+
+Justice Okonkwo-Lindqvist dissents, arguing that the majority overstates the diversity
+rationale's unworkability, understates the reliance interests at stake, and abandons
+precedent this Court reaffirmed as recently as 2017.
+
+Conclusion
+----------
+
+Justice Okonkwo-Lindqvist respectfully dissents.

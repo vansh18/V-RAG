@@ -1,0 +1,89 @@
+MARSH V. BOARD OF REGENTS OF CALLOWAY STATE COLLEGE
+Marsh, Plaintiff,
+v.
+Board of Regents of Calloway State College, Defendant.
+
+Citation: 412 F.2d 118 (4th Cir. 1971)
+Court: United States Court of Appeals for the Fourth Circuit
+Decision Date: 1971-05-14
+Opinion Type: Majority
+Author: Judge Adelaide Prewitt
+Status: superseded
+Overruled/Superseded By: Whitfield v. Board of Regents of Milford University, 417 U.S. 226 (1974)
+Topic: Standard of Review
+
+========================================================================================
+
+Procedural History
+------------------
+
+Plaintiff Warren Marsh, a rejected applicant, sued the Board of Regents of Calloway
+State College in the United States District Court for the District of Fentress, alleging
+that the College's admissions preference violated the Equal Protection Clause of the
+Fourteenth Amendment. The district court granted summary judgment for the College,
+applying rational-basis review and concluding that the preference was rationally related
+to the College's interest in expanding educational opportunity. Marsh appealed.
+
+Facts
+-----
+
+Calloway State College adopted an admissions preference in 1968 under which applicants
+from designated minority groups received additional consideration during file review.
+The College's stated purpose was to expand access to higher education for groups it
+found to be underrepresented in its student body. Marsh, who was not a member of a
+designated group, was denied admission in the 1970 entering class despite academic
+credentials the district court found comparable to those of several admitted minority
+applicants.
+
+Issue(s) Presented
+------------------
+
+Whether a state college's race-conscious admissions preference is subject to rational-
+basis review or a more searching form of judicial scrutiny under the Equal Protection
+Clause.
+
+Standard of Review
+------------------
+
+The court below applied rational-basis review, under which a classification is sustained
+if it is rationally related to a legitimate governmental interest.
+
+Legal Analysis
+--------------
+
+The panel begins from the premise that not every racial classification triggers the same
+order of judicial concern. In the panel's view, a classification that opens doors rather
+than closes them -- one that extends opportunity to a group rather than excluding a
+group -- occupies a different constitutional position than the invidious classifications
+this Court's most demanding equal protection cases have condemned.
+
+The panel finds it material that the College's preference was adopted against a
+documented backdrop of exclusion: as recently as 1962, the College's own admissions
+files reflect a formal policy of excluding applicants from the designated groups
+altogether. The 1968 preference, the panel reasons, is best understood as a corrective
+measure addressing that documented history, and corrective measures of this kind bear a
+rational relationship to the College's legitimate interest in expanding access to public
+higher education.
+
+The panel declines to adopt the more searching standard Marsh urges, reasoning that
+heightened scrutiny in this context risks treating a remedial preference and an
+exclusionary quota as constitutional equivalents, when the panel views them as
+opposites.
+
+The panel further notes, without extended discussion, that the College's preference does
+not operate as an absolute bar to any applicant's admission and that Marsh's own file
+was reviewed alongside those of all other applicants.
+
+Holding
+-------
+
+The Fourth Circuit holds that because the College's preference is designed to remedy the
+effects of historical exclusion and to expand, rather than restrict, educational
+opportunity, it is subject only to rational-basis review, under which it is upheld.
+
+Conclusion
+----------
+
+Because the College's admissions preference bears a rational relationship to its
+legitimate interest in remedying the documented effects of past exclusion and expanding
+access to public higher education, the judgment of the district court is AFFIRMED.

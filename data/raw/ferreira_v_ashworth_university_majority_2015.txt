@@ -1,0 +1,100 @@
+FERREIRA V. ASHWORTH UNIVERSITY
+Ferreira, Plaintiff,
+v.
+Ashworth University, Defendant.
+
+Citation: 779 F.3d 240 (2d Cir. 2015)
+Court: United States Court of Appeals for the Second Circuit
+Decision Date: 2015-04-09
+Opinion Type: Majority
+Author: Judge Aline Ferreira-Boudreaux
+Status: overruled
+Overruled/Superseded By: Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023)
+Topic: Workability of Race-Neutral Alternatives
+
+========================================================================================
+
+Procedural History
+------------------
+
+Plaintiff Antonio Ferreira sued Ashworth University -- the same institution whose
+admissions process this Court approved in Reyes v. Trustees of Ashworth University
+twelve years earlier -- in the United States District Court for the District of
+Fentress, arguing that Ashworth had not seriously considered whether race-neutral
+alternatives could achieve its diversity objectives, as Justice Okonkwo-Lindqvist's
+Reyes concurrence anticipated institutions would eventually need to demonstrate. The
+district court upheld the program. The Second Circuit reviewed the appeal.
+
+Facts
+-----
+
+By 2015, a number of other institutions -- though not Ashworth University -- had piloted
+race-neutral admissions alternatives, including socioeconomic-status-based preferences
+and percentage plans guaranteeing admission to top-ranked students from every high
+school in the state. Ashworth's own record contained no evidence that it had studied or
+piloted any such alternative; University officials testified only that they believed
+race-neutral alternatives would be less effective without having tested that belief
+against Ashworth's own applicant pool.
+
+Issue(s) Presented
+------------------
+
+Whether an institution invoking the diversity rationale must make an evidence-based
+showing, specific to its own applicant pool, that race-neutral alternatives are
+unworkable, or whether a good-faith belief that such alternatives would be less
+effective suffices.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The panel reads Reyes and Calloway together to impose a genuine workability requirement,
+not a formality: an institution must show that it seriously considered race-neutral
+alternatives and reasonably concluded, based on evidence rather than assumption, that
+they would not achieve the institution's diversity objectives about as well and at a
+tolerable administrative cost.
+
+The panel finds Ashworth's showing deficient because it rests entirely on officials'
+good-faith beliefs rather than on any study or pilot program specific to Ashworth's own
+applicant pool, even though other institutions had by 2015 developed a substantial body
+of experience with race-neutral alternatives that Ashworth could have used to inform, or
+could have replicated in, its own analysis.
+
+The panel is careful to note that it does not require an institution to actually adopt
+and fail with a race-neutral alternative before turning to race-conscious review -- a
+requirement it acknowledges could itself harm the very students race-conscious review is
+meant to benefit -- but does require some evidence-based analysis beyond good-faith
+assertion.
+
+The panel remands for Ashworth to develop an evidentiary record regarding the
+workability of race-neutral alternatives, explaining that this requirement, while more
+demanding than the documentation-focused inquiry of Delacroix and Whitcombe, is
+consistent with and elaborates upon Reyes's narrow-tailoring framework rather than
+departing from it.
+
+Discussion of Prior Cases
+-------------------------
+
+* Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003) -- this opinion narrows that authority. Narrows reyes by requiring an evidence-based workability showing rather than a good-faith assertion.
+* Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003) -- this opinion follows that authority. Builds on justice okonkwo-lindqvist's expectation that institutions would develop race-neutral alternatives over time.
+* Delacroix v. Brennan City University, 398 F.3d 611 (6th Cir. 2005) -- this opinion distinguishes that authority. Distinguishes delacroix's documentation-focused inquiry from the workability showing required here.
+
+Holding
+-------
+
+The Second Circuit holds that narrow tailoring requires an institution to make a
+rigorous, evidence-based showing -- through actual study or piloting specific to its own
+applicant pool -- that workable race-neutral alternatives cannot achieve its diversity
+objectives, and that a good-faith but untested belief is insufficient.
+
+Conclusion
+----------
+
+The judgment of the district court is VACATED and the case is REMANDED for further
+proceedings.

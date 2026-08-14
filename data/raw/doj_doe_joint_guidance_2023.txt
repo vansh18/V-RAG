@@ -1,0 +1,74 @@
+JOINT GUIDANCE OF THE DEPARTMENTS OF JUSTICE AND EDUCATION ON ADMISSIONS AFTER HARMON
+
+Document No.: DOJ-DOE Joint Guidance 2023-02
+Issuing Agency: U.S. Department of Justice and U.S. Department of Education
+Date: 2023-08-14
+Document Type: Guidance
+Issued By: Office of the General Counsel
+Status: active
+Topic: Implementation Guidance
+
+========================================================================================
+
+Background
+----------
+
+Following the Supreme Court's decisions in Harmon v. Board of Trustees of Ashworth
+University, 601 U.S. 118 (2023) (fictional), and Harmon v. Board of Trustees of Milford
+University, 601 U.S. 155 (2023) (fictional), the Departments of Justice and Education
+jointly issued this guidance to help institutions bring their admissions practices into
+compliance and to rescind all prior guidance premised on Reyes and Voss.
+
+Purpose of This Guidance
+------------------------
+
+How should institutions revise admissions practices developed under Reyes and Voss to
+comply with Harmon, and what remains of the prior guidance framework?
+
+Guidance
+--------
+
+This guidance formally rescinds the Departments' 2004 Joint Guidance and the Office for
+Civil Rights' 2008 and 2016 guidance documents, all of which were premised on the
+narrow-tailoring framework established in Reyes v. Trustees of Ashworth University and
+Voss v. Milford University and now overruled by Harmon.
+
+Consistent with Harmon, institutions may no longer consider an applicant's race, whether
+through a numerical index, a qualitative critical-mass objective, or an essay-reading
+practice that assigns weight based on an applicant's racial identity as such. This
+prohibition applies regardless of how individualized or well-documented the process may
+be; the file-specific documentation and evidentiary workability showings described in
+the Departments' now-rescinded prior guidance no longer render a race-conscious practice
+lawful.
+
+Consistent with Harmon's clarification, institutions may continue to consider an
+applicant's discussion, in an essay or elsewhere in the application, of how race has
+affected the applicant's own life, so long as that consideration is treated as it would
+be for any other aspect of the applicant's background and is not used as a proxy for the
+applicant's race itself. The Departments acknowledge that applying this distinction in
+practice may prove difficult, and institutions should consult counsel regarding specific
+essay-reading and file-review practices.
+
+Institutions remain free to pursue student-body diversity through race-neutral means,
+including socioeconomic-status-based preferences, percentage plans, geographic and
+first-generation-status criteria, and expanded recruitment and outreach, consistent with
+the alternatives discussed in Harmon and previously piloted by some institutions under
+Ferreira and Castellano.
+
+Discussion of Prior Cases
+-------------------------
+
+* Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023) -- this opinion interprets that authority. Explains and implements the harmon holding.
+* Harmon v. Board of Trustees of Milford University, 601 U.S. 155 (2023) -- this opinion interprets that authority. Explains and implements the companion title vi holding.
+* Joint Guidance of the Departments of Education and Justice on Race-Conscious Admissions After Reyes and Voss, DOE-DOJ Joint Guidance 2004-01 -- this opinion supersedes that authority. Formally rescinds the 2004 joint guidance.
+* Office for Civil Rights Guidance on the Critical Mass Standard, OCR Memo 08-11 -- this opinion supersedes that authority. Formally rescinds the 2008 guidance.
+* Office for Civil Rights Guidance Reaffirming the Critical Mass Framework, OCR Memo 16-09 -- this opinion supersedes that authority. Formally rescinds the 2016 guidance.
+
+Summary
+-------
+
+This guidance is effective immediately and supersedes all prior guidance premised on
+Reyes and Voss.
+
+
+This document is a fictional synthetic artifact created for the V-RAG research corpus. It does not describe an actual agency action and has no legal effect.

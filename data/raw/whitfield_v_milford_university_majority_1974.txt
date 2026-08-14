@@ -1,0 +1,118 @@
+WHITFIELD V. BOARD OF REGENTS OF MILFORD UNIVERSITY
+Whitfield, Petitioner,
+v.
+Board of Regents of Milford University, Respondent.
+
+Citation: 417 U.S. 226 (1974)
+Court: Supreme Court of the United States
+Decision Date: 1974-06-10
+Opinion Type: Majority
+Author: Justice Alden T. Marsh
+Status: limited
+Overruled/Superseded By: Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023)
+Topic: Compelling Interest - Diversity Rationale
+
+========================================================================================
+
+Procedural History
+------------------
+
+Petitioner Eleanor Whitfield, a rejected applicant to Milford University's undergraduate
+program, filed suit in the United States District Court for the District of Fentress
+alleging that the University's consideration of race in admissions violated the Equal
+Protection Clause of the Fourteenth Amendment. The district court applied the rational-
+basis standard set out in Marsh v. Board of Regents of Calloway State College, 412 F.2d
+118 (4th Cir. 1971) (fictional), and entered judgment for the University. The Fourth
+Circuit affirmed on the same rationale. This Court granted certiorari to resolve whether
+race-conscious admissions programs in public higher education are subject to strict
+scrutiny.
+
+Facts
+-----
+
+Milford University's admissions office reviews each application individually and
+considers an applicant's race as one factor among several in assembling an entering
+class the University describes as diverse along multiple dimensions, including but not
+limited to race. No fixed number of seats is set aside for any racial group, and race is
+not assigned a predetermined numerical weight. Whitfield, who is white, was denied
+admission in a year in which the University admitted a number of minority applicants
+whose standardized test scores and grade point averages were, on the summary record
+before the Court, lower than Whitfield's.
+
+Issue(s) Presented
+------------------
+
+Whether a public university's individualized, race-conscious admissions program is
+subject to strict scrutiny, and if so, whether the University's asserted interest in a
+diverse student body can qualify as compelling.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Opinion of the Court
+--------------------
+
+The Court first rejects the rational-basis approach applied below. Whatever force the
+Fourth Circuit's distinction between remedial and exclusionary classifications may carry
+as a matter of policy, it finds no footing in the text of the Equal Protection Clause,
+which speaks in terms of persons, not groups, and protects 'any person' from denial of
+equal protection. The Fourteenth Amendment's guarantee cannot reasonably be read to
+fluctuate in stringency depending on the race of the individual burdened by a given
+classification. Marsh v. Board of Regents of Calloway State College is therefore
+disapproved to the extent it applied rational-basis review to a race-conscious
+admissions program.
+
+Having settled on strict scrutiny as the governing standard, the Court turns to whether
+Milford University's asserted interest in the educational benefits of a diverse student
+body is capable, as a matter of law, of being compelling. The Court concludes that it
+is. A university's educational mission is a special concern of the First Amendment, and
+this Court has long recognized that the 'robust exchange of ideas' central to that
+mission benefits from a student body assembled with an eye toward a variety of
+viewpoints, experiences, and backgrounds, of which race is one component among many.
+
+The Court is careful to cabin this holding. It does not hold that diversity for its own
+sake, untethered to any showing of educational benefit, will suffice, nor does it hold
+that race may be considered in isolation from the many other factors that bear on an
+applicant's likely contribution to campus discourse. Nor does the Court foreclose the
+possibility -- pressed by the concurrence -- that a university's interest in remedying
+identified past discrimination might independently qualify as compelling in an
+appropriate case; the Court simply does not reach that question on this record.
+
+Turning to narrow tailoring, the Court finds the record before it insufficiently
+developed to say with confidence whether Milford's particular admissions process
+satisfies that requirement, and it remands for the lower courts to examine, among other
+things, whether race is truly one factor among many rather than a determinative or
+mechanically weighted criterion, and whether workable race-neutral alternatives were
+seriously considered and rejected before race was used at all.
+
+The Court emphasizes that today's holding does not endorse race consciousness in
+admissions as a permanent feature of American higher education. Race-conscious remedies
+of the kind at issue here are, by their nature, a temporary bridge to a system in which
+such measures are no longer necessary, and courts applying strict scrutiny should remain
+alert to whether a given program continues to serve a genuine and substantiated
+educational purpose.
+
+Discussion of Prior Cases
+-------------------------
+
+* Marsh v. Board of Regents of Calloway State College, 412 F.2d 118 (4th Cir. 1971) -- this opinion overrules that authority. Disapproves the fourth circuit's application of rational-basis review to race-conscious admissions programs.
+
+Holding
+-------
+
+The Court holds that race-conscious admissions programs are subject to strict scrutiny
+regardless of the race of the applicants burdened, but that a university's genuine
+interest in the educational benefits that flow from a diverse student body can
+constitute a compelling governmental interest, so long as the means used to pursue that
+interest are narrowly tailored.
+
+Conclusion
+----------
+
+Because the Fourth Circuit erred in applying rational-basis review, its judgment is
+VACATED and the case is REMANDED for further proceedings, including a searching narrow-
+tailoring inquiry, consistent with this opinion.

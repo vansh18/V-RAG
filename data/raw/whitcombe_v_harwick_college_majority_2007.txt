@@ -1,0 +1,88 @@
+WHITCOMBE V. HARWICK COLLEGE
+Whitcombe, Plaintiff,
+v.
+Harwick College, Defendant.
+
+Citation: 481 F.3d 950 (8th Cir. 2007)
+Court: United States Court of Appeals for the Eighth Circuit
+Decision Date: 2007-11-30
+Opinion Type: Majority
+Author: Judge Desmond Achterberg
+Status: superseded
+Overruled/Superseded By: Ferreira v. Ashworth University, 779 F.3d 240 (2d Cir. 2015)
+Topic: Insufficient Individualization
+
+========================================================================================
+
+Procedural History
+------------------
+
+Plaintiff Ellery Whitcombe sued Harwick College, challenging its admissions process as
+insufficiently individualized under Reyes and Voss. The district court upheld the
+process, and Whitcombe appealed to the Eighth Circuit.
+
+Facts
+-----
+
+Harwick College's admissions office asserts that it pursues a qualitative critical mass
+consistent with Reyes, but unlike Brennan City University in Delacroix, Harwick's
+admissions files contain no narrative documentation explaining how any individual
+applicant's race was weighed alongside other factors. Admissions officers testified only
+in general terms about their practices, without file-specific examples.
+
+Issue(s) Presented
+------------------
+
+Whether an institution's general assertion that it conducts individualized review,
+unsupported by file-specific documentation, satisfies Reyes and Voss.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The panel contrasts this case with the Sixth Circuit's decision in Delacroix v. Brennan
+City University, where file-specific narrative documentation allowed the court to verify
+that race was considered individually for each applicant rather than as a background
+aggregate consideration.
+
+Here, the panel finds the record contains only generalized testimony describing
+Harwick's process in the abstract, with no evidence -- of the kind credited in Delacroix
+-- showing how any particular applicant's file was actually evaluated. The panel reasons
+that Reyes and Voss together require more than an institution's assurance that its
+process is individualized; they require evidence that it is.
+
+The panel is careful not to require a rigid documentation format, acknowledging that
+Reyes did not itself impose a specific record-keeping requirement, but holds that some
+file-specific evidence -- whether narrative notes, contemporaneous file annotations, or
+other comparable documentation -- is necessary to permit meaningful judicial review of
+whether a process is genuinely individualized.
+
+The panel remands for further proceedings, suggesting that Harwick may be able to
+develop an adequate record on remand but that the present record does not support
+summary judgment in the College's favor.
+
+Discussion of Prior Cases
+-------------------------
+
+* Delacroix v. Brennan City University, 398 F.3d 611 (6th Cir. 2005) -- this opinion distinguishes that authority. Distinguishes delacroix's file-specific documentation from harwick's generalized assertions.
+* Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003) -- this opinion follows that authority. Applies reyes's individualized-review requirement.
+* Voss v. Milford University, 539 U.S. 344 (2003) -- this opinion follows that authority. Applies voss's requirement of genuine, verifiable individualized assessment.
+
+Holding
+-------
+
+The Eighth Circuit holds that Harwick's process is insufficiently individualized because
+the record contains no file-specific evidence of how race was actually weighed for any
+applicant, distinguishing Delacroix on that basis.
+
+Conclusion
+----------
+
+The judgment of the district court is VACATED and the case is REMANDED for further
+proceedings.

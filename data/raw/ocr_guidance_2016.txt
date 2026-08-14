@@ -1,0 +1,63 @@
+OFFICE FOR CIVIL RIGHTS GUIDANCE REAFFIRMING THE CRITICAL MASS FRAMEWORK
+
+Document No.: OCR Memo 16-09
+Issuing Agency: Office for Civil Rights (U.S. Department of Education)
+Date: 2016-02-18
+Document Type: Guidance
+Issued By: Assistant Secretary for Civil Rights
+Status: superseded
+Superseded By: Joint Guidance of the Departments of Justice and Education on Admissions After Harmon, DOJ-DOE Joint Guidance 2023-02
+Topic: Critical Mass Standard
+
+========================================================================================
+
+Background
+----------
+
+Following the Second Circuit's decision in Ferreira v. Ashworth University, 779 F.3d 240
+(2d Cir. 2015) (fictional), the Office for Civil Rights issued this guidance to update
+its 2008 documentation guidance in light of Ferreira's workability requirement.
+
+Purpose of This Guidance
+------------------------
+
+How should institutions document a workability showing consistent with Ferreira, in
+addition to the file-specific documentation described in the 2008 guidance?
+
+Guidance
+--------
+
+This guidance explains that Ferreira requires institutions invoking the diversity
+rationale to develop an evidence-based record -- through study or piloting specific to
+their own applicant pool -- showing that race-neutral alternatives cannot achieve their
+diversity objectives, and that a good-faith belief unsupported by evidence is
+insufficient.
+
+The Office recommends that institutions maintain records of any race-neutral
+alternatives studied or piloted, including socioeconomic-status-based preferences,
+percentage plans, and expanded recruitment efforts, together with quantitative or
+qualitative data comparing outcomes under each alternative to outcomes under the
+institution's existing process.
+
+The Office notes that Ferreira does not require an institution to actually implement and
+fail with a race-neutral alternative before using race-conscious review, and cautions
+institutions against reading Ferreira to impose such a requirement.
+
+This guidance supplements, and should be read together with, the 2008 guidance on file-
+specific documentation and the 2004 Joint Guidance's explanation of the underlying Reyes
+and Voss framework.
+
+Discussion of Prior Cases
+-------------------------
+
+* Ferreira v. Ashworth University, 779 F.3d 240 (2d Cir. 2015) -- this opinion interprets that authority. Explains ferreira's workability requirement for institutions nationwide.
+* Office for Civil Rights Guidance on the Critical Mass Standard, OCR Memo 08-11 -- this opinion affirms that authority. Updates rather than replaces the 2008 documentation guidance.
+
+Summary
+-------
+
+This guidance remains in effect and should be read together with prior guidance
+interpreting Reyes and Voss.
+
+
+This document is a fictional synthetic artifact created for the V-RAG research corpus. It does not describe an actual agency action and has no legal effect.

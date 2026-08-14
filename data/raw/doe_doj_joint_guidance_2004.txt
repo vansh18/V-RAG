@@ -1,0 +1,66 @@
+JOINT GUIDANCE OF THE DEPARTMENTS OF EDUCATION AND JUSTICE ON RACE-CONSCIOUS ADMISSIONS AFTER REYES AND VOSS
+
+Document No.: DOE-DOJ Joint Guidance 2004-01
+Issuing Agency: U.S. Department of Education and U.S. Department of Justice
+Date: 2004-04-01
+Document Type: Guidance
+Issued By: Office of the General Counsel
+Status: superseded
+Superseded By: Joint Guidance of the Departments of Justice and Education on Admissions After Harmon, DOJ-DOE Joint Guidance 2023-02
+Topic: Implementation Guidance
+
+========================================================================================
+
+Background
+----------
+
+Following the Supreme Court's decisions in Reyes v. Trustees of Ashworth University, 539
+U.S. 306 (2003) (fictional), and Voss v. Milford University, 539 U.S. 344 (2003)
+(fictional), the Departments of Education and Justice jointly issued this guidance to
+help institutions bring their admissions practices into compliance with both decisions.
+
+Purpose of This Guidance
+------------------------
+
+How should institutions structure admissions review to satisfy Reyes's approval of
+individualized, qualitative critical-mass review while avoiding the mechanical point-
+bonus structure invalidated in Voss?
+
+Guidance
+--------
+
+This guidance explains that Reyes reaffirmed Whitfield's diversity rationale and
+approved the pursuit of a qualitatively defined critical mass of underrepresented
+students through individualized review, while Voss struck down a mechanical, automatic
+point-bonus system that made race a decisive factor without individualized assessment of
+the rest of an applicant's file.
+
+The Departments recommend that institutions using numerical admissions indices either
+eliminate fixed-value racial bonuses entirely in favor of narrative, file-by-file
+review, or, if a numerical index is retained for other factors, ensure that race is not
+assigned an automatic, outcome-determinative value disconnected from individualized
+assessment.
+
+The Departments further recommend that institutions relying on the diversity rationale
+be prepared to articulate, without reducing it to a fixed percentage, the qualitative
+concept of critical mass they are pursuing, and to document the individualized process
+used to pursue it, consistent with Reyes.
+
+This guidance supersedes the Department of Justice's 1994 guidance regarding the circuit
+split addressed and resolved in Reyes and Voss.
+
+Discussion of Prior Cases
+-------------------------
+
+* Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003) -- this opinion interprets that authority. Explains reyes's approval of qualitative critical-mass review.
+* Voss v. Milford University, 539 U.S. 344 (2003) -- this opinion interprets that authority. Explains voss's prohibition on mechanical point bonuses.
+* U.S. Department of Justice Guidance on the Circuit Split Over Race-Conscious Admissions, DOJ Guidance 94-2 -- this opinion supersedes that authority. Supersedes the 1994 guidance addressing the now-resolved circuit split.
+
+Summary
+-------
+
+This guidance will remain in effect pending further judicial clarification of Reyes and
+Voss.
+
+
+This document is a fictional synthetic artifact created for the V-RAG research corpus. It does not describe an actual agency action and has no legal effect.

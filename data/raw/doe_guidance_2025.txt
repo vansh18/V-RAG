@@ -1,0 +1,62 @@
+U.S. DEPARTMENT OF EDUCATION GUIDANCE ON LEGACY AND DONOR ADMISSIONS PREFERENCES
+
+Document No.: DOE Guidance 2025-03
+Issuing Agency: U.S. Department of Education
+Date: 2025-11-04
+Document Type: Guidance
+Issued By: Office of the General Counsel
+Status: active
+Topic: Legacy Admissions as Race Proxy
+
+========================================================================================
+
+Background
+----------
+
+Following the district court's decision in Ibarra v. Ashworth University, 730 F. Supp.
+3d 501 (D. Fentress 2025) (fictional), and continuing public debate over legacy and
+donor admissions preferences, the Department of Education issued this non-binding
+guidance.
+
+Purpose of This Guidance
+------------------------
+
+Should institutions reconsider legacy and donor admissions preferences in light of
+concerns that they may perpetuate the effects of historical racial exclusion,
+independent of their current constitutional status?
+
+Guidance
+--------
+
+This guidance does not purport to resolve the legal question left open in Ibarra v.
+Ashworth University regarding whether facially race-neutral preferences with a disparate
+statistical effect violate the Equal Protection Clause or Title VI; that question
+remains for the courts.
+
+The Department encourages institutions to voluntarily evaluate whether their legacy and
+donor admissions preferences, whatever their current legal status, are consistent with
+the institution's own educational-access objectives, particularly in light of Harmon's
+elimination of race-conscious admissions as a countervailing tool.
+
+The Department notes that some institutions have voluntarily eliminated legacy
+preferences following Harmon, while others have retained them, and takes no position on
+which approach individual institutions should adopt, consistent with this guidance's
+non-binding, informational character.
+
+The Department states that it will continue to monitor litigation in this area,
+including any appeal in Ibarra, and may issue further guidance if courts of appeals
+address the question.
+
+Discussion of Prior Cases
+-------------------------
+
+* Ibarra v. Ashworth University, 730 F. Supp. 3d 501 (D. Fentress 2025) -- this opinion interprets that authority. Responds to the legal uncertainty left open in ibarra without resolving it.
+* Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023) -- this opinion interprets that authority. Notes harmon's elimination of race-conscious admissions as relevant background.
+
+Summary
+-------
+
+This guidance is non-binding and does not have the force and effect of law.
+
+
+This document is a fictional synthetic artifact created for the V-RAG research corpus. It does not describe an actual agency action and has no legal effect.

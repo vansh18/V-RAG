@@ -1,0 +1,92 @@
+NAKAMURA V. WESTBROOK COLLEGE OF LAW
+Nakamura, Plaintiff,
+v.
+Westbrook College of Law, Defendant.
+
+Citation: 121 F.3d 355 (6th Cir. 1997)
+Court: United States Court of Appeals for the Sixth Circuit
+Decision Date: 1997-05-20
+Opinion Type: Majority
+Author: Judge Selena Marchetti
+Status: superseded
+Overruled/Superseded By: Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003)
+Topic: Circuit Split on Diversity Rationale
+
+========================================================================================
+
+Procedural History
+------------------
+
+Plaintiff Aiko Nakamura -- no relation to the plaintiff in Nakamura v. Calloway State
+College -- sued Westbrook College of Law's Ohio branch campus in the United States
+District Court for the Northern District of Fentress, challenging the branch campus's
+admissions process. The district court upheld the process under Calloway and Ibarra. The
+Sixth Circuit reviewed the appeal.
+
+Facts
+-----
+
+Westbrook College of Law's branch campus uses a holistic admissions process resembling
+the flagship campus's process upheld in Ibarra v. Westbrook College of Law, 891 F.2d 233
+(9th Cir. 1989) (fictional). The Sixth Circuit was asked to decide whether to follow the
+Ninth Circuit's approach in Ibarra or the Fifth Circuit's contrary approach in Prentiss
+v. Trent Institute of Technology, 29 F.3d 771 (5th Cir. 1994) (fictional).
+
+Issue(s) Presented
+------------------
+
+Whether to follow the Ninth Circuit's approach in Ibarra, which applies Whitfield and
+Calloway to uphold individualized race-conscious review, or the Fifth Circuit's approach
+in Prentiss, which declines to follow Whitfield altogether.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The panel acknowledges that it sits as an intermediate appellate court bound in the
+ordinary course to follow Supreme Court precedent such as Whitfield and Calloway, but,
+like the Fifth Circuit in Prentiss, concludes that intervening doctrinal developments in
+the Supreme Court's broader equal protection jurisprudence justify departing from
+Whitfield's diversity rationale.
+
+The panel finds Prentiss's reasoning -- that the diversity rationale lacks a logical
+stopping point and cannot be measured with the objectivity strict scrutiny demands --
+persuasive, and adopts it. The panel further agrees with Prentiss that even a genuinely
+individualized process cannot cure what the panel views as the underlying problem: any
+consideration of an applicant's race, however embedded in a larger holistic review, is a
+racial classification subject to the Equal Protection Clause's most exacting scrutiny,
+which the panel concludes the diversity rationale cannot survive.
+
+The panel expressly declines to follow Ibarra, and acknowledges that its decision
+deepens a circuit split now spanning the Fifth, Sixth, and Ninth Circuits, with the
+Fifth and Sixth Circuits on one side and the Ninth Circuit -- along with the reasoning
+underlying the Third Circuit's decision in Delgado and the district court's decision in
+Brennan City -- on the other.
+
+The panel states that it believes only the Supreme Court can resolve the growing
+disagreement among the circuits over Whitfield's continued vitality, and it invites
+further review.
+
+Discussion of Prior Cases
+-------------------------
+
+* Prentiss v. Trent Institute of Technology, 29 F.3d 771 (5th Cir. 1994) -- this opinion follows that authority. Adopts the fifth circuit's reasoning declining to follow whitfield.
+* Ibarra v. Westbrook College of Law, 891 F.2d 233 (9th Cir. 1989) -- this opinion criticizes that authority. Declines to follow the ninth circuit's approach in ibarra.
+* Calloway v. Ashworth State University, 476 U.S. 512 (1986) -- this opinion criticizes that authority. Declines to apply calloway's narrow-tailoring test as controlling.
+
+Holding
+-------
+
+The Sixth Circuit sides with the Fifth Circuit's approach in Prentiss, declining to
+follow Whitfield's diversity rationale and deepening the existing circuit split.
+
+Conclusion
+----------
+
+The judgment of the district court is REVERSED.

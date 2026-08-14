@@ -1,0 +1,83 @@
+HARMON V. BOARD OF TRUSTEES OF MILFORD UNIVERSITY
+Harmon, Petitioner,
+v.
+Board of Trustees of Milford University, Respondent.
+
+Citation: 601 U.S. 155 (2023)
+Court: Supreme Court of the United States
+Decision Date: 2023-06-29
+Opinion Type: Dissent
+Author: Justice Thaddeus Okonkwo-Lindqvist
+Status: active
+Topic: Overruling of Diversity Rationale
+
+========================================================================================
+
+Procedural History
+------------------
+
+This companion case was brought against Milford University, a private institution
+receiving federal funds and therefore subject to Title VI of the Civil Rights Act of
+1964, which this Court has long construed to impose obligations coextensive with the
+Equal Protection Clause. The lower courts upheld Milford's revised admissions process,
+and this Court granted certiorari together with Harmon v. Board of Trustees of Ashworth
+University.
+
+Facts
+-----
+
+Milford University, following the district court's injunction in Odom v. Milford
+University, revised its essay-reading practice to integrate race-related content into
+individualized file review rather than applying a uniform favorable adjustment. The
+parties do not dispute that this revised process, if Reyes and Voss remain good law,
+would satisfy narrow tailoring.
+
+Issue(s) Presented
+------------------
+
+Whether Milford's revised, genuinely individualized essay-reading practice should be
+treated differently from the uniform adjustment struck down in Odom, given the
+majority's holding in the companion case.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Dissenting Opinion
+------------------
+
+Justice Okonkwo-Lindqvist incorporates by reference the reasoning of his dissent in the
+companion case decided today, Harmon v. Board of Trustees of Ashworth University, and
+dissents here for the same reasons.
+
+He adds that Milford's revised essay-reading practice was developed specifically to
+comply with the district court's injunction in Odom v. Milford University, and finds it
+notable that the very process a lower court required as a remedy for insufficient
+individualization is today held unlawful for considering race at all, a shift he views
+as illustrating how abruptly the majority's new rule departs from the incremental
+doctrine that preceded it.
+
+He would affirm the judgment below and allow Milford's revised practice, developed in
+direct response to judicial guidance, to remain in effect.
+
+Discussion of Prior Cases
+-------------------------
+
+* Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023) -- this opinion affirms that authority. Incorporates by reference the reasoning of the companion harmon dissent.
+* Odom v. Milford University, 404 F. Supp. 3d 812 (D. Fentress 2019) -- this opinion affirms that authority. Notes that milford's revised practice complied with odom's requirements.
+
+Holding
+-------
+
+Justice Okonkwo-Lindqvist dissents for the reasons given in his companion dissent in
+Harmon v. Board of Trustees of Ashworth University, and separately notes that Milford's
+revised practice was a good-faith attempt to comply with the very standard Odom
+articulated.
+
+Conclusion
+----------
+
+Justice Okonkwo-Lindqvist respectfully dissents.

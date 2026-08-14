@@ -1,0 +1,89 @@
+CALLOWAY V. ASHWORTH STATE UNIVERSITY
+Calloway, Petitioner,
+v.
+Ashworth State University, Respondent.
+
+Citation: 476 U.S. 512 (1986)
+Court: Supreme Court of the United States
+Decision Date: 1986-06-24
+Opinion Type: Dissent
+Author: Justice Hollis Vance
+Status: active
+Topic: Strict Scrutiny - Colorblind Constitution
+
+========================================================================================
+
+Procedural History
+------------------
+
+Petitioner Daniel Calloway, a rejected applicant to Ashworth State University, sued in
+the United States District Court for the District of Fentress, alleging that the
+University's holistic admissions process nonetheless functioned as an informal quota
+because the percentage of minority students in each entering class had remained within a
+narrow band for six consecutive years. The district court and the Fourth Circuit both
+rejected the claim, applying Whitfield and Brennan City. This Court granted certiorari
+to clarify the narrow-tailoring inquiry left open in Whitfield.
+
+Facts
+-----
+
+Ashworth State University's admissions office reviews each application individually and
+considers race as one of many factors. Over six consecutive admissions cycles, the
+percentage of the entering class identifying as a member of a designated minority group
+ranged between eleven and thirteen percent. Calloway argued this statistical stability
+was itself evidence of an unwritten quota functioning beneath a facially individualized
+process.
+
+Issue(s) Presented
+------------------
+
+Whether stare decisis should preserve Whitfield's diversity rationale notwithstanding
+the dissent's view that it was wrongly decided.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Dissenting Opinion
+------------------
+
+Justice Vance reiterates the objections he raised twelve years earlier in Whitfield:
+that no interest, however sincerely held, justifies classifying an individual applicant
+by race, and that the majority's diversity rationale rests on an assumption of group-
+based viewpoint that the Equal Protection Clause forbids government from making.
+
+Justice Vance further argues that today's three-part narrow-tailoring test, however
+carefully constructed, cannot cure what he views as a foundational defect: a test built
+to police the degree of race-consciousness still permits race-consciousness, and no
+degree of procedural safeguard changes that basic constitutional calculus in his view.
+
+On stare decisis, Justice Vance writes that the doctrine is at its weakest when a
+decision, like Whitfield, departs from the text and history of the constitutional
+provision it purports to interpret. In his view, the passage of twelve years and the
+reliance institutions have placed on Whitfield do not, by themselves, transform an
+erroneous reading of the Equal Protection Clause into a correct one.
+
+Justice Vance closes by expressing his view that a future Court will eventually
+recognize what he believes Whitfield got wrong: that the Constitution's promise of equal
+protection is honored only by a rule that forbids government from classifying
+individuals by race for any purpose.
+
+Discussion of Prior Cases
+-------------------------
+
+* Whitfield v. Board of Regents of Milford University, 417 U.S. 226 (1974) -- this opinion affirms that authority. Reiterates the colorblind-constitution position first stated in the whitfield dissent.
+
+Holding
+-------
+
+Justice Vance, dissenting for the second time in this line of cases, argues that
+Whitfield was wrongly decided and that stare decisis should not preserve a rule
+permitting government to sort individuals by race.
+
+Conclusion
+----------
+
+Justice Vance respectfully dissents.

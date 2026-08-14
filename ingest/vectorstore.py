@@ -1,6 +1,7 @@
 from config import VECTOR_DB_DIR
 from langchain_chroma import Chroma
-from ingest.embedder import get_embedding_model, COLLECTION_NAME
+from ingest.embedder import get_embedding_model
+from config import COLLECTION_NAME
 
 def create_vector_store(chunks):
     """

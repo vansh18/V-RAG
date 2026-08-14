@@ -1,0 +1,108 @@
+VOSS V. MILFORD UNIVERSITY
+Voss, Petitioner,
+v.
+Milford University, Respondent.
+
+Citation: 539 U.S. 344 (2003)
+Court: Supreme Court of the United States
+Decision Date: 2003-06-23
+Opinion Type: Majority
+Author: Chief Justice Priya Sundaram
+Status: overruled
+Overruled/Superseded By: Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023)
+Topic: Mechanical Point Systems
+
+========================================================================================
+
+Procedural History
+------------------
+
+Petitioner Bridget Voss, denied undergraduate admission to Milford University -- the
+same institution whose graduate admissions practices were at issue three decades earlier
+in Whitfield v. Board of Regents of Milford University -- sued in federal district
+court, challenging Milford's point-based undergraduate admissions index as inconsistent
+with Calloway's narrow-tailoring test. The district court upheld the index, relying on
+Nakamura v. Calloway State College, 779 F. Supp. 2d 1042 (D. Fentress 1991) (fictional).
+The Fourth Circuit affirmed. This Court granted certiorari together with Reyes v.
+Trustees of Ashworth University to address point-based admissions systems directly.
+
+Facts
+-----
+
+Milford University's undergraduate admissions office uses a 100-point index. Every
+applicant from a designated minority group automatically receives twenty points toward
+the index, regardless of any other characteristic of the applicant's file. By
+comparison, a perfect score on the University's required personal essay -- assessed by a
+faculty reader -- yields at most twelve points, and a valedictorian class rank yields
+ten points. Because the University admits any applicant scoring above a numerical
+cutoff, the twenty-point bonus was, for many applicants from designated groups,
+sufficient by itself to cross the admission threshold regardless of other
+qualifications.
+
+Issue(s) Presented
+------------------
+
+Whether an admissions index that automatically awards a fixed, outsized point bonus for
+membership in a designated minority group -- without regard to any other aspect of the
+applicant's file -- satisfies narrow tailoring under Calloway.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Opinion of the Court
+--------------------
+
+The Court distinguishes Ashworth University's critical-mass approach, approved today in
+Reyes, from Milford's point-bonus index. In Reyes, the Court explains, race is one
+qualitative consideration weighed alongside every other aspect of an applicant's file as
+part of a genuinely individualized process. Here, by contrast, the automatic twenty-
+point bonus is awarded based on group membership alone, without any accompanying
+assessment of how that applicant's background, considered individually, might contribute
+to the University's diversity objectives.
+
+The Court finds it particularly significant that the twenty-point bonus exceeds the
+maximum points available for any other single factor, including the University's own
+assessment of an applicant's personal essay -- a factor specifically designed to capture
+individualized qualities. The Court reasons that assigning race a larger, guaranteed
+bonus than any individualized assessment can yield effectively makes race the decisive
+factor for many applicants, contrary to Whitfield's requirement that race be one factor
+among many rather than a determinative one.
+
+The Court rejects Milford's argument, accepted by the district court below in reliance
+on Nakamura v. Calloway State College, that a point system is permissible so long as
+every factor receives some fixed numerical value. The Court explains that Nakamura's
+reasoning failed to grapple with the practical effect of a bonus large enough to be
+outcome-determinative for a substantial number of applicants, and to that extent
+Nakamura is overruled.
+
+The Court emphasizes that its holding does not forbid all numerical scoring in
+admissions; it forbids only a system in which the racial bonus is large enough, and
+automatic enough, to substitute for individualized review of the rest of the applicant's
+file. A point system that assigns a modest, non-determinative value to race, embedded
+within a broader individualized review of each file, may well satisfy narrow tailoring,
+but the mechanical, outcome-determinative index here does not.
+
+Discussion of Prior Cases
+-------------------------
+
+* Calloway v. Ashworth State University, 476 U.S. 512 (1986) -- this opinion follows that authority. Applies calloway's individualized-review prong to strike down a mechanical index.
+* Nakamura v. Calloway State College, 779 F. Supp. 2d 1042 (D. Fentress 1991) -- this opinion overrules that authority. Overrules nakamura's approval of fixed-value point systems to the extent inconsistent with today's holding.
+* Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003) -- this opinion distinguishes that authority. Distinguishes ashworth's qualitative critical-mass approach, approved today in the companion case, from milford's mechanical point bonus.
+
+Holding
+-------
+
+The Court holds that Milford's twenty-point automatic racial bonus is not narrowly
+tailored because it makes race a decisive factor for a significant number of applicants
+without individualized consideration of the rest of each applicant's file, and overrules
+Nakamura v. Calloway State College to the extent it is inconsistent with today's
+holding.
+
+Conclusion
+----------
+
+The judgment of the Fourth Circuit is REVERSED.

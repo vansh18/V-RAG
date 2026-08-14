@@ -1,0 +1,64 @@
+U.S. DEPARTMENT OF JUSTICE GUIDANCE RESCINDING SUPERSEDED ADMISSIONS GUIDANCE
+
+Document No.: DOJ Guidance 2011-4
+Issuing Agency: U.S. Department of Justice
+Date: 2011-06-30
+Document Type: Guidance
+Issued By: Office of Legal Counsel
+Status: superseded
+Superseded By: Joint Guidance of the Departments of Justice and Education on Admissions After Harmon, DOJ-DOE Joint Guidance 2023-02
+Topic: Implementation Guidance
+
+========================================================================================
+
+Background
+----------
+
+The Department of Justice periodically reviews its guidance documents to ensure they
+remain consistent with current law. This review identified two guidance documents
+predating the Supreme Court's decisions in Reyes and Voss that remained formally in
+effect notwithstanding subsequent developments.
+
+Purpose of This Guidance
+------------------------
+
+Should the Department formally rescind guidance documents predating Reyes and Voss that
+address a circuit split those decisions resolved?
+
+Guidance
+--------
+
+This guidance formally rescinds the Office for Civil Rights' 1979 policy memorandum and
+the Department of Justice's 1994 guidance, both of which addressed admissions practices
+under legal standards superseded by Reyes v. Trustees of Ashworth University and Voss v.
+Milford University.
+
+The 1979 memorandum addressed the distinction between fixed set-asides and
+individualized review under Whitfield and Delgado, a framework substantially elaborated
+by Calloway's three-part narrow-tailoring test in 1986 and further refined by Reyes and
+Voss in 2003.
+
+The 1994 guidance addressed a circuit split between the Fifth and Sixth Circuits, on one
+hand, and the Ninth Circuit, on the other, over whether Whitfield's diversity rationale
+should be followed at all. That split was definitively resolved by Reyes, which
+reaffirmed the diversity rationale and disapproved the contrary circuit authority.
+
+Institutions should now rely exclusively on the 2004 Joint Guidance of the Departments
+of Education and Justice and the Office for Civil Rights' 2008 guidance on documentation
+practices, both of which remain in effect and reflect the current legal framework
+established by Reyes and Voss.
+
+Discussion of Prior Cases
+-------------------------
+
+* Office for Civil Rights Policy Memorandum on Admissions Review Standards, OCR Memo 79-06 -- this opinion supersedes that authority. Formally rescinds the 1979 memorandum as superseded.
+* U.S. Department of Justice Guidance on the Circuit Split Over Race-Conscious Admissions, DOJ Guidance 94-2 -- this opinion supersedes that authority. Formally rescinds the 1994 guidance as superseded.
+* Reyes v. Trustees of Ashworth University, 539 U.S. 306 (2003) -- this opinion interprets that authority. Explains reyes's resolution of the circuit split addressed in the rescinded 1994 guidance.
+
+Summary
+-------
+
+The 1979 and 1994 guidance documents are RESCINDED effective immediately.
+
+
+This document is a fictional synthetic artifact created for the V-RAG research corpus. It does not describe an actual agency action and has no legal effect.

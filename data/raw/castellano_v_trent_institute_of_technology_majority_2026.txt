@@ -1,0 +1,94 @@
+CASTELLANO V. TRENT INSTITUTE OF TECHNOLOGY
+Castellano, Plaintiff,
+v.
+Trent Institute of Technology, Defendant.
+
+Citation: 110 F.4th 305 (5th Cir. 2026)
+Court: United States Court of Appeals for the Fifth Circuit
+Decision Date: 2026-03-17
+Opinion Type: Majority
+Author: Judge Marcus Castellane
+Status: active
+Topic: Graduate Admissions Scope
+
+========================================================================================
+
+Procedural History
+------------------
+
+Plaintiff Renata Castellano -- no relation to Judge Marcus Castellane -- sued Trent
+Institute of Technology's graduate engineering program, which had adopted essay-reading
+guidance modeled explicitly on the Ninth Circuit's decision in Delacroix v. Westbrook
+College of Law rather than the Fourth Circuit's decision in Nguyen v. Trent Institute of
+Technology, which struck down the same University's undergraduate essay-scoring rubric
+two years earlier.
+
+Facts
+-----
+
+After the Fourth Circuit enjoined Trent Institute's undergraduate essay-scoring rubric
+in Nguyen, the University's graduate engineering program -- located within the
+geographic jurisdiction of the Fifth Circuit rather than the Fourth -- adopted guidance
+modeled on the Ninth Circuit's approach in Delacroix v. Westbrook College of Law,
+instructing readers to credit race-related adversity narratives on the same
+individualized basis as other adversity narratives.
+
+Issue(s) Presented
+------------------
+
+Whether Harmon applies with equal force to graduate and professional-school admissions,
+and whether the Fifth Circuit should follow the Fourth Circuit's approach in Nguyen or
+the Ninth Circuit's approach in Delacroix regarding essay-reading guidance.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The panel first holds, as a threshold matter not disputed by any party, that nothing in
+Harmon's reasoning distinguishes graduate or professional admissions from undergraduate
+admissions; the Equal Protection Clause's prohibition on considering an applicant's
+race, the panel reasons, does not depend on the applicant's degree level.
+
+Turning to the essay-reading question, the panel acknowledges the existing conflict
+between the Fourth Circuit's decision in Nguyen and the Ninth Circuit's decision in
+Delacroix, and elects to follow Nguyen. The panel reasons that any instruction directing
+admissions readers to specifically credit race-related content -- even alongside other
+forms of adversity, as in Delacroix -- risks reintroducing race as an operative factor
+by directing readers' attention to racial identity in a way ordinary individualized
+essay review would not.
+
+The panel expresses concern that the Ninth Circuit's approach in Delacroix, by
+explicitly instructing readers to consider race-related adversity narratives,
+effectively reintroduces race consciousness through the essay-reading process, even
+without a fixed point value, and finds this concern more consistent with Harmon's
+reasoning than the Ninth Circuit's contrary conclusion.
+
+The panel expressly acknowledges the resulting three-way disagreement in the circuits --
+the Fourth and now Fifth Circuits on one side, the Ninth Circuit on the other -- and
+states that it believes the question is likely to warrant further review.
+
+Discussion of Prior Cases
+-------------------------
+
+* Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023) -- this opinion follows that authority. Extends harmon's holding to graduate and professional admissions.
+* Nguyen v. Trent Institute of Technology, 98 F.4th 214 (4th Cir. 2024) -- this opinion follows that authority. Adopts the fourth circuit's narrower reading of harmon's essay clarification.
+* Delacroix v. Westbrook College of Law, 101 F.4th 782 (9th Cir. 2024) -- this opinion criticizes that authority. Declines to follow the ninth circuit's broader reading of harmon's essay clarification, deepening the circuit split.
+
+Holding
+-------
+
+The Fifth Circuit holds that Harmon applies with equal force to graduate and
+professional admissions, and, addressing the essay-reading question directly, sides with
+the Fourth Circuit's approach in Nguyen over the Ninth Circuit's approach in Delacroix,
+further deepening the existing circuit split.
+
+Conclusion
+----------
+
+The judgment of the district court is REVERSED.

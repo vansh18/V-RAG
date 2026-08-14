@@ -1,0 +1,91 @@
+NAKAMURA V. CALLOWAY STATE COLLEGE
+Nakamura, Plaintiff,
+v.
+Calloway State College, Defendant.
+
+Citation: 779 F. Supp. 2d 1042 (D. Fentress 1991)
+Court: United States District Court for the District of Fentress
+Decision Date: 1991-02-11
+Opinion Type: Majority
+Author: Judge Owen Pryce
+Status: superseded
+Overruled/Superseded By: Voss v. Milford University, 539 U.S. 344 (2003)
+Topic: Point-Bonus Systems
+
+========================================================================================
+
+Procedural History
+------------------
+
+Plaintiff Kenji Nakamura sued Calloway State College in the United States District Court
+for the District of Fentress, alleging that the College's point-bonus admissions index
+violated Calloway v. Ashworth State University's narrow-tailoring requirement because it
+assigned race a fixed numerical value rather than treating it as an unweighted factor
+within a holistic review.
+
+Facts
+-----
+
+Calloway State College uses a 150-point admissions index. Applicants receive points for
+class rank, standardized test scores, extracurricular leadership, geographic origin,
+and, relevant here, twenty points for membership in a designated minority group -- a
+larger bonus than the College awards for any other single factor, including a perfect
+standardized test score, which yields twelve points. Nakamura, who narrowly missed the
+index cutoff for admission, argued the twenty-point racial bonus assigned race a fixed
+numerical weight inconsistent with Calloway.
+
+Issue(s) Presented
+------------------
+
+Whether an admissions index that assigns race a fixed point value, while also assigning
+point values to other factors, satisfies Calloway's requirement that race be considered
+without a fixed numerical weight.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The court reasons that Calloway's concern was with race operating as a hidden or
+unbounded thumb on the scale, not with numerical scoring as such. Because Calloway
+State's index assigns a fixed point value to every factor considered -- not merely race
+-- the court finds the twenty-point racial bonus no more constitutionally suspect than
+the twelve points awarded for a top standardized test score or the points awarded for
+extracurricular leadership.
+
+The court acknowledges that the twenty-point bonus is larger than the points awarded for
+any other single factor, but finds this difference in magnitude does not, standing
+alone, transform an otherwise individualized index into a quota, so long as the index
+continues to function as one component of an admissions decision that also considers
+each applicant's full file.
+
+The court finds the index's transparency to be, if anything, a point in its favor:
+because the weight assigned to every factor, including race, is disclosed and fixed in
+advance, the index avoids the risk of arbitrary or inconsistent application that a
+wholly discretionary process might present.
+
+The court declines to adopt a categorical rule against point-based admissions indices,
+reasoning that Calloway's narrow-tailoring test asks whether race is genuinely one
+factor among many, not whether the factors are expressed in narrative or numerical form.
+
+Discussion of Prior Cases
+-------------------------
+
+* Calloway v. Ashworth State University, 476 U.S. 512 (1986) -- this opinion follows that authority. Reads calloway's narrow-tailoring test to permit numerical scoring so long as race is not uniquely or exclusively weighted.
+
+Holding
+-------
+
+The district court holds that because every factor in the College's index -- not only
+race -- receives a fixed point value, the index is a permissible, transparent method of
+individualized review rather than a disguised quota, and satisfies narrow tailoring.
+
+Conclusion
+----------
+
+The court enters judgment for Calloway State College.

@@ -1,0 +1,84 @@
+HARMON V. BOARD OF TRUSTEES OF ASHWORTH UNIVERSITY
+Harmon, Petitioner,
+v.
+Board of Trustees of Ashworth University, Respondent.
+
+Citation: 601 U.S. 118 (2023)
+Court: Supreme Court of the United States
+Decision Date: 2023-06-29
+Opinion Type: Concurrence
+Author: Justice Marcus Castellane
+Status: active
+Topic: Military Academy Carve-Out
+
+========================================================================================
+
+Procedural History
+------------------
+
+Petitioner Diane Harmon, denied admission to Ashworth University, sued in federal
+district court, urging the court to disregard Reyes and Calloway as wrongly decided. The
+district court, bound by this Court's precedent, upheld Ashworth's admissions process,
+and the Tenth Circuit affirmed on the strength of its own prior decision in Castellano
+v. Ashworth University. This Court granted certiorari, together with Harmon v. Board of
+Trustees of Milford University, to reconsider Whitfield, Calloway, Reyes, and Voss.
+
+Facts
+-----
+
+Ashworth University's admissions process in 2023 is substantially the same qualitative,
+individualized process this Court approved in Reyes in 2003 and the Tenth Circuit
+approved, on a developed evidentiary record concerning race-neutral alternatives, in
+Castellano in 2017. The parties do not dispute that Ashworth's process, if Reyes remains
+good law, satisfies the narrow-tailoring framework Reyes, Ferreira, and Castellano
+together describe. Harmon instead argues that Reyes and the diversity rationale on which
+it rests should be overruled.
+
+Issue(s) Presented
+------------------
+
+Whether the majority's holding extends to the federal service academies, which have
+historically invoked distinct national-security interests in support of race-conscious
+admissions.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Concurring Opinion
+------------------
+
+Justice Castellane joins the Court's opinion in full but writes separately to flag an
+issue the majority's reasoning does not squarely address: whether the distinct interests
+asserted by the federal service academies, including interests related to unit cohesion
+and national security historically invoked in that specific context, might be analyzed
+differently than the general educational-diversity interest the Court rejects today.
+
+He notes that no service academy is a party to this litigation and that the record
+contains no evidence bearing on the academies' distinct interests, and emphasizes that
+the Court's opinion should not be read either to resolve or to foreclose that separate
+question.
+
+Justice Castellane writes to ensure that lower courts, applying today's decision,
+understand that its reasoning is addressed to civilian higher education and does not
+purport to answer a question the Court has not been asked to decide.
+
+Discussion of Prior Cases
+-------------------------
+
+* Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023) -- this opinion affirms that authority. Joins the majority opinion in full.
+
+Holding
+-------
+
+Justice Castellane concurs in full, writing separately to note that the majority opinion
+does not address, and does not resolve, whether a distinct national-security rationale
+might apply differently to the federal service academies.
+
+Conclusion
+----------
+
+Justice Castellane concurs.

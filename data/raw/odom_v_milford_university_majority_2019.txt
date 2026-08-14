@@ -1,0 +1,91 @@
+ODOM V. MILFORD UNIVERSITY
+Odom, Plaintiff,
+v.
+Milford University, Defendant.
+
+Citation: 404 F. Supp. 3d 812 (D. Fentress 2019)
+Court: United States District Court for the District of Fentress
+Decision Date: 2019-08-22
+Opinion Type: Majority
+Author: Judge Priyanka Deshmukh
+Status: overruled
+Overruled/Superseded By: Harmon v. Board of Trustees of Ashworth University, 601 U.S. 118 (2023)
+Topic: Essay-Based Proxy Consideration
+
+========================================================================================
+
+Procedural History
+------------------
+
+Plaintiff Caleb Odom sued Milford University -- the same institution whose point-bonus
+index was struck down in Voss v. Milford University -- alleging that Milford's post-Voss
+essay-reading practice functioned as a disguised proxy for the very point bonus Voss
+invalidated. The district court considered the claim in light of Voss, Ferreira, and
+Castellano.
+
+Facts
+-----
+
+After Voss, Milford University eliminated its point-bonus index but instructed
+admissions readers to give 'additional favorable weight' to personal essays that
+discussed the applicant's racial identity or racial background, without further guidance
+on how that weight was to be integrated with the rest of an applicant's file. Unlike
+Ashworth University in Castellano, Milford had not developed any evidentiary record
+regarding race-neutral alternatives following Ferreira.
+
+Issue(s) Presented
+------------------
+
+Whether an essay-reading practice that awards undefined 'additional favorable weight'
+for race-referencing content, without individualized integration into the rest of the
+file or an evidentiary workability showing, satisfies Voss and Ferreira.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Legal Analysis
+--------------
+
+The court finds Milford's instruction to award 'additional favorable weight' for race-
+referencing essay content functionally equivalent to the automatic point bonus this
+Court struck down in Voss, because the instruction operates independent of, rather than
+integrated with, individualized assessment of the applicant's full file.
+
+The court distinguishes Delacroix, where narrative documentation reflected genuine file-
+by-file integration of race with other factors, because Milford's readers were
+instructed to apply a uniform favorable adjustment for race-referencing content
+regardless of the essay's other qualities or the rest of the applicant's file.
+
+The court separately finds that Milford, unlike Ashworth University in Castellano, has
+developed no evidentiary record regarding race-neutral alternatives since Ferreira was
+decided in 2015, a further, independent basis for finding the University's program not
+narrowly tailored.
+
+The court enjoins the University's essay-reading practice as currently structured but
+does not foreclose a revised practice that integrates race-related essay content into a
+genuinely individualized assessment supported by the workability showing Ferreira
+requires.
+
+Discussion of Prior Cases
+-------------------------
+
+* Voss v. Milford University, 539 U.S. 344 (2003) -- this opinion follows that authority. Finds the essay-reading practice functionally equivalent to the point bonus struck down in voss.
+* Ferreira v. Ashworth University, 779 F.3d 240 (2d Cir. 2015) -- this opinion follows that authority. Applies ferreira's workability requirement, which milford has not satisfied.
+* Castellano v. Ashworth University, 872 F.3d 1188 (10th Cir. 2017) -- this opinion distinguishes that authority. Distinguishes ashworth's developed evidentiary record in castellano from milford's undeveloped record.
+* Delacroix v. Brennan City University, 398 F.3d 611 (6th Cir. 2005) -- this opinion distinguishes that authority. Distinguishes delacroix's genuine file-by-file integration from milford's uniform essay adjustment.
+
+Holding
+-------
+
+The district court holds that Milford's essay-reading practice functions as a mechanical
+proxy for the point bonus struck down in Voss, and further finds Milford's record
+deficient under Ferreira for lack of any evidentiary workability showing.
+
+Conclusion
+----------
+
+The court enjoins Milford University's current essay-reading practice.

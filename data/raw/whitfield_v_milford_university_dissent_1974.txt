@@ -1,0 +1,89 @@
+WHITFIELD V. BOARD OF REGENTS OF MILFORD UNIVERSITY
+Whitfield, Petitioner,
+v.
+Board of Regents of Milford University, Respondent.
+
+Citation: 417 U.S. 226 (1974)
+Court: Supreme Court of the United States
+Decision Date: 1974-06-10
+Opinion Type: Dissent
+Author: Justice Hollis Vance
+Status: active
+Topic: Strict Scrutiny - Colorblind Constitution
+
+========================================================================================
+
+Procedural History
+------------------
+
+Petitioner Eleanor Whitfield, a rejected applicant to Milford University's undergraduate
+program, filed suit in the United States District Court for the District of Fentress
+alleging that the University's consideration of race in admissions violated the Equal
+Protection Clause of the Fourteenth Amendment. The district court applied the rational-
+basis standard set out in Marsh v. Board of Regents of Calloway State College, 412 F.2d
+118 (4th Cir. 1971) (fictional), and entered judgment for the University. The Fourth
+Circuit affirmed on the same rationale. This Court granted certiorari to resolve whether
+race-conscious admissions programs in public higher education are subject to strict
+scrutiny.
+
+Facts
+-----
+
+Milford University's admissions office reviews each application individually and
+considers an applicant's race as one factor among several in assembling an entering
+class the University describes as diverse along multiple dimensions, including but not
+limited to race. No fixed number of seats is set aside for any racial group, and race is
+not assigned a predetermined numerical weight. Whitfield, who is white, was denied
+admission in a year in which the University admitted a number of minority applicants
+whose standardized test scores and grade point averages were, on the summary record
+before the Court, lower than Whitfield's.
+
+Issue(s) Presented
+------------------
+
+Whether the Equal Protection Clause permits government actors to classify individuals by
+race for any purpose, including the pursuit of educational diversity.
+
+Standard of Review
+------------------
+
+This case is governed by strict scrutiny, under which a race-conscious government policy
+is sustained only if it is narrowly tailored to further a compelling governmental
+interest.
+
+Dissenting Opinion
+------------------
+
+Justice Vance agrees with the majority that strict scrutiny applies but parts ways over
+whether any interest -- diversity, remediation, or otherwise -- can be compelling enough
+to justify classifying individual human beings by race. In his view, the Equal
+Protection Clause protects persons, not groups, and its guarantee is dishonored the
+moment the government sorts an individual applicant into a racial category and treats
+that category as relevant to how the applicant is judged.
+
+Justice Vance criticizes the majority's diversity rationale as resting on stereotype:
+the unstated premise that members of a given racial group will predictably contribute a
+particular viewpoint to campus discourse. That premise, he writes, is itself a form of
+the very racial essentialism the Equal Protection Clause was designed to root out.
+
+He is equally unpersuaded by the concurrence's remedial rationale, which he warns will
+prove infinitely elastic in application: virtually any institution with a documented
+history reaching back far enough will be able to locate some past exclusion to justify
+present-day racial sorting, with no reliable judicial mechanism for determining when the
+remedy has run its course.
+
+Justice Vance would hold that Milford University's consideration of race, however
+individualized and however well-intentioned, fails strict scrutiny because no compelling
+interest can justify classifying an individual applicant by race, and he would reverse
+outright rather than remand.
+
+Holding
+-------
+
+Justice Vance dissents, arguing that the Constitution is colorblind and that no
+interest, however sincerely held, can justify sorting individual applicants by race.
+
+Conclusion
+----------
+
+Justice Vance respectfully dissents and would reverse the judgment below.

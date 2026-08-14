@@ -1,0 +1,67 @@
+OFFICE FOR CIVIL RIGHTS POLICY MEMORANDUM ON ADMISSIONS REVIEW STANDARDS
+
+Document No.: OCR Memo 79-06
+Issuing Agency: Office for Civil Rights (U.S. Department of Education)
+Date: 1979-04-22
+Document Type: Guidance
+Issued By: Assistant Secretary for Civil Rights
+Status: superseded
+Superseded By: Office for Civil Rights Guidance on the Critical Mass Standard, OCR Memo 08-11
+Topic: Implementation Guidance
+
+========================================================================================
+
+Background
+----------
+
+Since the Department of Education's 1975 guidance interpreting Whitfield, the Third
+Circuit's decision in Delgado v. Trent Institute of Technology, 538 F.2d 902 (3d Cir.
+1976) (fictional), and a federal district court's decision in In re Admissions Policy of
+Brennan City University, 312 F. Supp. 774 (E.D. Fentress 1978) (fictional), have further
+clarified the distinction between permissible individualized review and impermissible
+fixed set-asides.
+
+Purpose of This Guidance
+------------------------
+
+How should institutions structure admissions review to avoid the fixed set-aside
+structure held unlawful in Delgado while remaining consistent with the individualized
+review approved in Brennan City?
+
+Guidance
+--------
+
+This memorandum explains that Delgado struck down a fixed, numerically defined set-aside
+administered on a separate review track, while Brennan City upheld a unified process in
+which race is one of many factors considered for every applicant without any separate
+track or numerical target.
+
+The Office recommends that institutions review their admissions procedures to confirm
+that (1) all applications are reviewed through a single process; (2) no fixed number of
+seats, whether described as a 'goal,' a 'target,' or a 'set-aside,' is reserved for any
+racial group; and (3) reviewers do not apply different qualifying thresholds to
+applicants of different races.
+
+The Office further recommends periodic internal audits of admissions data to identify
+patterns -- such as a consistently stable percentage of admitted students from a given
+group across multiple years -- that could suggest an informal quota is operating in
+practice notwithstanding a facially individualized policy.
+
+Institutions are encouraged to maintain documentation, of the kind credited by the
+district court in Brennan City, describing how individual applications are actually
+evaluated, as such documentation may be important evidence in any future litigation.
+
+Discussion of Prior Cases
+-------------------------
+
+* Delgado v. Trent Institute of Technology, 538 F.2d 902 (3d Cir. 1976) -- this opinion interprets that authority. Explains delgado's prohibition on fixed set-asides.
+* In re Admissions Policy of Brennan City University, 312 F. Supp. 774 (E.D. Fentress 1978) -- this opinion interprets that authority. Explains brennan city's approval of unified, individualized review.
+
+Summary
+-------
+
+This guidance supersedes no prior guidance but is intended to be read together with the
+Department's 1975 guidance interpreting Whitfield.
+
+
+This document is a fictional synthetic artifact created for the V-RAG research corpus. It does not describe an actual agency action and has no legal effect.
