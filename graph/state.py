@@ -4,7 +4,7 @@ from langchain_core.documents import Document
 from agents.schemas import (
     ResponderOutput,
     ProsecutorOutput,
-    # JudgeOutput,
+    JudgeOutput,
 )
 
 class VRAGState(TypedDict):
@@ -14,5 +14,5 @@ class VRAGState(TypedDict):
     responder_output: Optional[ResponderOutput]
     prosecutor_output: Optional[ProsecutorOutput]
     additional_documents: list[Document]
-    # judge_output: Optional[JudgeOutput]
+    judge_output: Optional[JudgeOutput]
     revision_count: int

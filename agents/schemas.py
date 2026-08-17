@@ -1,8 +1,10 @@
 from pydantic import BaseModel, Field
 from typing import Literal, Optional
 
-# ---------- Responder Schema ----------
 
+# ==========================
+# Responder Schema 
+# ==========================
 class EvidenceReference(BaseModel):
     source: str = Field(
         description="Source filename of the retrieved document chunk."
@@ -11,7 +13,6 @@ class EvidenceReference(BaseModel):
     chunk_id: int = Field(
         description="Identifier of the specific chunk within the source document."
     )
-
 
 class Claim(BaseModel):
     claim_text: str = Field(
@@ -25,7 +26,6 @@ class Claim(BaseModel):
             "the claim."
         )
     )
-
 
 class ResponderOutput(BaseModel):
     answer: str = Field(
@@ -42,8 +42,10 @@ class ResponderOutput(BaseModel):
         )
     )
 
-# ---------- Prosecutor Schema ----------
 
+# ==========================
+# Prosecutor Schema 
+# ==========================
 class ClaimRiskAssessment(BaseModel):
     claim_text: str = Field(
         description=(
@@ -121,5 +123,27 @@ class ProsecutorOutput(BaseModel):
     findings: list[ProsecutorFinding] = Field(
         description=(
             "Detailed findings for claims that the Prosecutor determined required further investigation. Claims that were not investigated should not appear here."
+        )
+    )
+
+# ==========================
+# Judge Schema
+# ==========================
+class JudgeOutput(BaseModel):
+    decision: Literal["Accept", "Revise"] = Field(
+        description=(
+            "The Judge's final decision on whether the current response is acceptable or must be revised based on the available evidence and the Prosecutor's findings."
+        )
+    )
+
+    reasoning: str = Field(
+        description=(
+            "A concise explanation of why the Judge accepted the response or determined that it requires revision, considering the Responder's claims, the Prosecutor's findings, and the available evidence."
+        )
+    )
+
+    revision_instructions: str = Field(
+        description=(
+            "Specific, actionable instructions for the Responder to follow if the decision is Revise. Identify which claims, reasoning, or parts of the answer need to be corrected, removed, qualified, or supported with better evidence. If the decision is Accept, return an empty string."
         )
     )

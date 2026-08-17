@@ -36,7 +36,9 @@ CHAT_MODEL = "gpt-4.1"
 COLLECTION_NAME = "legal_cases"
 
 # ==========================
-# Investigation Parameters
+# Addtional Parameters
 # ==========================
 
-INVESTIGATION_K = 7
+INVESTIGATION_K = 3
+
+MAX_REVISION_ROUNDS = 2
