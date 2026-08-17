@@ -1,6 +1,7 @@
 from ingest.loader import load_documents
 from ingest.splitter import split_documents
 from ingest.metadata import enrich_chunk_metadata
+from ingest.embedding_text import create_embedding_documents
 from ingest.vectorstore import create_vector_store
 from config import VECTOR_DB_DIR
 import shutil
@@ -16,7 +17,10 @@ def build_vector_store():
     for doc in docs:
         chunks = split_documents([doc])
         chunks = enrich_chunk_metadata(chunks)
-        all_chunks.extend(chunks)
+
+        embedding_documents = create_embedding_documents(chunks)
+        
+        all_chunks.extend(embedding_documents)
 
     create_vector_store(all_chunks)
 

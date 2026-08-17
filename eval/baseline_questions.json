@@ -1,0 +1,1224 @@
+[
+  {
+    "question_id": "Q001",
+    "category": "Fact Retrieval",
+    "difficulty": "Easy",
+    "question": "What court decided Whitfield v. Board of Regents of Milford University, and in what year?",
+    "expected_answer": "The Supreme Court of the United States decided Whitfield v. Board of Regents of Milford University in 1974.",
+    "explanation": "The document's metadata header identifies the court as the Supreme Court of the United States and the decision date as June 10, 1974.",
+    "supporting_documents": [
+      "whitfield_v_milford_university_majority_1974.txt"
+    ],
+    "supporting_cases": [
+      "Whitfield v. Board of Regents of Milford University"
+    ],
+    "supporting_citations": [
+      "417 U.S. 226 (1974)"
+    ],
+    "expected_retrieval_count": 1,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q002",
+    "category": "Fact Retrieval",
+    "difficulty": "Easy",
+    "question": "Who authored the majority opinion in Calloway v. Ashworth State University?",
+    "expected_answer": "Justice Desmond Ruiz authored the majority opinion in Calloway v. Ashworth State University.",
+    "explanation": "The opinion's metadata header lists Justice Desmond Ruiz as the author of the 1986 majority opinion.",
+    "supporting_documents": [
+      "calloway_v_ashworth_state_university_majority_1986.txt"
+    ],
+    "supporting_cases": [
+      "Calloway v. Ashworth State University"
+    ],
+    "supporting_citations": [
+      "476 U.S. 512 (1986)"
+    ],
+    "expected_retrieval_count": 1,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q003",
+    "category": "Fact Retrieval",
+    "difficulty": "Easy",
+    "question": "What is the citation for Reyes v. Trustees of Ashworth University?",
+    "expected_answer": "Reyes v. Trustees of Ashworth University is cited as 539 U.S. 306 (2003).",
+    "explanation": "The citation appears in the metadata header of the majority opinion (and is shared by the concurrence and dissent, which were issued the same day).",
+    "supporting_documents": [
+      "reyes_v_trustees_of_ashworth_university_majority_2003.txt"
+    ],
+    "supporting_cases": [
+      "Reyes v. Trustees of Ashworth University"
+    ],
+    "supporting_citations": [
+      "539 U.S. 306 (2003)"
+    ],
+    "expected_retrieval_count": 1,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q004",
+    "category": "Fact Retrieval",
+    "difficulty": "Easy",
+    "question": "What admissions structure was at issue in Delgado v. Trent Institute of Technology, and what did the Third Circuit hold about it?",
+    "expected_answer": "Trent Institute of Technology reserved fifteen of one hundred first-year engineering seats for applicants from designated minority groups, reviewed on a separate track with a lower qualifying threshold. The Third Circuit held this fixed set-aside was not narrowly tailored under Whitfield and reversed, remanding with instructions to enjoin the set-aside.",
+    "explanation": "The facts and holding sections of the 1976 opinion describe the fifteen-seat set-aside and the panel's conclusion that it is not narrowly tailored because it does not treat race as one factor within a single individualized review process.",
+    "supporting_documents": [
+      "delgado_v_trent_institute_of_technology_majority_1976.txt"
+    ],
+    "supporting_cases": [
+      "Delgado v. Trent Institute of Technology"
+    ],
+    "supporting_citations": [
+      "538 F.2d 902 (3d Cir. 1976)"
+    ],
+    "expected_retrieval_count": 1,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q005",
+    "category": "Fact Retrieval",
+    "difficulty": "Easy",
+    "question": "What admissions program was challenged in Voss v. Milford University?",
+    "expected_answer": "Milford University's 100-point undergraduate admissions index, which automatically awarded twenty points to every applicant from a designated minority group -- more points than any other single factor, including a perfect personal-essay score -- was challenged in Voss v. Milford University.",
+    "explanation": "The facts section of the 2003 majority opinion describes the point index and the automatic twenty-point racial bonus.",
+    "supporting_documents": [
+      "voss_v_milford_university_majority_2003.txt"
+    ],
+    "supporting_cases": [
+      "Voss v. Milford University"
+    ],
+    "supporting_citations": [
+      "539 U.S. 344 (2003)"
+    ],
+    "expected_retrieval_count": 1,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q006",
+    "category": "Fact Retrieval",
+    "difficulty": "Easy",
+    "question": "Which Justice wrote the dissent in Harmon v. Board of Trustees of Ashworth University?",
+    "expected_answer": "Justice Thaddeus Okonkwo-Lindqvist wrote the dissent in Harmon v. Board of Trustees of Ashworth University.",
+    "explanation": "The metadata header of the dissent identifies Justice Okonkwo-Lindqvist as its author; the opinion notes he had earlier authored a concurrence in Reyes v. Trustees of Ashworth University.",
+    "supporting_documents": [
+      "harmon_v_ashworth_university_dissent_2023.txt"
+    ],
+    "supporting_cases": [
+      "Harmon v. Board of Trustees of Ashworth University"
+    ],
+    "supporting_citations": [
+      "601 U.S. 118 (2023)"
+    ],
+    "expected_retrieval_count": 1,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q007",
+    "category": "Fact Retrieval",
+    "difficulty": "Easy",
+    "question": "What issue did the Eighth Circuit address in Whitcombe v. Harwick College, and how did it rule?",
+    "expected_answer": "The Eighth Circuit addressed whether an institution's general, non-file-specific assertion that it conducts individualized review satisfies Reyes and Voss. It held that Harwick College's process was insufficiently individualized because the record lacked file-specific evidence of how race was weighed for any particular applicant, and it vacated and remanded.",
+    "explanation": "The issue and holding sections of the 2007 opinion state this directly, distinguishing the case from Delacroix v. Brennan City University, where file-specific documentation existed.",
+    "supporting_documents": [
+      "whitcombe_v_harwick_college_majority_2007.txt"
+    ],
+    "supporting_cases": [
+      "Whitcombe v. Harwick College"
+    ],
+    "supporting_citations": [
+      "481 F.3d 950 (8th Cir. 2007)"
+    ],
+    "expected_retrieval_count": 1,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q008",
+    "category": "Fact Retrieval",
+    "difficulty": "Easy",
+    "question": "What is the citation for the companion case Harmon v. Board of Trustees of Milford University, decided the same day as Harmon v. Board of Trustees of Ashworth University?",
+    "expected_answer": "Harmon v. Board of Trustees of Milford University is cited as 601 U.S. 155 (2023).",
+    "explanation": "The metadata header of the Harmon II majority opinion lists this citation, distinct from but decided the same day (June 29, 2023) as 601 U.S. 118 (2023) in the companion Ashworth University case.",
+    "supporting_documents": [
+      "harmon_ii_v_trustees_of_milford_university_majority_2023.txt"
+    ],
+    "supporting_cases": [
+      "Harmon v. Board of Trustees of Milford University"
+    ],
+    "supporting_citations": [
+      "601 U.S. 155 (2023)"
+    ],
+    "expected_retrieval_count": 1,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q009",
+    "category": "Fact Retrieval",
+    "difficulty": "Easy",
+    "question": "Which federal department issued guidance in 2011 rescinding earlier admissions guidance documents?",
+    "expected_answer": "The U.S. Department of Justice issued the 2011 guidance (DOJ Guidance 2011-4) formally rescinding the Office for Civil Rights' 1979 memorandum and the Department of Justice's 1994 guidance.",
+    "explanation": "The document's metadata identifies the U.S. Department of Justice as the issuing agency, and its text explains that it rescinds the 1979 and 1994 guidance documents as superseded by Reyes and Voss.",
+    "supporting_documents": [
+      "doj_guidance_2011.txt"
+    ],
+    "supporting_cases": [
+      "U.S. Department of Justice Guidance Rescinding Superseded Admissions Guidance"
+    ],
+    "supporting_citations": [
+      "DOJ Guidance 2011-4"
+    ],
+    "expected_retrieval_count": 1,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q010",
+    "category": "Fact Retrieval",
+    "difficulty": "Medium",
+    "question": "What standard of review did the district court originally apply in Marsh v. Board of Regents of Calloway State College, and on what basis did the Fourth Circuit affirm?",
+    "expected_answer": "The district court applied rational-basis review, and the Fourth Circuit affirmed on the ground that a racial preference designed to remedy documented past exclusion and expand educational opportunity -- rather than restrict it -- bears a rational relationship to the College's legitimate interest in expanding access to public higher education.",
+    "explanation": "The 1971 opinion's Standard of Review and Legal Analysis sections describe the rational-basis approach and the panel's remedial/exclusionary distinction, later disapproved in Whitfield.",
+    "supporting_documents": [
+      "marsh_v_calloway_state_college_majority_1971.txt"
+    ],
+    "supporting_cases": [
+      "Marsh v. Board of Regents of Calloway State College"
+    ],
+    "supporting_citations": [
+      "412 F.2d 118 (4th Cir. 1971)"
+    ],
+    "expected_retrieval_count": 1,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q011",
+    "category": "Legal Reasoning",
+    "difficulty": "Easy",
+    "question": "Why did the Supreme Court in Whitfield v. Board of Regents of Milford University reject the rational-basis standard the Fourth Circuit had applied in Marsh?",
+    "expected_answer": "The Court reasoned that the Equal Protection Clause protects persons, not groups, and its guarantee cannot fluctuate in stringency depending on the race of the individual burdened by a classification -- so a race-conscious admissions program must be subject to the same strict scrutiny regardless of whether it is framed as remedial or exclusionary.",
+    "explanation": "The majority opinion's Legal Analysis section explicitly disapproves Marsh's remedial/exclusionary distinction as lacking footing in the Equal Protection Clause's text, which speaks in terms of 'any person.'",
+    "supporting_documents": [
+      "whitfield_v_milford_university_majority_1974.txt",
+      "marsh_v_calloway_state_college_majority_1971.txt"
+    ],
+    "supporting_cases": [
+      "Marsh v. Board of Regents of Calloway State College",
+      "Whitfield v. Board of Regents of Milford University"
+    ],
+    "supporting_citations": [
+      "412 F.2d 118 (4th Cir. 1971)",
+      "417 U.S. 226 (1974)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q012",
+    "category": "Legal Reasoning",
+    "difficulty": "Medium",
+    "question": "In her Whitfield concurrence, why did Justice Okafor prefer a remedial rationale over the majority's diversity rationale for justifying race-conscious admissions?",
+    "expected_answer": "Justice Okafor viewed the diversity rationale as diffuse, difficult for courts to police, and lacking a natural stopping point, whereas a remedial rationale tied to an institution's own documented history of discrimination has a built-in endpoint: once the effects of that specific past exclusion are addressed, the compelling interest -- and the constitutional justification for race-conscious measures -- expires.",
+    "explanation": "The concurrence's Legal Analysis section makes this argument directly, noting Milford University's own documented history of formally excluding minority applicants until 1961.",
+    "supporting_documents": [
+      "whitfield_v_milford_university_concurrence_1974.txt"
+    ],
+    "supporting_cases": [
+      "Whitfield v. Board of Regents of Milford University"
+    ],
+    "supporting_citations": [
+      "417 U.S. 226 (1974)"
+    ],
+    "expected_retrieval_count": 1,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q013",
+    "category": "Legal Reasoning",
+    "difficulty": "Medium",
+    "question": "Why did the Third Circuit in Delgado v. Trent Institute of Technology conclude that Whitfield did not authorize the Institute's fifteen-seat admissions set-aside?",
+    "expected_answer": "The panel read Whitfield to permit race as one factor only within a single, unified, individualized review process, not as the basis for a categorically separate review track with its own fixed numerical target. Because the Institute's set-aside used a separate track with a lower qualifying threshold and an unchanging fifteen-seat target, the panel held it operated, in practical effect, as a quota rather than individualized review.",
+    "explanation": "The 1976 opinion's Legal Analysis section draws this distinction directly, explaining that Whitfield's emphasis on individualized review of the whole applicant forecloses a fixed, separately administered set-aside.",
+    "supporting_documents": [
+      "delgado_v_trent_institute_of_technology_majority_1976.txt",
+      "whitfield_v_milford_university_majority_1974.txt"
+    ],
+    "supporting_cases": [
+      "Delgado v. Trent Institute of Technology",
+      "Whitfield v. Board of Regents of Milford University"
+    ],
+    "supporting_citations": [
+      "417 U.S. 226 (1974)",
+      "538 F.2d 902 (3d Cir. 1976)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q014",
+    "category": "Legal Reasoning",
+    "difficulty": "Medium",
+    "question": "What reasoning did the Ninth Circuit give in Ibarra v. Westbrook College of Law for finding the College's admissions process narrowly tailored under Calloway?",
+    "expected_answer": "The panel walked through each prong of the Calloway three-part test: it credited evidence of genuine file-by-file individualized review with no fixed weight assigned to race; it found no evidence of a reserved seat count, rejecting the argument that a modest year-over-year enrollment increase alone proved a quota (since Calloway rejected statistical stability as sufficient by itself); and it credited the College's annual audit process as satisfying the periodic-reassessment requirement.",
+    "explanation": "The opinion's Legal Analysis section addresses each of the three Calloway prongs in turn and explains why Westbrook's practices satisfy each one.",
+    "supporting_documents": [
+      "ibarra_v_westbrook_college_of_law_majority_1989.txt",
+      "calloway_v_ashworth_state_university_majority_1986.txt"
+    ],
+    "supporting_cases": [
+      "Calloway v. Ashworth State University",
+      "Ibarra v. Westbrook College of Law"
+    ],
+    "supporting_citations": [
+      "476 U.S. 512 (1986)",
+      "891 F.2d 233 (9th Cir. 1989)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q015",
+    "category": "Legal Reasoning",
+    "difficulty": "Hard",
+    "question": "On what reasoning did the Fifth Circuit in Prentiss v. Trent Institute of Technology decline to follow Whitfield's diversity rationale, even though Whitfield remained binding Supreme Court precedent?",
+    "expected_answer": "The panel reasoned that the diversity rationale, unlike remediation of specific documented discrimination, has no logical stopping point and no objective means of measurement, so it cannot be the kind of compelling interest strict scrutiny demands. It further reasoned that even a genuinely individualized process cannot be reconciled with the Equal Protection Clause's command to treat individuals as individuals, because any consideration of race -- however embedded in a holistic process -- treats an applicant differently because of race. The panel acknowledged this conflicted with the Ninth Circuit's Ibarra decision and effectively narrowed Calloway to its facts.",
+    "explanation": "The Legal Analysis section of the 1994 opinion sets out both grounds for departing from Whitfield and Calloway and expressly creates a circuit split with Ibarra.",
+    "supporting_documents": [
+      "prentiss_v_trent_institute_of_technology_majority_1994.txt",
+      "whitfield_v_milford_university_majority_1974.txt",
+      "ibarra_v_westbrook_college_of_law_majority_1989.txt"
+    ],
+    "supporting_cases": [
+      "Ibarra v. Westbrook College of Law",
+      "Prentiss v. Trent Institute of Technology",
+      "Whitfield v. Board of Regents of Milford University"
+    ],
+    "supporting_citations": [
+      "29 F.3d 771 (5th Cir. 1994)",
+      "417 U.S. 226 (1974)",
+      "891 F.2d 233 (9th Cir. 1989)"
+    ],
+    "expected_retrieval_count": 3,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q016",
+    "category": "Legal Reasoning",
+    "difficulty": "Hard",
+    "question": "What was the 'critical mass' concept articulated in Reyes v. Trustees of Ashworth University, and why did Justice Halvorsen dissent from it?",
+    "expected_answer": "The Reyes majority held that a university may pursue a qualitatively -- rather than numerically -- defined 'critical mass' of underrepresented students sufficient to avoid tokenism, so long as critical mass is assessed through ongoing individualized review rather than a fixed numerical target. Justice Halvorsen dissented on the ground that critical mass cannot be meaningfully distinguished from the fixed set-aside struck down in Delgado, because admissions officials must, as a practical matter, form some undisclosed working sense of an adequate number -- a target that, in his view, is unreviewable precisely because it is never disclosed or defended with data.",
+    "explanation": "The majority's Legal Analysis and the dissent's Legal Analysis in the 2003 opinion set out these competing positions directly.",
+    "supporting_documents": [
+      "reyes_v_trustees_of_ashworth_university_majority_2003.txt",
+      "reyes_v_trustees_of_ashworth_university_dissent_2003.txt",
+      "delgado_v_trent_institute_of_technology_majority_1976.txt"
+    ],
+    "supporting_cases": [
+      "Delgado v. Trent Institute of Technology",
+      "Reyes v. Trustees of Ashworth University"
+    ],
+    "supporting_citations": [
+      "538 F.2d 902 (3d Cir. 1976)",
+      "539 U.S. 306 (2003)"
+    ],
+    "expected_retrieval_count": 3,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q017",
+    "category": "Legal Reasoning",
+    "difficulty": "Medium",
+    "question": "Why did the Court in Voss v. Milford University find the University's twenty-point automatic racial bonus not narrowly tailored, even though Reyes approved race-conscious review the same day?",
+    "expected_answer": "The Court distinguished Ashworth University's qualitative critical-mass approach approved in Reyes -- where race is one consideration weighed alongside every other aspect of an individualized file review -- from Milford's automatic point bonus, which was awarded based on group membership alone, without any accompanying individualized assessment, and which exceeded the points available for any other single factor, including the University's own essay assessment. The Court found this made race a decisive factor for many applicants rather than one factor among many.",
+    "explanation": "The majority opinion's Legal Analysis section draws this distinction explicitly and expressly overrules Nakamura v. Calloway State College's approval of fixed-value point systems to the extent inconsistent.",
+    "supporting_documents": [
+      "voss_v_milford_university_majority_2003.txt",
+      "reyes_v_trustees_of_ashworth_university_majority_2003.txt"
+    ],
+    "supporting_cases": [
+      "Reyes v. Trustees of Ashworth University",
+      "Voss v. Milford University"
+    ],
+    "supporting_citations": [
+      "539 U.S. 306 (2003)",
+      "539 U.S. 344 (2003)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q018",
+    "category": "Legal Reasoning",
+    "difficulty": "Easy",
+    "question": "What new requirement did the Second Circuit impose in Ferreira v. Ashworth University, beyond what Reyes itself required?",
+    "expected_answer": "Ferreira held that an institution invoking the diversity rationale must make a rigorous, evidence-based showing -- through actual study or piloting specific to its own applicant pool -- that workable race-neutral alternatives cannot achieve its diversity objectives; a good-faith but untested belief that such alternatives would be less effective is not enough.",
+    "explanation": "The Holding and Legal Analysis sections of the 2015 opinion state this workability requirement directly, characterizing it as narrowing rather than departing from Reyes.",
+    "supporting_documents": [
+      "ferreira_v_ashworth_university_majority_2015.txt"
+    ],
+    "supporting_cases": [
+      "Ferreira v. Ashworth University"
+    ],
+    "supporting_citations": [
+      "779 F.3d 240 (2d Cir. 2015)"
+    ],
+    "expected_retrieval_count": 1,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q019",
+    "category": "Legal Reasoning",
+    "difficulty": "Easy",
+    "question": "What two grounds did the majority in Harmon v. Board of Trustees of Ashworth University give for overruling the diversity rationale?",
+    "expected_answer": "First, the Court found the diversity rationale had proven unworkable in practice, pointing to the increasingly elaborate apparatus of documentation and workability requirements built up through Delacroix, Whitcombe, Ferreira, Castellano, and Odom. Second, the Court concluded Whitfield and its progeny were wrongly decided at the outset, because the Equal Protection Clause protects persons rather than groups and its guarantee is not satisfied by considering an individual applicant's race for any reason, however benign.",
+    "explanation": "The majority opinion's Legal Analysis section states both grounds explicitly as the basis for departing from stare decisis.",
+    "supporting_documents": [
+      "harmon_v_ashworth_university_majority_2023.txt"
+    ],
+    "supporting_cases": [
+      "Harmon v. Board of Trustees of Ashworth University"
+    ],
+    "supporting_citations": [
+      "601 U.S. 118 (2023)"
+    ],
+    "expected_retrieval_count": 1,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q020",
+    "category": "Legal Reasoning",
+    "difficulty": "Medium",
+    "question": "What reasoning did the Ninth Circuit give in Delacroix v. Westbrook College of Law for permitting admissions guidance that instructs readers to credit race-related adversity narratives after Harmon?",
+    "expected_answer": "The panel read Harmon's essay clarification as affirmatively permitting an admissions reader to credit an applicant's discussion of how race affected the applicant's life, on the same individualized footing as any other adversity narrative (financial hardship, family illness, immigration status), so long as no fixed point value is tied merely to the presence of racial content. Because Westbrook's guidance assigned no such fixed value, the panel found it consistent with Harmon and expressly disagreed with the Fourth Circuit's narrower reading in Nguyen.",
+    "explanation": "The 2024 opinion's Legal Analysis section sets out this reasoning and explicitly acknowledges the resulting conflict with Nguyen v. Trent Institute of Technology.",
+    "supporting_documents": [
+      "delacroix_v_westbrook_college_of_law_majority_2024.txt",
+      "nguyen_v_trent_institute_of_technology_majority_2024.txt"
+    ],
+    "supporting_cases": [
+      "Delacroix v. Westbrook College of Law",
+      "Nguyen v. Trent Institute of Technology"
+    ],
+    "supporting_citations": [
+      "101 F.4th 782 (9th Cir. 2024)",
+      "98 F.4th 214 (4th Cir. 2024)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": false,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q021",
+    "category": "Temporal Reasoning",
+    "difficulty": "Easy",
+    "question": "Is Whitfield v. Board of Regents of Milford University still controlling law?",
+    "expected_answer": "No. Whitfield's holding that a university's interest in student-body diversity can be a compelling interest was overruled by Harmon v. Board of Trustees of Ashworth University in 2023.",
+    "explanation": "Whitfield's metadata status is 'limited,' with 'overruled_by' pointing to Harmon v. Board of Trustees of Ashworth University, whose majority opinion expressly overrules Whitfield's diversity rationale.",
+    "supporting_documents": [
+      "whitfield_v_milford_university_majority_1974.txt",
+      "harmon_v_ashworth_university_majority_2023.txt"
+    ],
+    "supporting_cases": [
+      "Harmon v. Board of Trustees of Ashworth University",
+      "Whitfield v. Board of Regents of Milford University"
+    ],
+    "supporting_citations": [
+      "417 U.S. 226 (1974)",
+      "601 U.S. 118 (2023)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q022",
+    "category": "Temporal Reasoning",
+    "difficulty": "Easy",
+    "question": "Between Calloway v. Ashworth State University (1986) and Harmon v. Board of Trustees of Ashworth University (2023), which currently governs whether a university may consider race in admissions?",
+    "expected_answer": "Harmon currently governs. Calloway's three-part narrow-tailoring test, which permitted individualized consideration of race, was expressly overruled by Harmon in 2023, which now holds that race may not be considered at all.",
+    "explanation": "Calloway's metadata status is 'limited' with 'overruled_by' pointing to Harmon; the Harmon majority opinion's Discussion of Prior Cases section lists Calloway among the overruled authorities.",
+    "supporting_documents": [
+      "calloway_v_ashworth_state_university_majority_1986.txt",
+      "harmon_v_ashworth_university_majority_2023.txt"
+    ],
+    "supporting_cases": [
+      "Calloway v. Ashworth State University",
+      "Harmon v. Board of Trustees of Ashworth University"
+    ],
+    "supporting_citations": [
+      "476 U.S. 512 (1986)",
+      "601 U.S. 118 (2023)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q023",
+    "category": "Temporal Reasoning",
+    "difficulty": "Easy",
+    "question": "Does Reyes v. Trustees of Ashworth University remain good law today?",
+    "expected_answer": "No. Reyes was overruled by Harmon v. Board of Trustees of Ashworth University in 2023.",
+    "explanation": "Reyes's metadata status is 'overruled,' with 'overruled_by' pointing to the Harmon majority, which disapproves Reyes's critical-mass framework by name.",
+    "supporting_documents": [
+      "reyes_v_trustees_of_ashworth_university_majority_2003.txt",
+      "harmon_v_ashworth_university_majority_2023.txt"
+    ],
+    "supporting_cases": [
+      "Harmon v. Board of Trustees of Ashworth University",
+      "Reyes v. Trustees of Ashworth University"
+    ],
+    "supporting_citations": [
+      "539 U.S. 306 (2003)",
+      "601 U.S. 118 (2023)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q024",
+    "category": "Temporal Reasoning",
+    "difficulty": "Medium",
+    "question": "Which later Supreme Court decision superseded the Fifth Circuit's rejection of the diversity rationale in Prentiss v. Trent Institute of Technology?",
+    "expected_answer": "Reyes v. Trustees of Ashworth University (2003) disapproved Prentiss, reaffirming the diversity rationale that Prentiss had rejected. Reyes was itself later overruled by Harmon v. Board of Trustees of Ashworth University (2023), which reached the same ultimate conclusion Prentiss had -- that race may not be considered in admissions -- but for different reasons.",
+    "explanation": "Prentiss's metadata 'overruled_by' field points to Reyes, and Reyes's Discussion of Prior Cases section expressly disapproves Prentiss. The corpus therefore shows Prentiss's bottom-line result later vindicated by Harmon even though the doctrinal path ran through Reyes first.",
+    "supporting_documents": [
+      "prentiss_v_trent_institute_of_technology_majority_1994.txt",
+      "reyes_v_trustees_of_ashworth_university_majority_2003.txt",
+      "harmon_v_ashworth_university_majority_2023.txt"
+    ],
+    "supporting_cases": [
+      "Harmon v. Board of Trustees of Ashworth University",
+      "Prentiss v. Trent Institute of Technology",
+      "Reyes v. Trustees of Ashworth University"
+    ],
+    "supporting_citations": [
+      "29 F.3d 771 (5th Cir. 1994)",
+      "539 U.S. 306 (2003)",
+      "601 U.S. 118 (2023)"
+    ],
+    "expected_retrieval_count": 3,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q025",
+    "category": "Temporal Reasoning",
+    "difficulty": "Hard",
+    "question": "Trace how the legal standard governing race-conscious admissions changed from Whitfield (1974) to Harmon (2023).",
+    "expected_answer": "Whitfield (1974) first held that student-body diversity could be a compelling interest under strict scrutiny. Calloway (1986) articulated a three-part narrow-tailoring test. Reyes and Voss (2003) refined that test into a qualitative 'critical mass' standard while barring mechanical point bonuses. Ferreira (2015) added a rigorous evidence-based workability-of-alternatives requirement. Harmon (2023) then overruled the entire line, holding that no interest -- however well-documented or individualized the review -- can justify considering an applicant's race at all.",
+    "explanation": "This trajectory is documented across the metadata 'overruled_by' chain (Whitfield/Calloway/Reyes/Voss all point to Harmon) and the Harmon majority's own account of the doctrine's history in its Legal Analysis section.",
+    "supporting_documents": [
+      "whitfield_v_milford_university_majority_1974.txt",
+      "calloway_v_ashworth_state_university_majority_1986.txt",
+      "reyes_v_trustees_of_ashworth_university_majority_2003.txt",
+      "ferreira_v_ashworth_university_majority_2015.txt",
+      "harmon_v_ashworth_university_majority_2023.txt"
+    ],
+    "supporting_cases": [
+      "Calloway v. Ashworth State University",
+      "Ferreira v. Ashworth University",
+      "Harmon v. Board of Trustees of Ashworth University",
+      "Reyes v. Trustees of Ashworth University",
+      "Whitfield v. Board of Regents of Milford University"
+    ],
+    "supporting_citations": [
+      "417 U.S. 226 (1974)",
+      "476 U.S. 512 (1986)",
+      "539 U.S. 306 (2003)",
+      "601 U.S. 118 (2023)",
+      "779 F.3d 240 (2d Cir. 2015)"
+    ],
+    "expected_retrieval_count": 5,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q026",
+    "category": "Temporal Reasoning",
+    "difficulty": "Easy",
+    "question": "Is the Department of Justice's 1994 guidance on the circuit split over race-conscious admissions still in effect?",
+    "expected_answer": "No. It was formally rescinded by the Department of Justice's 2011 guidance, which explained that the circuit split it addressed had been definitively resolved by Reyes v. Trustees of Ashworth University in 2003.",
+    "explanation": "The 1994 guidance's metadata status is 'superseded,' with 'overruled_by' pointing to the 2004 Joint Guidance, and the 2011 guidance's text formally rescinds it.",
+    "supporting_documents": [
+      "doj_guidance_1994.txt",
+      "doj_guidance_2011.txt"
+    ],
+    "supporting_cases": [
+      "U.S. Department of Justice Guidance Rescinding Superseded Admissions Guidance",
+      "U.S. Department of Justice Guidance on the Circuit Split Over Race-Conscious Admissions"
+    ],
+    "supporting_citations": [
+      "DOJ Guidance 2011-4",
+      "DOJ Guidance 94-2"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q027",
+    "category": "Temporal Reasoning",
+    "difficulty": "Medium",
+    "question": "After Ferreira v. Ashworth University (2015), what additional showing did institutions have to make that Reyes v. Trustees of Ashworth University (2003) alone had not required?",
+    "expected_answer": "After Ferreira, institutions had to make a rigorous, evidence-based showing -- through actual study or piloting specific to their own applicant pool -- that workable race-neutral alternatives could not achieve their diversity objectives. Reyes alone had permitted institutions to rely on a qualitative critical-mass rationale without such an evidentiary workability showing.",
+    "explanation": "Ferreira's Legal Analysis section frames its holding as narrowing, not overturning, Reyes by adding this workability requirement; Castellano v. Ashworth University (2017) later applied the requirement on a fully developed record.",
+    "supporting_documents": [
+      "reyes_v_trustees_of_ashworth_university_majority_2003.txt",
+      "ferreira_v_ashworth_university_majority_2015.txt"
+    ],
+    "supporting_cases": [
+      "Ferreira v. Ashworth University",
+      "Reyes v. Trustees of Ashworth University"
+    ],
+    "supporting_citations": [
+      "539 U.S. 306 (2003)",
+      "779 F.3d 240 (2d Cir. 2015)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q028",
+    "category": "Temporal Reasoning",
+    "difficulty": "Medium",
+    "question": "As of the most recent guidance in the corpus, is there a single nationwide rule on whether admissions guidance may instruct readers to credit race-related adversity narratives in essays?",
+    "expected_answer": "No. As of the Office for Civil Rights' 2026 updated FAQ, the question remains unresolved nationwide: the Fourth and Fifth Circuits (Nguyen, Castellano) forbid guidance that specifically instructs readers to credit race-related adversity narratives, while the Ninth Circuit (Delacroix) permits it, and the Supreme Court had not granted certiorari on the question as of that FAQ's publication.",
+    "explanation": "The 2026 OCR FAQ update's Background and Guidance sections summarize this three-circuit disagreement and explicitly decline to adopt a single nationwide position.",
+    "supporting_documents": [
+      "ocr_guidance_2026_faq_update.txt",
+      "nguyen_v_trent_institute_of_technology_majority_2024.txt",
+      "delacroix_v_westbrook_college_of_law_majority_2024.txt",
+      "castellano_v_trent_institute_of_technology_majority_2026.txt"
+    ],
+    "supporting_cases": [
+      "Castellano v. Trent Institute of Technology",
+      "Delacroix v. Westbrook College of Law",
+      "Nguyen v. Trent Institute of Technology",
+      "Office for Civil Rights Updated Frequently Asked Questions on Post-Harmon Admissions Practices"
+    ],
+    "supporting_citations": [
+      "101 F.4th 782 (9th Cir. 2024)",
+      "110 F.4th 305 (5th Cir. 2026)",
+      "98 F.4th 214 (4th Cir. 2024)",
+      "OCR FAQ 2026-02"
+    ],
+    "expected_retrieval_count": 4,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q029",
+    "category": "Temporal Reasoning",
+    "difficulty": "Medium",
+    "question": "Between Nakamura v. Calloway State College (1991) and Voss v. Milford University (2003), which controls the lawfulness of a fixed-value point-bonus admissions index?",
+    "expected_answer": "Voss controls. Nakamura upheld a point index that assigned every factor, including race, a fixed numerical value. Voss, decided later by the Supreme Court, overruled Nakamura's approval of such systems to the extent a fixed racial bonus is large enough to be outcome-determinative without individualized assessment of the rest of the applicant's file.",
+    "explanation": "Nakamura's metadata 'overruled_by' field points directly to Voss, and the Voss majority opinion states this overruling explicitly in its Discussion of Prior Cases.",
+    "supporting_documents": [
+      "nakamura_v_calloway_state_college_majority_1991.txt",
+      "voss_v_milford_university_majority_2003.txt"
+    ],
+    "supporting_cases": [
+      "Nakamura v. Calloway State College",
+      "Voss v. Milford University"
+    ],
+    "supporting_citations": [
+      "539 U.S. 344 (2003)",
+      "779 F. Supp. 2d 1042 (D. Fentress 1991)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q030",
+    "category": "Temporal Reasoning",
+    "difficulty": "Easy",
+    "question": "What is the current status of the three-part narrow-tailoring test established in Calloway v. Ashworth State University?",
+    "expected_answer": "It is no longer good law. The three-part test (individualized review, no fixed numerical target, periodic reassessment) was expressly overruled by Harmon v. Board of Trustees of Ashworth University in 2023, which held that no degree of procedural safeguard can justify considering an applicant's race at all.",
+    "explanation": "Calloway's metadata status field reads 'limited' with 'overruled_by' pointing to Harmon, and the Harmon majority opinion lists Calloway among the precedents it overrules.",
+    "supporting_documents": [
+      "calloway_v_ashworth_state_university_majority_1986.txt",
+      "harmon_v_ashworth_university_majority_2023.txt"
+    ],
+    "supporting_cases": [
+      "Calloway v. Ashworth State University",
+      "Harmon v. Board of Trustees of Ashworth University"
+    ],
+    "supporting_citations": [
+      "476 U.S. 512 (1986)",
+      "601 U.S. 118 (2023)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q031",
+    "category": "Contradiction/Verification",
+    "difficulty": "Medium",
+    "question": "Do the Ninth Circuit's decision in Ibarra v. Westbrook College of Law and the Fifth Circuit's decision in Prentiss v. Trent Institute of Technology agree on whether the diversity rationale can be a compelling interest?",
+    "expected_answer": "No, they directly disagree. Ibarra (1989) applied Whitfield and Calloway to uphold race-conscious review premised on the diversity rationale. Prentiss (1994) expressly declined to follow Whitfield, holding the diversity rationale can never be a compelling interest -- and its opinion states outright that it conflicts with Ibarra.",
+    "explanation": "Prentiss's Legal Analysis and Discussion of Prior Cases sections state that it 'expressly acknowledges that its holding conflicts with the Ninth Circuit's decision in Ibarra.' This conflict was later resolved (in the diversity rationale's favor) by Reyes in 2003, and both approaches were ultimately superseded by Harmon in 2023.",
+    "supporting_documents": [
+      "ibarra_v_westbrook_college_of_law_majority_1989.txt",
+      "prentiss_v_trent_institute_of_technology_majority_1994.txt"
+    ],
+    "supporting_cases": [
+      "Ibarra v. Westbrook College of Law",
+      "Prentiss v. Trent Institute of Technology"
+    ],
+    "supporting_citations": [
+      "29 F.3d 771 (5th Cir. 1994)",
+      "891 F.2d 233 (9th Cir. 1989)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q032",
+    "category": "Contradiction/Verification",
+    "difficulty": "Hard",
+    "question": "Does the majority opinion in Reyes v. Trustees of Ashworth University or Justice Halvorsen's dissent in that same case better reflect the current state of the law after Harmon?",
+    "expected_answer": "Justice Halvorsen's dissent better reflects the current outcome, even though it was not the law at the time. Halvorsen argued that 'critical mass' was an unworkable, unreviewable quota that could not be meaningfully distinguished from the set-aside struck down in Delgado. The Harmon majority in 2023 adopted essentially this critique, citing Halvorsen's warning by name when it overruled Reyes.",
+    "explanation": "The Harmon majority's Discussion of Prior Cases section explicitly credits Justice Halvorsen's Reyes dissent as reasoning the Court now follows, while listing the Reyes majority opinion among those it overrules. A retriever that surfaces only the Reyes majority risks presenting overruled law as current.",
+    "supporting_documents": [
+      "reyes_v_trustees_of_ashworth_university_majority_2003.txt",
+      "reyes_v_trustees_of_ashworth_university_dissent_2003.txt",
+      "harmon_v_ashworth_university_majority_2023.txt"
+    ],
+    "supporting_cases": [
+      "Harmon v. Board of Trustees of Ashworth University",
+      "Reyes v. Trustees of Ashworth University"
+    ],
+    "supporting_citations": [
+      "539 U.S. 306 (2003)",
+      "601 U.S. 118 (2023)"
+    ],
+    "expected_retrieval_count": 3,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q033",
+    "category": "Contradiction/Verification",
+    "difficulty": "Easy",
+    "question": "Did Harmon v. Board of Trustees of Ashworth University reject or reaffirm Whitfield's diversity rationale?",
+    "expected_answer": "Harmon rejected and expressly overruled Whitfield's diversity rationale, holding that no interest -- including educational diversity -- can justify considering an applicant's race in admissions.",
+    "explanation": "The Harmon majority opinion's Holding and Discussion of Prior Cases sections state directly that Whitfield is overruled.",
+    "supporting_documents": [
+      "harmon_v_ashworth_university_majority_2023.txt",
+      "whitfield_v_milford_university_majority_1974.txt"
+    ],
+    "supporting_cases": [
+      "Harmon v. Board of Trustees of Ashworth University",
+      "Whitfield v. Board of Regents of Milford University"
+    ],
+    "supporting_citations": [
+      "417 U.S. 226 (1974)",
+      "601 U.S. 118 (2023)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q034",
+    "category": "Contradiction/Verification",
+    "difficulty": "Medium",
+    "question": "Is there a conflict between the Fourth Circuit's decision in Nguyen v. Trent Institute of Technology and the Ninth Circuit's decision in Delacroix v. Westbrook College of Law regarding essay-reading guidance after Harmon?",
+    "expected_answer": "Yes. Nguyen struck down an essay-scoring rubric that awarded points based on whether an essay referenced racial identity, reasoning that Harmon's essay clarification does not permit any race-triggered credit. Delacroix, decided later the same year, upheld guidance instructing readers to credit race-related adversity narratives on the same individualized footing as other adversity, and expressly disagreed with Nguyen's narrower reading, creating a circuit split later joined by the Fifth Circuit's Castellano decision on Nguyen's side.",
+    "explanation": "Delacroix's Legal Analysis section states that the panel 'expressly disagrees with the Fourth Circuit's reasoning in Nguyen,' and the corpus's most recent document, the 2026 OCR FAQ update, confirms the split remains unresolved.",
+    "supporting_documents": [
+      "nguyen_v_trent_institute_of_technology_majority_2024.txt",
+      "delacroix_v_westbrook_college_of_law_majority_2024.txt"
+    ],
+    "supporting_cases": [
+      "Delacroix v. Westbrook College of Law",
+      "Nguyen v. Trent Institute of Technology"
+    ],
+    "supporting_citations": [
+      "101 F.4th 782 (9th Cir. 2024)",
+      "98 F.4th 214 (4th Cir. 2024)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q035",
+    "category": "Contradiction/Verification",
+    "difficulty": "Hard",
+    "question": "A legal memo cites Voss v. Milford University for the proposition that a university may use a numerical racial admissions bonus so long as every factor in the index -- not just race -- receives some fixed point value. Is that memo's citation to Voss correct?",
+    "expected_answer": "No, the memo miscites the case. That reasoning -- that a fixed-value system is permissible so long as every factor, not only race, is assigned a numerical weight -- was Nakamura v. Calloway State College's holding, not Voss's. Voss reached the opposite conclusion and expressly overruled Nakamura on this point, holding that a racial bonus large enough to be outcome-determinative is not narrowly tailored even if other factors are also assigned point values.",
+    "explanation": "This question is designed to surface the risk that a retriever conflates Nakamura's superseded reasoning with Voss's holding because both documents discuss fixed-value point indices in similar terms; only Voss's Discussion of Prior Cases section makes clear that it overrules Nakamura.",
+    "supporting_documents": [
+      "nakamura_v_calloway_state_college_majority_1991.txt",
+      "voss_v_milford_university_majority_2003.txt"
+    ],
+    "supporting_cases": [
+      "Nakamura v. Calloway State College",
+      "Voss v. Milford University"
+    ],
+    "supporting_citations": [
+      "539 U.S. 344 (2003)",
+      "779 F. Supp. 2d 1042 (D. Fentress 1991)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q036",
+    "category": "Contradiction/Verification",
+    "difficulty": "Medium",
+    "question": "Does Nakamura v. Calloway State College's approval of fixed-value point systems remain consistent with Voss v. Milford University's holding?",
+    "expected_answer": "No. Voss overruled Nakamura's approval of fixed-value point systems to the extent inconsistent with Voss's holding that an automatic, outcome-determinative racial bonus is not narrowly tailored.",
+    "explanation": "Nakamura's metadata 'overruled_by' field points to Voss, and the Voss majority opinion states this overruling explicitly.",
+    "supporting_documents": [
+      "nakamura_v_calloway_state_college_majority_1991.txt",
+      "voss_v_milford_university_majority_2003.txt"
+    ],
+    "supporting_cases": [
+      "Nakamura v. Calloway State College",
+      "Voss v. Milford University"
+    ],
+    "supporting_citations": [
+      "539 U.S. 344 (2003)",
+      "779 F. Supp. 2d 1042 (D. Fentress 1991)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q037",
+    "category": "Contradiction/Verification",
+    "difficulty": "Easy",
+    "question": "A brief argues that, under Reyes v. Trustees of Ashworth University, a university may still pursue a qualitative 'critical mass' of underrepresented students today. Is this argument correct?",
+    "expected_answer": "No. Reyes was overruled by Harmon v. Board of Trustees of Ashworth University in 2023, which held that no interest -- including the critical-mass rationale Reyes approved -- can justify considering an applicant's race in admissions.",
+    "explanation": "Reyes's metadata status is 'overruled' with 'overruled_by' pointing to Harmon; a retriever that surfaces only the Reyes majority text without checking its current status would validate an incorrect, outdated legal argument.",
+    "supporting_documents": [
+      "reyes_v_trustees_of_ashworth_university_majority_2003.txt",
+      "harmon_v_ashworth_university_majority_2023.txt"
+    ],
+    "supporting_cases": [
+      "Harmon v. Board of Trustees of Ashworth University",
+      "Reyes v. Trustees of Ashworth University"
+    ],
+    "supporting_citations": [
+      "539 U.S. 306 (2003)",
+      "601 U.S. 118 (2023)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q038",
+    "category": "Contradiction/Verification",
+    "difficulty": "Hard",
+    "question": "Does Park v. Calloway State College's approval of a socioeconomic-status-based admissions preference conflict with Ibarra v. Ashworth University's treatment of legacy admissions preferences?",
+    "expected_answer": "No direct conflict. Both apply the same underlying principle: a facially race-neutral criterion is not an unlawful racial classification under Harmon merely because it correlates with race or because officials anticipated some incidental diversity effect; something more -- evidence of deliberate proxy use -- would be required. Park found no such evidence for the socioeconomic preference, and Ibarra similarly found the record insufficient to show Ashworth's legacy and donor preferences were adopted or administered as a deliberate proxy for race. Ibarra leaves open, without deciding, what evidence would suffice to show deliberate proxy use.",
+    "explanation": "Park's Legal Analysis section explicitly notes it 'leaves open the different question... of whether a facially race-neutral criterion adopted as a knowing and deliberate proxy for race... might be treated differently,' and Ibarra's Legal Analysis section cites Park while acknowledging this same open question.",
+    "supporting_documents": [
+      "park_v_calloway_state_college_majority_2025.txt",
+      "ibarra_v_ashworth_university_majority_2025.txt"
+    ],
+    "supporting_cases": [
+      "Ibarra v. Ashworth University",
+      "Park v. Calloway State College"
+    ],
+    "supporting_citations": [
+      "712 F. Supp. 3d 90 (D. Fentress 2025)",
+      "730 F. Supp. 3d 501 (D. Fentress 2025)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q039",
+    "category": "Contradiction/Verification",
+    "difficulty": "Medium",
+    "question": "Which is stronger nationwide authority for the proposition that essay-based consideration of race-related adversity narratives is unlawful: the Fourth Circuit's decision in Nguyen or the Ninth Circuit's decision in Delacroix?",
+    "expected_answer": "Neither is nationwide authority; as of the corpus's most recent guidance, this is an unresolved, jurisdiction-dependent circuit split. Nguyen binds the Fourth Circuit and was later joined by the Fifth Circuit in Castellano v. Trent Institute of Technology (2026), while Delacroix binds the Ninth Circuit. The 2026 OCR FAQ update confirms no single nationwide rule exists and the Supreme Court has not resolved the conflict.",
+    "explanation": "This question tests whether a retriever recognizes that two circuit-level majority opinions on the same question are not fungible national precedent -- a naive system might treat whichever opinion it retrieves first as 'the' rule.",
+    "supporting_documents": [
+      "nguyen_v_trent_institute_of_technology_majority_2024.txt",
+      "delacroix_v_westbrook_college_of_law_majority_2024.txt",
+      "castellano_v_trent_institute_of_technology_majority_2026.txt",
+      "ocr_guidance_2026_faq_update.txt"
+    ],
+    "supporting_cases": [
+      "Castellano v. Trent Institute of Technology",
+      "Delacroix v. Westbrook College of Law",
+      "Nguyen v. Trent Institute of Technology",
+      "Office for Civil Rights Updated Frequently Asked Questions on Post-Harmon Admissions Practices"
+    ],
+    "supporting_citations": [
+      "101 F.4th 782 (9th Cir. 2024)",
+      "110 F.4th 305 (5th Cir. 2026)",
+      "98 F.4th 214 (4th Cir. 2024)",
+      "OCR FAQ 2026-02"
+    ],
+    "expected_retrieval_count": 4,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q040",
+    "category": "Contradiction/Verification",
+    "difficulty": "Easy",
+    "question": "Does the Office for Civil Rights' 2016 guidance reaffirming the critical-mass framework remain an accurate statement of the law after 2023?",
+    "expected_answer": "No. The 2016 guidance was formally rescinded by the Departments of Justice and Education's 2023 Joint Guidance implementing Harmon, which explains that the critical-mass framework the 2016 guidance reaffirmed no longer renders any race-conscious admissions practice lawful.",
+    "explanation": "The 2016 guidance's metadata status is 'superseded' with 'overruled_by' pointing to the 2023 Joint Guidance, whose text formally rescinds it by name.",
+    "supporting_documents": [
+      "ocr_guidance_2016.txt",
+      "doj_doe_joint_guidance_2023.txt"
+    ],
+    "supporting_cases": [
+      "Joint Guidance of the Departments of Justice and Education on Admissions After Harmon",
+      "Office for Civil Rights Guidance Reaffirming the Critical Mass Framework"
+    ],
+    "supporting_citations": [
+      "DOJ-DOE Joint Guidance 2023-02",
+      "OCR Memo 16-09"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": false,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q041",
+    "category": "Multi-hop Reasoning",
+    "difficulty": "Hard",
+    "question": "Trace the evolution of the compelling-interest rationale for race-conscious admissions from Whitfield (1974) through Harmon (2023), noting each point where the rationale was reaffirmed, narrowed, or ultimately rejected.",
+    "expected_answer": "Whitfield (1974) first recognized diversity as a potential compelling interest, over Justice Okafor's concurrence favoring a narrower remedial theory and Justice Vance's dissent rejecting any race-based interest. Calloway (1986) reaffirmed the diversity rationale over Okafor's remedial alternative and Vance's renewed dissent, adding the three-part narrow-tailoring test. Reyes (2003) reaffirmed the rationale again, refining it into the qualitative 'critical mass' concept, over Justice Halvorsen's dissent that critical mass was an unreviewable quota. Ferreira (2015) narrowed the rationale by requiring an evidence-based workability showing. Harmon (2023) then rejected the rationale entirely, adopting the reasoning of the Whitfield/Calloway dissents and Halvorsen's Reyes dissent.",
+    "explanation": "This trajectory requires combining the majority holdings, concurrences, and dissents across five separate documents spanning nearly fifty years; no single document contains the full arc.",
+    "supporting_documents": [
+      "whitfield_v_milford_university_majority_1974.txt",
+      "whitfield_v_milford_university_concurrence_1974.txt",
+      "whitfield_v_milford_university_dissent_1974.txt",
+      "calloway_v_ashworth_state_university_majority_1986.txt",
+      "reyes_v_trustees_of_ashworth_university_dissent_2003.txt",
+      "ferreira_v_ashworth_university_majority_2015.txt",
+      "harmon_v_ashworth_university_majority_2023.txt"
+    ],
+    "supporting_cases": [
+      "Calloway v. Ashworth State University",
+      "Ferreira v. Ashworth University",
+      "Harmon v. Board of Trustees of Ashworth University",
+      "Reyes v. Trustees of Ashworth University",
+      "Whitfield v. Board of Regents of Milford University"
+    ],
+    "supporting_citations": [
+      "417 U.S. 226 (1974)",
+      "476 U.S. 512 (1986)",
+      "539 U.S. 306 (2003)",
+      "601 U.S. 118 (2023)",
+      "779 F.3d 240 (2d Cir. 2015)"
+    ],
+    "expected_retrieval_count": 7,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q042",
+    "category": "Multi-hop Reasoning",
+    "difficulty": "Medium",
+    "question": "Compare the narrow-tailoring standards articulated in Calloway v. Ashworth State University (1986) and Reyes v. Trustees of Ashworth University (2003). How did Reyes refine the Calloway test?",
+    "expected_answer": "Calloway established a general three-part test: individualized review, no fixed numerical target, and periodic reassessment. Reyes applied and refined that test specifically to the 'critical mass' concept, clarifying that an institution may pursue critical mass defined qualitatively rather than numerically, so long as it is assessed through ongoing individualized review of the whole class rather than a disclosed or undisclosed numerical target -- while distinguishing this qualitative approach from the mechanical point bonus addressed the same day in the companion case Voss.",
+    "explanation": "Answering this requires comparing the general test in Calloway's Legal Analysis with its specific application and refinement in Reyes's Legal Analysis, which cannot be done from either document alone.",
+    "supporting_documents": [
+      "calloway_v_ashworth_state_university_majority_1986.txt",
+      "reyes_v_trustees_of_ashworth_university_majority_2003.txt"
+    ],
+    "supporting_cases": [
+      "Calloway v. Ashworth State University",
+      "Reyes v. Trustees of Ashworth University"
+    ],
+    "supporting_citations": [
+      "476 U.S. 512 (1986)",
+      "539 U.S. 306 (2003)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q043",
+    "category": "Multi-hop Reasoning",
+    "difficulty": "Hard",
+    "question": "How did the workability-of-race-neutral-alternatives requirement move from Ferreira (2015) through Castellano (2017) to become part of the Supreme Court's reasoning in Harmon (2023)?",
+    "expected_answer": "Ferreira (2015) first required institutions to show, with evidence specific to their own applicant pool, that race-neutral alternatives could not achieve their diversity objectives. Castellano (2017) applied that requirement and upheld Ashworth University's program based on a multi-year record of piloted alternatives that Ferreira's remand had prompted the University to develop. Harmon (2023) then cited the elaborate, ever-more-demanding apparatus built up through Ferreira and Castellano as evidence that the diversity rationale had proven unworkable in practice -- one of the two grounds the majority gave for overruling it.",
+    "explanation": "This requires tracing a single doctrinal requirement across three separate documents spanning eight years, including seeing how the same requirement functioned as supporting authority in two cases and as grounds for overruling in a third.",
+    "supporting_documents": [
+      "ferreira_v_ashworth_university_majority_2015.txt",
+      "castellano_v_ashworth_university_majority_2017.txt",
+      "harmon_v_ashworth_university_majority_2023.txt"
+    ],
+    "supporting_cases": [
+      "Castellano v. Ashworth University",
+      "Ferreira v. Ashworth University",
+      "Harmon v. Board of Trustees of Ashworth University"
+    ],
+    "supporting_citations": [
+      "601 U.S. 118 (2023)",
+      "779 F.3d 240 (2d Cir. 2015)",
+      "872 F.3d 1188 (10th Cir. 2017)"
+    ],
+    "expected_retrieval_count": 3,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q044",
+    "category": "Multi-hop Reasoning",
+    "difficulty": "Medium",
+    "question": "Compare how Nakamura v. Calloway State College (1991) and Voss v. Milford University (2003) each treated point-based or bonus admissions systems.",
+    "expected_answer": "Nakamura upheld a 150-point admissions index that assigned a fixed value to every factor, including a twenty-point racial bonus, reasoning that transparency and uniform fixed-value scoring made the system a permissible, non-mechanical form of individualized review. Voss, addressing a similar structure at a different university, reached the opposite conclusion: it held that an automatic racial bonus large enough to be outcome-determinative -- exceeding the points available for any other single factor -- is not narrowly tailored regardless of whether other factors also receive fixed values, and it overruled Nakamura to the extent inconsistent.",
+    "explanation": "Answering this requires reading both opinions' reasoning about point systems and recognizing that Voss's holding directly supersedes Nakamura's, which appears only in Voss's Discussion of Prior Cases section, not in Nakamura's own text.",
+    "supporting_documents": [
+      "nakamura_v_calloway_state_college_majority_1991.txt",
+      "voss_v_milford_university_majority_2003.txt"
+    ],
+    "supporting_cases": [
+      "Nakamura v. Calloway State College",
+      "Voss v. Milford University"
+    ],
+    "supporting_citations": [
+      "539 U.S. 344 (2003)",
+      "779 F. Supp. 2d 1042 (D. Fentress 1991)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q045",
+    "category": "Multi-hop Reasoning",
+    "difficulty": "Hard",
+    "question": "How did the treatment of essay-based consideration of race evolve from Odom v. Milford University (2019) through the Harmon II decision (2023) to the post-Harmon circuit split in Nguyen and Delacroix (2024)?",
+    "expected_answer": "Odom (2019) enjoined Milford's practice of awarding undefined 'additional favorable weight' to essays referencing racial identity, finding it functionally equivalent to the mechanical bonus struck down in Voss and unsupported by any Ferreira workability showing -- but left open whether a revised, genuinely individualized essay practice might be lawful. Milford revised its practice accordingly, but Harmon II (2023) held that even a genuinely individualized essay-reading practice remains unlawful if it considers an applicant's race as such, while Harmon's companion majority clarified that institutions may still consider how race affected an applicant's life. Applying that narrow clarification, the Fourth Circuit in Nguyen (2024) struck down a rubric that awarded credit merely for referencing racial identity, while the Ninth Circuit in Delacroix (2024) upheld guidance crediting race-related adversity on the same footing as other adversity, splitting over exactly how far Harmon's clarification reaches.",
+    "explanation": "This traces a single fact pattern (essay-based consideration of race) across four documents and two decades, showing how a question left open in one era's framework (individualized review) resurfaced as a live, unresolved question under an entirely different framework (Harmon's narrow essay carve-out).",
+    "supporting_documents": [
+      "odom_v_milford_university_majority_2019.txt",
+      "harmon_ii_v_trustees_of_milford_university_majority_2023.txt",
+      "nguyen_v_trent_institute_of_technology_majority_2024.txt",
+      "delacroix_v_westbrook_college_of_law_majority_2024.txt"
+    ],
+    "supporting_cases": [
+      "Delacroix v. Westbrook College of Law",
+      "Harmon v. Board of Trustees of Milford University",
+      "Nguyen v. Trent Institute of Technology",
+      "Odom v. Milford University"
+    ],
+    "supporting_citations": [
+      "101 F.4th 782 (9th Cir. 2024)",
+      "404 F. Supp. 3d 812 (D. Fentress 2019)",
+      "601 U.S. 155 (2023)",
+      "98 F.4th 214 (4th Cir. 2024)"
+    ],
+    "expected_retrieval_count": 4,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": true
+  },
+  {
+    "question_id": "Q046",
+    "category": "Multi-hop Reasoning",
+    "difficulty": "Medium",
+    "question": "What common pattern connects the fixed set-aside struck down in Delgado v. Trent Institute of Technology (1976) and the mechanical point bonus struck down in Voss v. Milford University (2003)?",
+    "expected_answer": "Both cases struck down admissions mechanisms that made race a decisive or separately administered criterion disconnected from individualized review of the whole applicant -- Delgado because the set-aside operated on a wholly separate review track with a fixed seat count, and Voss because the point bonus was awarded automatically based on group membership alone, without regard to the rest of the applicant's file. Both opinions treat this disconnection from individualized, whole-file review -- not the mere fact that race was considered -- as the constitutional defect, consistent with the individualized-review requirement running from Whitfield through Reyes.",
+    "explanation": "Identifying this pattern requires comparing the specific mechanisms and reasoning in two opinions decided nearly thirty years apart, neither of which cites the other.",
+    "supporting_documents": [
+      "delgado_v_trent_institute_of_technology_majority_1976.txt",
+      "voss_v_milford_university_majority_2003.txt"
+    ],
+    "supporting_cases": [
+      "Delgado v. Trent Institute of Technology",
+      "Voss v. Milford University"
+    ],
+    "supporting_citations": [
+      "538 F.2d 902 (3d Cir. 1976)",
+      "539 U.S. 344 (2003)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q047",
+    "category": "Multi-hop Reasoning",
+    "difficulty": "Hard",
+    "question": "Compare Justice Vance's dissents in Whitfield (1974) and Calloway (1986) with the majority opinion in Harmon (2023). How did the dissenting position become the law?",
+    "expected_answer": "In both Whitfield and Calloway, Justice Vance dissented on the ground that the Equal Protection Clause protects persons rather than groups and that no interest -- however sincerely pursued -- can justify sorting individual applicants by race, criticizing the diversity rationale as resting on impermissible group-based assumptions. Nearly fifty years later, the Harmon majority adopted this exact reasoning as the basis for overruling Whitfield and Calloway, explicitly stating that it 'finds persuasive the reasoning first offered in Justice Vance's dissents in Whitfield and Calloway.' What began as the minority view in two separate cases became the controlling majority rule.",
+    "explanation": "This requires reading two dissenting opinions from different decades alongside the Harmon majority's Discussion of Prior Cases section, which is the only place the corpus explicitly links Vance's reasoning to the eventual overruling.",
+    "supporting_documents": [
+      "whitfield_v_milford_university_dissent_1974.txt",
+      "calloway_v_ashworth_state_university_dissent_1986.txt",
+      "harmon_v_ashworth_university_majority_2023.txt"
+    ],
+    "supporting_cases": [
+      "Calloway v. Ashworth State University",
+      "Harmon v. Board of Trustees of Ashworth University",
+      "Whitfield v. Board of Regents of Milford University"
+    ],
+    "supporting_citations": [
+      "417 U.S. 226 (1974)",
+      "476 U.S. 512 (1986)",
+      "601 U.S. 118 (2023)"
+    ],
+    "expected_retrieval_count": 3,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q048",
+    "category": "Multi-hop Reasoning",
+    "difficulty": "Medium",
+    "question": "Based on Park v. Calloway State College (2025) and Odom v. Harwick College (2026), what pattern defines a permissible race-neutral admissions alternative after Harmon?",
+    "expected_answer": "Both cases uphold facially race-neutral criteria -- socioeconomic status in Park, and geographic origin/first-generation status in Odom -- despite evidence that each criterion correlates with race or was expected to have some incidental effect on racial diversity. Both courts hold that a facially neutral criterion becomes a racial classification only if it references race in its criteria or administration, or if there is evidence it was selected specifically because of its correlation with race rather than for independent, race-neutral reasons; correlation and institutional awareness of a likely diversity effect are not, by themselves, sufficient.",
+    "explanation": "Synthesizing this pattern requires comparing the reasoning of two separate district court opinions decided a year apart, applying the same underlying principle to different fact patterns.",
+    "supporting_documents": [
+      "park_v_calloway_state_college_majority_2025.txt",
+      "odom_v_harwick_college_majority_2026.txt"
+    ],
+    "supporting_cases": [
+      "Odom v. Harwick College",
+      "Park v. Calloway State College"
+    ],
+    "supporting_citations": [
+      "712 F. Supp. 3d 90 (D. Fentress 2025)",
+      "745 F. Supp. 3d 233 (D. Fentress 2026)"
+    ],
+    "expected_retrieval_count": 2,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q049",
+    "category": "Multi-hop Reasoning",
+    "difficulty": "Medium",
+    "question": "Trace Trent Institute of Technology's admissions litigation history across Delgado (1976), Prentiss (1994), Park v. Trent Institute of Technology (2009), and Nguyen (2024). What does this sequence show about the institution's compliance trajectory?",
+    "expected_answer": "In Delgado (1976), the Institute's fixed fifteen-seat set-aside was struck down as an unlawful quota. In Prentiss (1994), the Institute -- after adopting a revised holistic process -- was the site of the Fifth Circuit's rejection of the diversity rationale entirely, later disapproved by Reyes. In Park (2009), the Institute's admissions process, now incorporating file-specific documentation and periodic institutional review, was upheld as satisfying Reyes and Voss, contrasted explicitly with its own 1976 set-aside. In Nguyen (2024), after Harmon, the Institute's post-Harmon essay-scoring rubric was struck down for awarding credit based on the presence of racial content. The sequence shows the same institution's admissions practices repeatedly tested against, and adapted to, each successive doctrinal framework -- quota-era, diversity-rationale-era, and post-Harmon-era -- with mixed compliance results at each stage.",
+    "explanation": "This requires connecting four documents spanning 48 years that share an institution but arise under four different legal frameworks, none of which cross-reference all the others.",
+    "supporting_documents": [
+      "delgado_v_trent_institute_of_technology_majority_1976.txt",
+      "prentiss_v_trent_institute_of_technology_majority_1994.txt",
+      "park_v_trent_institute_of_technology_majority_2009.txt",
+      "nguyen_v_trent_institute_of_technology_majority_2024.txt"
+    ],
+    "supporting_cases": [
+      "Delgado v. Trent Institute of Technology",
+      "Nguyen v. Trent Institute of Technology",
+      "Park v. Trent Institute of Technology",
+      "Prentiss v. Trent Institute of Technology"
+    ],
+    "supporting_citations": [
+      "29 F.3d 771 (5th Cir. 1994)",
+      "538 F.2d 902 (3d Cir. 1976)",
+      "662 F. Supp. 2d 488 (D. Fentress 2009)",
+      "98 F.4th 214 (4th Cir. 2024)"
+    ],
+    "expected_retrieval_count": 4,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": false
+  },
+  {
+    "question_id": "Q050",
+    "category": "Multi-hop Reasoning",
+    "difficulty": "Medium",
+    "question": "Compare the federal guidance documents issued in 2004, 2011, and 2023 (the Joint Guidance, the DOJ rescission, and the post-Harmon Joint Guidance). How did federal agency guidance track judicial developments over this period?",
+    "expected_answer": "The 2004 Joint Guidance interpreted Reyes and Voss, telling institutions how to structure admissions after the Supreme Court resolved the 1990s circuit split. The 2011 DOJ guidance did not respond to any new court decision; it simply performed administrative housekeeping, formally rescinding older guidance (from 1979 and 1994) that had already been superseded by Reyes and Voss years earlier. The 2023 Joint Guidance then responded to Harmon by rescinding the 2004 Joint Guidance itself, along with the 2008 and 2016 guidance built on it, and instructing institutions that the entire prior framework -- individualized review, critical mass, workability showings -- no longer renders any race-conscious practice lawful. Together these documents show agency guidance consistently trailing, rather than driving, judicial doctrine.",
+    "explanation": "This requires comparing three guidance documents from three different points in the timeline and recognizing that they play structurally different roles (implementing a new standard, tidying up old guidance, and rescinding a whole framework) despite superficially similar formats.",
+    "supporting_documents": [
+      "doe_doj_joint_guidance_2004.txt",
+      "doj_guidance_2011.txt",
+      "doj_doe_joint_guidance_2023.txt"
+    ],
+    "supporting_cases": [
+      "Joint Guidance of the Departments of Education and Justice on Race-Conscious Admissions After Reyes and Voss",
+      "Joint Guidance of the Departments of Justice and Education on Admissions After Harmon",
+      "U.S. Department of Justice Guidance Rescinding Superseded Admissions Guidance"
+    ],
+    "supporting_citations": [
+      "DOE-DOJ Joint Guidance 2004-01",
+      "DOJ Guidance 2011-4",
+      "DOJ-DOE Joint Guidance 2023-02"
+    ],
+    "expected_retrieval_count": 3,
+    "requires_temporal_reasoning": true,
+    "requires_multi_hop_reasoning": true,
+    "contains_contradictory_evidence": false
+  }
+]
