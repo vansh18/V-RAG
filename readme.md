@@ -38,8 +38,6 @@ The goal is to generate an answer that can **withstand verification against the 
 
 [![V-RAG Demo](assets/1.png)](https://github.com/user-attachments/assets/60667c6f-2745-41f7-8c85-c952d2d248c9)
 
-The video demonstrates the end-to-end workflow, including retrieval, claim-level verification, investigation, revision, and final judgment.
-
 ---
 
 # The Problem
