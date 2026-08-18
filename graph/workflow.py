@@ -3,6 +3,9 @@ from langgraph.graph import StateGraph, START, END
 from graph.nodes import responder_node, prosecutor_node, investigation_node, judge_node
 from graph.routing import route_after_prosecutor
 from graph.routing import route_after_judge
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 graph = StateGraph(VRAGState)
