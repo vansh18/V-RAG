@@ -1,3 +1,4 @@
+import json
 import sys
 from pathlib import Path
 
@@ -20,6 +21,7 @@ if str(ROOT_DIR) not in sys.path:
 
 from graph.workflow import app
 from retrieval.retriever import retrieve
+from config import BASELINE_QUESTIONS_PATH
 
 
 # ============================================================
@@ -30,7 +32,7 @@ st.set_page_config(
     page_title="V-RAG",
     page_icon="§",
     layout="wide",
-    initial_sidebar_state="collapsed",
+    initial_sidebar_state="expanded",
 )
 
 
@@ -557,10 +559,148 @@ st.markdown(
         background: #20232C !important;
     }
 
+
+    /* ========================================================
+       SIDEBAR — SAMPLE QUESTIONS
+    ======================================================== */
+
+    section[data-testid="stSidebar"] {
+        background: #1B1E26;
+        border-right: 1px solid #2C3039;
+    }
+
+    section[data-testid="stSidebar"] .block-container {
+        padding-top: 2rem;
+    }
+
+    .sidebar-heading {
+        font-family: 'Source Serif 4', Georgia, serif;
+        font-size: 1.15rem;
+        font-weight: 700;
+        color: #F3F4F6;
+        margin-bottom: 0.2rem;
+    }
+
+    .sidebar-subheading {
+        color: #90959F;
+        font-size: 0.82rem;
+        margin-bottom: 1.1rem;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid #2C3039;
+    }
+
+    section[data-testid="stSidebar"] .stButton > button {
+        width: 100%;
+        text-align: left;
+        white-space: normal;
+        line-height: 1.35;
+        background: #20232C;
+        border: 1px solid #2C3039;
+        border-radius: 5px;
+        color: #C7CAD1;
+        font-size: 0.83rem;
+        font-weight: 400;
+        padding: 0.55rem 0.75rem;
+        min-height: 0;
+        margin-bottom: 0.5rem;
+    }
+
+    section[data-testid="stSidebar"] .stButton > button:hover {
+        border-color: #6FA0D6;
+        color: #E7E8EC;
+        background: #20232C;
+    }
+
+    .sidebar-question-meta {
+        font-family: 'IBM Plex Mono', monospace;
+        font-size: 0.66rem;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: #6B707B;
+        margin: 0.6rem 0 0.3rem 0.1rem;
+    }
+
     </style>
     """,
     unsafe_allow_html=True,
 )
+
+SAMPLE_QUESTION_IDS = [
+    "Q001",  # Fact Retrieval · Easy
+    "Q011",  # Legal Reasoning · Easy
+    "Q015",  # Legal Reasoning · Hard
+    "Q021",  # Temporal Reasoning · Easy
+    "Q025",  # Temporal Reasoning · Hard
+    "Q031",  # Contradiction/Verification · Medium
+    "Q041",  # Multi-hop Reasoning · Hard
+    "Q046",  # Multi-hop Reasoning · Medium
+]
+
+
+@st.cache_data
+def load_sample_questions():
+
+    if not BASELINE_QUESTIONS_PATH.exists():
+        return []
+
+    with open(BASELINE_QUESTIONS_PATH, "r", encoding="utf-8") as f:
+        all_questions = json.load(f)
+
+    by_id = {q["question_id"]: q for q in all_questions}
+
+    return [
+        by_id[qid]
+        for qid in SAMPLE_QUESTION_IDS
+        if qid in by_id
+    ]
+
+
+if "question_input" not in st.session_state:
+    st.session_state.question_input = ""
+
+with st.sidebar:
+
+    st.markdown(
+        '<div class="sidebar-heading">Sample Questions</div>'
+        '<div class="sidebar-subheading">'
+        "Click a question to load it into the input area."
+        "</div>",
+        unsafe_allow_html=True,
+    )
+
+    sample_questions = load_sample_questions()
+
+    if not sample_questions:
+
+        st.caption(
+            "baseline_questions.json not found. "
+            "Check QUESTIONS_PATH in streamlit_app.py."
+        )
+
+    else:
+
+        for q in sample_questions:
+
+            label = q["question"]
+
+            if len(label) > 90:
+                label = label[:87] + "..."
+
+            st.markdown(
+                f'<div class="sidebar-question-meta">'
+                f'{q["category"]} · {q["difficulty"]}'
+                f'</div>',
+                unsafe_allow_html=True,
+            )
+
+            if st.button(
+                label,
+                key=f"sample_{q['question_id']}",
+                use_container_width=True,
+            ):
+                st.session_state.question_input = q["question"]
+                st.rerun()
+
 
 def render_timeline(events, placeholder):
 
@@ -657,6 +797,7 @@ question = st.text_area(
     ),
     height=110,
     label_visibility="collapsed",
+    key="question_input",
 )
 
 run_button = st.button(
