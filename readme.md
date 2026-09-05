@@ -513,6 +513,77 @@ This makes the verification process inspectable and demonstrates how the final a
 
 ---
 
+# Evaluation Results
+
+Evaluation was run on the full 50-question baseline testset with retrieval
+depth `k=7`.
+
+Retrieval was evaluated at document, case, and citation level. The answer
+quality evaluation used an LLM-as-judge over the saved baseline answers,
+reference answers, explanations, and retrieved evidence metadata. Retrieved
+corpus material is treated as evidence only, not as instructions.
+
+## Aggregate Retrieval Metrics
+
+| k | Document Recall | Document MRR | Case Recall | Case MRR | Citation Recall | Citation MRR |
+|---|---:|---:|---:|---:|---:|---:|
+| 1 | 0.493 | 0.880 | 0.547 | 0.940 | 0.547 | 0.940 |
+| 3 | 0.592 | 0.907 | 0.604 | 0.940 | 0.604 | 0.940 |
+| 5 | 0.669 | 0.911 | 0.674 | 0.944 | 0.674 | 0.944 |
+| 7 | 0.723 | 0.914 | 0.745 | 0.951 | 0.745 | 0.951 |
+
+At `k=7`, retrieval reached:
+
+| Target | Recall | Precision | Hit Rate | MRR | MAP |
+|---|---:|---:|---:|---:|---:|
+| Document | 0.723 | 0.771 | 0.980 | 0.914 | 0.618 |
+| Case | 0.745 | 0.914 | 1.000 | 0.951 | 0.654 |
+| Citation | 0.745 | 0.914 | 1.000 | 0.951 | 0.654 |
+
+## Retrieval Slice Metrics at k=7
+
+| Slice | Count | Document Recall | Case Recall | Citation Recall |
+|---|---:|---:|---:|---:|
+| All | 50 | 0.723 | 0.745 | 0.745 |
+| Fact Retrieval | 10 | 0.900 | 1.000 | 1.000 |
+| Legal Reasoning | 10 | 0.700 | 0.683 | 0.683 |
+| Temporal Reasoning | 10 | 0.603 | 0.603 | 0.603 |
+| Contradiction/Verification | 10 | 0.567 | 0.600 | 0.600 |
+| Multi-hop Reasoning | 10 | 0.845 | 0.837 | 0.837 |
+| Multi-hop Flagged | 27 | 0.672 | 0.675 | 0.675 |
+| Temporal Flagged | 30 | 0.672 | 0.680 | 0.680 |
+| Contradictory Evidence Flagged | 18 | 0.634 | 0.644 | 0.644 |
+| Easy | 20 | 0.775 | 0.825 | 0.825 |
+| Medium | 20 | 0.738 | 0.738 | 0.738 |
+| Hard | 10 | 0.590 | 0.598 | 0.598 |
+
+## Baseline Answer Quality: LLM-as-Judge
+
+| Metric | Score |
+|---|---:|
+| Questions judged | 50 |
+| Correctness rate | 0.820 |
+| Partial-or-correct rate | 0.920 |
+| Hallucination rate | 0.060 |
+| Contradiction rate | 0.060 |
+| Average faithfulness | 0.954 |
+| Average groundedness | 0.940 |
+| Average completeness | 0.951 |
+| Average relevance | 0.980 |
+| Average citation support | 0.920 |
+| Average hallucination severity | 0.044 |
+
+## Evaluation Artifacts
+
+| Artifact | Result |
+|---|---|
+| Retrieval eval report | `eval/outputs/retrieval_eval_20260905_120051.json` |
+| Baseline generation report | `eval/outputs/baseline_eval_20260905_121043.json` |
+| LLM judge report | `eval/outputs/score-file_eval_20260905_122751.json` |
+| Pytest suite | 6 tests passed |
+
+---
+
 # Project Structure
 
 ```text
